@@ -1,0 +1,1 @@
+../sddatacoordinators/inventory/step1/datasources.md
