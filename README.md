@@ -1,4 +1,7 @@
 # Executive Summary
+
+"Getting the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution."
+
 ## Background
 The City of San Diego collects, produces, and stores an enormous amount of data. Some examples include:
 
@@ -20,7 +23,6 @@ Properly enhanced and managed, this information has the potential to be used to:
 
 It is the mission and commitment of the Performance & Analytics Department to shepherd this potential towards reality. 
 
-"Getting the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution."
 
 ## Benefits
 1. **Empower** people to build applications that help residents, start businesses around those applications, and contribute to the overall **economic development** of the city.
@@ -69,5 +71,6 @@ In the last 6 months, we have been able to begin addressing some of the core cha
 * Design a well-documented release and maintenance process that provides a release plan and accountability structure for every dataset that goes out.
 * Procure an Open Data portal for being able to automatically publish datasets. 
 * Exploring tools for automatically maintaining the inventory and doing additional data discovery.
+* Increase internal capacity for using data to make decisions.
 
 

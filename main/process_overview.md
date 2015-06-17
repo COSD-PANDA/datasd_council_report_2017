@@ -103,7 +103,6 @@ However, Google Drive not being standard city technology, we had a few hurdles t
 
 We worked closely with IT to derive a process that would mitigate these issues.  They were extremely responsive and helpful, and within almost no time at all, we were able to use Google Drive for the inventory with all the coordinators.
 
-
 By using this technology we were able to:
 * Automate creation of spreadsheets per department.
 * Maintain access control to all sheets while giving coordinators access only to theirs.
@@ -142,6 +141,7 @@ Pageviews per session, returning users, etc for the inventory documentation:
 ![gashot](http://take.ms/xpqQr)
 
 #### Compiling
+
 For compiling the inventory, there is an R script that pulls data from all Google Spreadsheets, aggregates them and analyses them.  The most important thing about the inventory is that it can be updated and not be out of date, because all the processes are automated. 
 
 

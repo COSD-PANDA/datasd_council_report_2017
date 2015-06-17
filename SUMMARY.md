@@ -2,10 +2,13 @@
 * [Executive Summary](README.md)
 * [Inventory Process Overview](main/process_overview.md)
 * [Inventory Findings](main/inventory_findings.md)
+* [Lessons learned](main/lessons_learned.md)
+* [Outstanding Departments](main/stars.md)
+* [Acknowledgements](main/acknowledgements.md)
+* [Next Steps](main/next_steps.md)
+* [Other Accomplishments](main/other_accomplishments.md)
 * [Appendices](appendix/datasources.md)
     - [Datasources](appendix/datasources.md)
     - [Brainstorm Guide](appendix/datasources.md)
     - [Definitions](appendix/definitions.md)
-* [Lessons learned]
-* [Acknowledgements]
 * [GLOSSARY](glossary.md)
