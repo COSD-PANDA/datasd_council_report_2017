@@ -7,6 +7,7 @@
 * [Acknowledgements](main/acknowledgements.md)
 * [Next Steps](main/next_steps.md)
 * [Other Accomplishments](main/other_accomplishments.md)
+* [Community Involvement](main/community.md)
 * [Appendices](appendix/datasources.md)
     - [Datasources](appendix/datasources.md)
     - [Brainstorm Guide](appendix/datasources.md)

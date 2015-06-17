@@ -64,7 +64,6 @@ In the last 6 months, we have been able to begin addressing some of the core cha
 + We are beginning to engage much more with the community of civic hackers and other people interested in the space.  In addition, the City of San Diego participated in the National Day of Civic Hacking by hosting three events over the weekend.  
 
 
-
 ## Where we are going.
 * Perform a thorough analysis of the inventory.
 * Based on the prioritization criteria, get data ready for release.
