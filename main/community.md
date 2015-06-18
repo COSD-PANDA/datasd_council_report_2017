@@ -6,3 +6,6 @@ In the past six months, [Open San Diego](http://opensandiego.org/) has accelerat
 They held 3 simultaneous events this year for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and others from the community got involved.  
 
 We even had some [18f People Show Up](https://18f.gsa.gov/2015/06/11/18f-at-national-civic-hacking-day/)
+
+## Cyberhive 
+CyberHive is a local startup incubator / accelerator.  

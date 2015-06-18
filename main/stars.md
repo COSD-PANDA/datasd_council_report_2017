@@ -17,4 +17,4 @@ In no particular order:
 * Performance and Analytics
 * Planning
 * Public Utilities
-* Transportation and Storm Water.
+* Transportation and Storm Water

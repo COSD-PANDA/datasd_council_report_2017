@@ -35,8 +35,8 @@ It is the mission and commitment of the Performance & Analytics Department to sh
 ## Challenges
 1. There are varying levels of understanding on what is considered to be data and open data.
 2. We don’t know what data we have, how they’re stored and used.
-3. There is no formal governance structure, and no defined responsibilities for the data we have.
-4. The data are closed. It is trapped in proprietary formats and databases that can only be read by expensive proprietary software.
+3. There is no formal governance structure, and no defined responsibilities for the data we have, but we do have processes in place that can be formalized.
+4. The data are closed. They are trapped in proprietary formats and databases that can only be read by expensive proprietary software.
 5. The data sets are not described well and are subject to misinterpretation. 
 6. Data creation, management and analysis efforts are often duplicated by multiple departments, oftentimes creating segmented data stores and unreliable data.
 7. The right people, with the right skills often don’t have access to the right data at the right time to inform the right data-driven decisions and solve the right problems.
