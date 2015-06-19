@@ -1,7 +1,7 @@
 # Inventory 
 
 ## Note of Acknowledgement.
-The base structure for the process was very much inspired by that of San Francisco's inventory, and it's important to acknowledge the wonderful work Joy Bonaguro, the CDO of San Francisco did in creating this process. 
+The base structure for the process was very much inspired by that of San Francisco's inventory, and it's important to acknowledge the wonderful work Joy Bonaguro, the CDO of San Francisco did in creating this process. A blog post about the process can be seen at the [DataSF Blog](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)
 
 ## Purpose
 The purpose of the Data Inventory is to get a bird's eye view of data we have in the city and to assist stakeholders like the Mayor, Council, the public to be able to identify data sets they consider high value for publication. However, the inventory process was designed to have the following additional benefits:
@@ -141,8 +141,14 @@ Pageviews per session, returning users, etc for the inventory documentation:
 ![gashot](http://take.ms/xpqQr)
 
 #### Compiling
+Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all Google Spreadsheets, aggregates and cleans the data.  In order for the inventory to be effective, it must be continously updated, and these tools allow us to do so.
 
-For compiling the inventory, there is an R script that pulls data from all Google Spreadsheets, aggregates them and analyses them.  The most important thing about the inventory is that it can be updated and not be out of date, because all the processes are automated. 
+#### Additional Sources
+In addition to the human generated inventory, we have worked closely with IT to use any technological data collection methods that are available.  The sources that supplement the inventory are as follows.  They will be used to verify and augment the inventory data to the extent possible:
+
+* List of GIS Data.
+* List of Business Warehouse Reports
+* List of Data provided by CGI
 
 
 
