@@ -1,5 +1,6 @@
 # Summary
-* [Executive Summary](README.md)
+* [About This Report](README.md)
+* [Executive Summary](main/exec_summary.md)
 * [Inventory Process Overview](main/process_overview.md)
 * [Inventory Findings](main/inventory_findings.md)
 * [Lessons learned](main/lessons_learned.md)
