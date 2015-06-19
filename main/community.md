@@ -13,6 +13,8 @@ In order to build proper context between the community and city employees, I hav
 * Maksim Pecherskiy (CDO)
 * DeeDee Alari, Jonathan Carey, Mary Davis (City Treasurer)
 
+![City Clerk](http://mrm-random.s3.amazonaws.com/dz/2015-05-19%2018.03.23.jpg)
+
 In addition, many other city employees have become regular attendees of Open San Diego Meetings and are actively working on civic hacking projects.
 
 They held 3 simultaneous events this year for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and others from the community got involved.  
