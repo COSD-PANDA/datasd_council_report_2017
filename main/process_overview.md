@@ -109,7 +109,7 @@ By using this technology we were able to:
 * Push changes to all the department spreadsheets by writing code and running it once, allowing us to quickly adjust to feedback.
 * Allowing people to edit their inventory documents simultaneously
 * Aggregating and tracking progress for all departments in one place.
-* Work with our constraints and empasize the efficiencies we needed.
+* Work with our constraints and emphasize the efficiencies we needed.
 
 The control code, while not the most beautiful, is available on [github](https://gist.github.com/MrMaksimize/95ea360c79293fa8c1e8)
 
@@ -123,7 +123,7 @@ However, the department coordinators did not need something as in depth, so they
 #### Dissemination of information.
 This was probably the most challenging part of the inventory.  Departments around the city are so different, with different people and diverse cultures.  They need to be communicated to in their way, on their level.  We chose a technology that would allow us to continously update our documentation on the fly as needed, and analyze how well our documentation was working. 
 
-One of the points we wanted to emphathize was that all information should be available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook which is an open source publishing workflow system.  The data coordinators handbook can be seen online: [Data Coordinators Handbook](http://sddc.herokuapp.com/).  
+One of the points we wanted to emphasize was that all information should be available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook which is an open source publishing workflow system.  The data coordinators handbook can be seen online: [Data Coordinators Handbook](http://sddc.herokuapp.com/).  
 
 This allowed us to continously incorporate feedback and update the instructions without having to re-email them out to people.
 
