@@ -1,7 +1,10 @@
 # Community Involvement
 
+## Purpose
+From the very beginning, it was evident that in order for open data to be successful within the city, there had to be a community outreach component.  That component began with Open San Diego, working closely with Code for America. 
+
 ## Open San Diego
-In the past six months, [Open San Diego](http://opensandiego.org/) has accelerated their activities, and are now a regular meetup group who I work with on a regular basis.  They have several [ongoing projects](https://github.com/opensandiego) and are working with other communities to increase membership and civic engagement with data.
+In the past six months, [Open San Diego](http://opensandiego.org/), led by Xavier Leonard, has accelerated their activities, and are now a regular meetup group who I work with on a regular basis.  They have several [ongoing projects](https://github.com/opensandiego) and are working with other communities to increase membership and civic engagement with data.
 
 In order to build proper context between the community and city employees, I have been asking various city employees to come and present at Open San Diego.  This has truly flourished the relationship between the city and the civic hacking community and has been a great endeavour so far.  The following people have spoken at Open San Diego:
 

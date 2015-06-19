@@ -113,6 +113,10 @@ By using this technology we were able to:
 
 The control code, while not the most beautiful, is available on [github](https://gist.github.com/MrMaksimize/95ea360c79293fa8c1e8)
 
+Allowing technology not to be a roadblock gave us a lot of flexibility.  Some comments we received from coordinators:
+
+    "Thank you for being patient and going with the flow in terms of our workloads at our departments."
+
 #### Reporting
 In order to make sure that the CDO is not a bottleneck and we had continous reporting, all the reporting was aggregated up to a central dashboard.  Therefore, we were able to track progress for all departments simultaneously:
 ![CDO Dashboard](http://take.ms/BGPG1).  
@@ -149,6 +153,7 @@ In addition to the human generated inventory, we have worked closely with IT to 
 * List of GIS Data.
 * List of Business Warehouse Reports
 * List of Data provided by CGI
+* Automated scanning of sandiego.gov for potential datasets.
 
 
 
