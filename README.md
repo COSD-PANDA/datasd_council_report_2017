@@ -65,11 +65,12 @@ In the last 6 months, we have been able to begin addressing some of the core cha
 
 
 ## Where we are going.
-* Perform a thorough analysis of the inventory.
-* Based on the prioritization criteria, get data ready for release.
-* Design a well-documented release and maintenance process that provides a release plan and accountability structure for every dataset that goes out.
-* Procure an Open Data portal for being able to automatically publish datasets. 
-* Exploring tools for automatically maintaining the inventory and doing additional data discovery.
-* Increase internal capacity for using data to make decisions.
+* Perform a thourough analysis of inventory data.
+* Procure an Open Data Portal.
+* Make the inventory process more efficient.
+* Continue to provide context to city data and engage with the community.
+* Continue education iniatives.
+* Continue refinement of technical guidelines.
+* Data prioritization.
 
 
