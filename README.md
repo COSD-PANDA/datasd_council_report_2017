@@ -72,5 +72,6 @@ In the last 6 months, we have been able to begin addressing some of the core cha
 * Continue education iniatives.
 * Continue refinement of technical guidelines.
 * Data prioritization.
+* We are still on track to release data by July 1, 2016.
 
 
