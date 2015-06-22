@@ -46,6 +46,8 @@ In no particular order:
 
 # Additional Acknowledgements
 * Joy Bonaguro (CDO of San Francisco)
+    - Joy was instrumental in helping to plan the inventory process and is an amazing person to work with. 
 * Allen Gunn 
+    - The communication advice I have received from Allen has been invaluable.
 
 
