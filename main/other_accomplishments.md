@@ -9,6 +9,6 @@ We are one of the few cities that were able to launch it under a subdomain of sa
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
 ## City Clerk
-Although not live yet, we were able to repurpose the coordinator dashboard code for the City Clerk to use.  
+Although not live yet, we were able to repurpose the coordinator dashboard code for the City Clerk to use potentially to keep track of Records Disposition Schedules.
 
 ![cdash](http://take.ms/2u2QS)

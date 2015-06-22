@@ -1,8 +1,5 @@
 # Inventory 
 
-## Note of Acknowledgement.
-The base structure for the process was very much inspired by that of San Francisco's inventory, and it's important to acknowledge the wonderful work Joy Bonaguro, the CDO of San Francisco did in creating this process. A blog post about the process can be seen at the [DataSF Blog](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)
-
 ## Purpose
 The purpose of the Data Inventory is to get a bird's eye view of data we have in the city and to assist stakeholders--such as the Mayor, the Council, and the public--to be able to identify data sets they consider high value for publication. However, the inventory process was designed to have the following additional benefits:
 
@@ -14,7 +11,7 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 
 ## Process Overview
 
-To view the entire guide, please visit the [Data Coordinators Handbook](http://sddc.herokuapp.com/)
+## Put something else here
 
 The first part of the inventory was to assign information coordinators from each department to work with the Chief Data Officer.  Several larger departments chose to assign multiple coordinators, as these people knew their divisions best.  However, most departments assigned a single point of contact to work with the CDO.  It was important for information coordinators to be knowledgeable in the business level of how the department operates, since they would oftentimes need to make decisions based on that knowledge.
 
@@ -150,10 +147,10 @@ Compilation and reporting of the inventory data across the department spreadshee
 #### Additional Sources
 In addition to the human generated inventory, we have worked closely with IT to use any technological data collection methods that are available.  The sources that supplement the inventory are as follows.  They will be used to verify and augment the inventory data to the extent possible:
 
-* List of GIS Data.
+* List of GIS Data
 * List of Business Warehouse Reports
 * List of Data provided by CGI
-* Automated scanning of sandiego.gov for potential datasets.
+* Automated scanning of sandiego.gov for potential datasets
 
 
 

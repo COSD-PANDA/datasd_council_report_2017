@@ -6,8 +6,8 @@
 * We have departments that do double the work to measure the same thing.
 
 
-# Some Feedback Received from Information Coordinators.
-* We have not selected useful or relevant performance metrics.
+# Some Feedback Received from Information Coordinators. -- make it sound more positive.
+* My department ... selected useful or relevant performance metrics.
 * The data we have collected is largely unusable because it cannot be validated.
 * We have been doing a lot of work/spending a lot of money for insignificant measurable effect or insignificant recognition of the effect - each option is bad. In other words, we most likely have been focused on the wrong things and this inspires me to ask WHY? And that inquiry takes me down some very interesting roads to possible answers.
 * This exercise leads me to believe that our department is unclear on its priorities or can't agree on its priorities or has not recently examined its priorities.
