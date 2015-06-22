@@ -10,11 +10,11 @@ Since it is difficult for most people to understand data when it is provided in 
 The first parts of the inventory are great, however there is still a lot more work to do.  For the initial run, human input is indispensable, but as we continue along the path of treating our data as a valued asset, it's important to recognize the limits of human abilities to keep the inventory up to date.  We are exploring options for making sure that we are able to contextualize the data and maintain the inventory with smaller levels of human involvement.
 
 #### Continue to provide context to city data and engage with the community.
-Our community efforts are off to a great start, but there is always more to be done.  We are planning to continue the current path we have of community outreach and of finding new ways of contextualizing city data, so it can be consumed in a more intelligent way by more people.
+Our community efforts are off to a great start, but there is always more to be done.  We are planning to continue our current path of community outreach, as well as finding new ways of contextualizing city data, so that it can be consumed in a more intelligent way by more people.
 
 
-#### Continue education iniatives.
-We plan to continue our efforts of making sure everyone in the city has a shared understanding of the meaning of data and its potential uses.  Through our department's other initiatives such as the Strategic Planning program, we are hoping to have begin departments using their open data for a strategic purpose.  We are expecting this will drive us towards being more data-driven in our decision making processes.
+#### Continue education initiatives.
+We plan to continue our efforts of making sure everyone in the city has a shared understanding of the meaning of data and its potential uses.  Through our department's other initiatives, such as the Strategic Planning program, we are hoping to have more departments using their open data for a strategic purpose.  We are expecting this will drive us towards being more data-driven in our decision making processes.
 
 #### Continue refinement of technical guidelines.
 Technical guidelines are designed to operate as a living document and will continue to be adjusted as we move along in the process of publishing data.  A key component of the technical guidelines will be a well designed release and management process that will make sure that any data released to the portal continues to stay up to date.  In addition, we will most likely be refining the metadata schema, data licensing guidelines, data categorization and data release and maintenance processes.  

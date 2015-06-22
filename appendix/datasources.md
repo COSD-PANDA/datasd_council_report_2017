@@ -21,7 +21,7 @@ In order to help you identify some datasources, use this list of helper question
 * Do you use Excel Spreadsheets or Access Databases to hold any information? 
 
 
-## Do I have to list every information system my department uses.
+## Do I have to list every information system my department uses?
 While ideally we would prefer to know every system you use that stores data, we recognize it may be overwhelming and cause an extra burden for some departments to list every single piece of software they use that stores data.  In those situations, we are asking you to use your judgement -- if this is something that gets PRA'd or something that holds information you think may be useful to someone in another department please put that system in as a ***datasource***.
 
 ## Do I have to list every Spreadsheet / Access DB?
@@ -60,7 +60,7 @@ If there's a report that you run from another system that ends up being put into
 
 ## RollUp Reports
 If there's a report that you periodically prepare for another department (for example budget reports per department that roll up to a budget report compiled by FM), you do NOT need to identify that spreadsheet as a ***datasource*** or a ***dataset***.  However, we are asking you to use your judgement here -- if this is something that gets PRA'd and your department (as opposed to 
-FM in this example) compiles the response to the PRA or something that you think may be useful to someone in another department that is not receiving the report, please put that in as a ***dataset*** and the system where it comes from as a ***datasource***.
+FM in this example) compiles the response to the PRA, or if this is something that you think may be useful to someone in another department that is not receiving the report, please put that in as a ***dataset*** and the system where it comes from as a ***datasource***.
 
 ## Judgement Calls
-There are some judgment calls required here and we will follow-up with you before reporting a status update on our inventory efforts if it appears your submittal included too much or too little information.
+There are some judgment calls required here, and if it appears your submission included too much or too little information, we will follow-up with you before reporting a status update on our inventory efforts.

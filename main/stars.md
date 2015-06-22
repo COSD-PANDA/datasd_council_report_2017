@@ -1,5 +1,5 @@
 # Outstanding Departments
-This was not an easy process and was probably slightly different than what most people in the city are used to.  All the departments did an amazing job on the inventory, but there are some departments (and their coordinators) that I want to thank especially.  
+This proved to be not an easy process and was most likely different than what most people employed by the city are used to.  All the departments did an amazing job on the inventory, but there are some departments (and their coordinators) that I want to thank especially.  
 
 They provided feedback and assistance above what was expected, and helped to shape and create the inventory process. This is not based on an evaluation of how many datasets were submitted, but rather on their active involvement in the process and constructive criticism and feedback provided.
 

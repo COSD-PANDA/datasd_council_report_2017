@@ -4,7 +4,7 @@
 The base structure for the process was very much inspired by that of San Francisco's inventory, and it's important to acknowledge the wonderful work Joy Bonaguro, the CDO of San Francisco did in creating this process. A blog post about the process can be seen at the [DataSF Blog](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)
 
 ## Purpose
-The purpose of the Data Inventory is to get a bird's eye view of data we have in the city and to assist stakeholders like the Mayor, Council, the public to be able to identify data sets they consider high value for publication. However, the inventory process was designed to have the following additional benefits:
+The purpose of the Data Inventory is to get a bird's eye view of data we have in the city and to assist stakeholders--such as the Mayor, the Council, and the public--to be able to identify data sets they consider high value for publication. However, the inventory process was designed to have the following additional benefits:
 
 * Begin to create a base level of metadata for our city's data.
 * Begin to identify people currently working with and managing data.
@@ -16,16 +16,16 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 
 To view the entire guide, please visit the [Data Coordinators Handbook](http://sddc.herokuapp.com/)
 
-The first part of the inventory was to assign information coordinators from each department to work with the Chief Data Officer.  Several larger departments chose to assign multiple coordinators since these people knew their divisions best.  However, most departments assigned a single point of contact to work with the CDO.  It was important for information coordinators to be knowledgeable in the business level of how the department operates, since they would oftentimes need to make decisions based on that knowledge.
+The first part of the inventory was to assign information coordinators from each department to work with the Chief Data Officer.  Several larger departments chose to assign multiple coordinators, as these people knew their divisions best.  However, most departments assigned a single point of contact to work with the CDO.  It was important for information coordinators to be knowledgeable in the business level of how the department operates, since they would oftentimes need to make decisions based on that knowledge.
 
 There were a total of 35 departments in the inventory, and a total of 65 coordinators.  
 
 The inventory process was designed with the following constraints in mind:
 
-* The information coordinators' time must be used as efficiently as possible, because they have other jobs.
-* Coordinators do not have a high level of technical knowledge.
+* The information coordinators' time must be used as efficiently as possible, as the process was not their primary responsibility.
+* Coordinators do not have a high level of technical knowledge-rather, a high level of business knowledge.
 * Execution time frame is only three months.
-* Coordinators do not have the same base level of understanding what "data" is.
+* Coordinators do not have the same base level of understanding of what is "data".
 
 Consequently, we emphasized the following:
 
@@ -71,10 +71,10 @@ In addition to identifying datasources, they were asked to identify:
 #### Step 2
 In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data is stored within the data sources.  
 
-We quickly discovered that different departments have very different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators as many ways as possible to come up with datasets.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html)
+We quickly discovered that different departments have very different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html)
 
 #### Step 3
-In Step 3, we wanted to collect the minimum of information needed to get the gist of what the dataset was, and to prioritize it.  We asked for the following indicators:
+In Step 3, we wanted to collect the minimum amount of information needed to get the gist of what the dataset was, and to prioritize it.  We asked for the following indicators:
 * Brief description of data   
 * Frequency of data change    
 * Format  
@@ -96,7 +96,7 @@ Technology was a very necessary factor in being able to accomplish the inventory
 
 Our choice was to use Google Drive for its ability to operate across multiple sheets, its scripting capabilities, and for its ability to be continously edited by multiple people all the time.  
 
-However, Google Drive not being standard city technology, we had a few hurdles to clear:
+However, as Google Drive was not considered standard city technology, we had a few hurdles to clear:
 
 * The default browser on most machines has bugs when working with Google Drive
 * There were concerns about maintaining proper access controls.  
@@ -125,7 +125,7 @@ However, the department coordinators did not need something as in depth, so they
 ![deptdash](http://take.ms/fxSR6)
 
 #### Dissemination of information.
-This was probably the most challenging part of the inventory.  Departments around the city are so different, with different people and diverse cultures.  They need to be communicated to in their way, on their level.  We chose a technology that would allow us to continously update our documentation on the fly as needed, and analyze how well our documentation was working. 
+This was probably the most challenging part of the inventory.  Departments around the city are vastly different, with different people and diverse cultures.  They need to be communicated to in their way, on their level.  We chose a technology that would allow us to continously update our documentation on the fly as needed, and analyze how well our documentation was working. 
 
 One of the points we wanted to emphasize was that all information should be available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook which is an open source publishing workflow system.  The data coordinators handbook can be seen online: [Data Coordinators Handbook](http://sddc.herokuapp.com/).  
 
