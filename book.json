@@ -1,0 +1,17 @@
+{
+    "links": {
+        "sharing": {
+          "all": false,
+          "twitter": false,
+          "facebook": false,
+          "google": false,
+          "weibo": false
+        }
+    },
+    "plugins" : ["ga" ],
+    "pluginsConfig": {
+      "ga": {
+        "token": "UA-57709205-6"
+      }
+    }
+}
