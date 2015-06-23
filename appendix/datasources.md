@@ -56,7 +56,7 @@ This is not an exhaustive list of attributes that would make a spreadsheet a dat
 * Reference data (data and provides reference to another data set.)
 
 ### Spreadsheets that are extracted from another system.
-If there's a report that you run from another system that ends up being put into a spreadsheet, that spreadsheet is ***not*** a ***datasource***.  However, please include that spreadsheet as a ***dataset*** in Step 2 (Sheet #2 in the Google Doc).  
+If there's a report that you run from another system that ends up being put into a spreadsheet, that spreadsheet is ***not*** a ***datasource***.  However, please include that spreadsheet as a ***dataset*** in Step 2 (Sheet #2 in the Spreadsheet).  
 
 ## RollUp Reports
 If there's a report that you periodically prepare for another department (for example budget reports per department that roll up to a budget report compiled by FM), you do NOT need to identify that spreadsheet as a ***datasource*** or a ***dataset***.  However, we are asking you to use your judgement here -- if this is something that gets PRA'd and your department (as opposed to 

@@ -47,7 +47,7 @@ The inventory is broken down into three steps, with coordinators given one month
 
 ![Inv One Pager](http://take.ms/lv7da)
 
-Each department is giving a Google Drive spreadsheet to fill out with all the steps and explanations built into the sheet.  
+Each department is given a spreadsheet to fill out with all the steps and explanations built into the sheet.  
 
 #### Step 1
 For Step 1, coordinators were asked to identify any authoritative data sources their department uses.  We identified a data source as any system that stores the primary version of data.  For example:
@@ -91,16 +91,9 @@ Despite the fact that this is not a complete set of metadata, and doesn't confor
 #### Inventory Sheets
 Technology was a very necessary factor in being able to accomplish the inventory in the timeframe given, and also make sure that we were able to overcome roadblocks and achieve our goals.  
 
-Our choice was to use Google Drive for its ability to operate across multiple sheets, its scripting capabilities, and for its ability to be continously edited by multiple people all the time.  
+We worked closely with IT to derive a process that would allow for the use of technology which met our needs.  They were extremely responsive and helpful, and within almost no time at all, we were good to go and using the tools that were crucial.
 
-However, as Google Drive was not considered standard city technology, we had a few hurdles to clear:
-
-* The default browser on most machines has bugs when working with Google Drive
-* There were concerns about maintaining proper access controls.  
-
-We worked closely with IT to derive a process that would mitigate these issues.  They were extremely responsive and helpful, and within almost no time at all, we were able to use Google Drive for the inventory with all the coordinators.
-
-By using this technology we were able to:
+We were able to:
 * Automate creation of spreadsheets per department.
 * Maintain access control to all sheets while giving coordinators access only to theirs.
 * Push changes to all the department spreadsheets by writing code and running it once, allowing us to quickly adjust to feedback.
@@ -108,7 +101,7 @@ By using this technology we were able to:
 * Aggregating and tracking progress for all departments in one place.
 * Work with our constraints and emphasize the efficiencies we needed.
 
-The control code, while not the most beautiful, is available on [github](https://gist.github.com/MrMaksimize/95ea360c79293fa8c1e8)
+The control code, while not the most beautiful, is available on [github](https://gist.github.com/MrMaksimize/95ea360c79293fa8c1e8), 
 
 Allowing technology not to be a roadblock gave us a lot of flexibility.  Some comments we received from coordinators:
 
@@ -142,7 +135,7 @@ Pageviews per session, returning users, etc for the inventory documentation:
 ![gashot](http://take.ms/xpqQr)
 
 #### Compiling
-Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all Google Spreadsheets, aggregates and cleans the data.  In order for the inventory to be effective, it must be continously updated, and these tools allow us to do so.
+Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all spreadsheets, aggregates and cleans the data.  In order for the inventory to be effective, it must be continously updated, and these tools allow us to do so.
 
 #### Additional Sources
 In addition to the human generated inventory, we have worked closely with IT to use any technological data collection methods that are available.  The sources that supplement the inventory are as follows.  They will be used to verify and augment the inventory data to the extent possible:
