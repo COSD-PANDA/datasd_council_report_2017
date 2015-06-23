@@ -33,22 +33,24 @@ It is the mission and commitment of the Performance & Analytics Department to sh
 
 
 ## Challenges
-1. There are varying levels of understanding on what is considered to be data and open data.
-2. We don’t know what data we have, how they’re stored and used.
-3. There is no formal governance structure, and no defined responsibilities for the data we have, but we do have processes in place that can be formalized.
-4. The data are closed. They are trapped in proprietary formats and databases that can only be read by expensive proprietary software.
-5. The data sets are not described well and are subject to misinterpretation. 
-6. Data creation, management and analysis efforts are often duplicated by multiple departments, oftentimes creating segmented data stores and unreliable data.
-7. The right people, with the right skills often don’t have access to the right data at the right time to inform the right data-driven decisions and solve the right problems.
+1. There are varying levels of understanding on what is considered to be data and open data.  
+2. There is no formal governance structure, and no defined responsibilities for the data we have, but we do have processes in place that can be formalized.
+3. The data are closed. They are trapped in proprietary formats and databases that can only be read by expensive proprietary software.  They are not described well, creating space for misinterpretation.
+4. We don’t know what data we have, how they’re stored and used.
+5. Data creation, management and analysis efforts are often duplicated by multiple departments.
+
 
 ## Goals
-1. Create a shared understanding within the city of what “data” and “open data” means.
-2. Collaborate with all City departments to create an initial inventory.
-3. Work with departments to create a structure by which there are responsibilities assigned for data oversight, and data is owned and updated.
-4. Provide a process to release data in widely accessible, open formats which can be interpreted by a multitude of applications.
-5. Collect, update, and provide metadata in a standardized format, and work to attribute meaning to the data.
-6. Foster and expand interest in government data by various citizen groups including, but not limited to software developers, nonprofits, activist groups, elected officials, etc.
-7. Empower the right people, with the right skills to have access to the right data at the right time, in the right way, to make the right decisions and to create the right solutions.
+1. Increase data literacy within the city and outside of it.
+    * There are various levels of understanding of what is data, metadata, open data, etc.
+2. Manage data like an asset, formalizing existing oversight and ownership.
+    * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program.
+3. Release data to the public via a strategic and predictable process.
+    * The process of data release should be predictable and strategically thought out from multiple perspectives, including communications and sustainability.  In addition, data released should be described and formatted in a specific way that meets the open standard specifications.
+4. Make sure that data is well described and catalogued.
+    * Understanding what data we have is crucial to both open data and data management.  Work with departments to create an initial inventory, and provide processes for how it can stay up to date.  In addition, provide robust metadata.
+5. Support increased use of data in decision making as well as innovations in open data use.
+    * We have a lot of talented people in the city who make data-driven decisions every day.  In addition, fostering and expanding interest in government data from citizens is crucial to a successful open data program.
 
 ## Where we are today.
 In the last 6 months, we have been able to begin addressing some of the core challenges we have identified and having progress on our goals.  
