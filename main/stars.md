@@ -1,9 +1,7 @@
 # Outstanding Departments
-This proved to be not an easy process and was most likely different than what most people employed by the city are used to.  All the departments did an amazing job on the inventory, but there are some departments (and their coordinators) that I want to thank especially.  
+This is not an easy process and different from what most City staff do day-to-day.  All the departments did an amazing job on the inventory, but there are some departments (and coordinators) that I want to especially thank.  
 
-They provided feedback and assistance above what was expected, and helped to shape and create the inventory process. This is not based on an evaluation of how many datasets were submitted, but rather on their active involvement in the process and constructive criticism and feedback provided.
-
-I truly thank them for their continued assistance and efforts.
+They provided constructive feedback and exceptional assistance, helping to shape the inventory process. This is not based on the number of datasets each submitted, but rather on their active involvement in the process.
 
 In no particular order:
 
@@ -28,7 +26,7 @@ In no particular order:
     - Ben Battaglia
 * Fire-Rescue Department
     - Ken Barnes
-* Parks and Recreation
+* Park and Recreation
     - Andrew Field
 * Performance and Analytics
     - Almis Udrys
@@ -46,8 +44,8 @@ In no particular order:
 
 # Additional Acknowledgements
 * Joy Bonaguro (CDO of San Francisco)
-    - Joy was instrumental in helping to plan the basics of the inventory process and is a pleasure to work with. 
+    - Joy is a pleasure to collaborate with and was instrumental in helping plan the basics of the inventory process she is now implementing in her city upon which I modeled our City's process. 
 * Allen Gunn 
-    - The communication advice I have received from Allen has been invaluable and has led down the path of better communication with the information coordinators.
+    - The advice I have received from Allen [insert "former...." his title] has been invaluable and has led down the path of better communication with the information coordinators.
 
 
