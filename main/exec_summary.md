@@ -35,7 +35,7 @@ For additional background and history of the Open Data Program in the City, plea
 
 
 ## Challenges
-1. There are varying levels of understanding on what is considered to be data and open data.  
+1. There are varying levels of understanding on what is considered to be data and Open Data.  
 2. There is no formal governance structure, and no defined responsibilities for the data we have, but we do have processes in place that can be formalized.
 3. The data are closed. They are trapped in proprietary formats and databases that can only be read by expensive proprietary software.  They are not described well, creating space for misinterpretation.
 4. We don’t know what data we have, how they’re stored and used.
@@ -44,15 +44,15 @@ For additional background and history of the Open Data Program in the City, plea
 
 ## Goals
 1. Increase data literacy within the city and outside of it.
-    * There are various levels of understanding of what is data, metadata, open data, etc.
+    * There are various levels of understanding of what is data, metadata, Open Data, etc.
 2. Manage data like an asset, formalizing existing oversight and ownership.
     * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program.
 3. Release data to the public via a strategic and predictable process.
     * The process of data release should be predictable and strategically thought out from multiple perspectives, including communications and sustainability.  In addition, data released should be described and formatted in a specific way that meets the open standard specifications.
 4. Make sure that data is well described and catalogued.
-    * Understanding what data we have is crucial to both open data and data management.  Work with departments to create an initial inventory, and provide processes for how it can stay up to date.  In addition, provide robust metadata.
-5. Support increased use of data in decision making as well as innovations in open data use.
-    * We have a lot of talented people in the city who make data-driven decisions every day.  In addition, fostering and expanding interest in government data from citizens is crucial to a successful open data program.
+    * Understanding what data we have is crucial to both Open Data and data management.  Work with departments to create an initial inventory, and provide processes for how it can stay up to date.  In addition, provide robust metadata.
+5. Support increased use of data in decision making as well as innovations in Open Data use.
+    * We have a lot of talented people in the city who make data-driven decisions every day.  In addition, fostering and expanding interest in government data from citizens is crucial to a successful Open Data program.
 
 ## Where we are today.
 In the last 6 months, we have been able to begin addressing some of the core challenges we have identified and having progress on our goals.  
