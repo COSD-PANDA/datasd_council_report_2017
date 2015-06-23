@@ -66,7 +66,7 @@ In addition to identifying datasources, they were asked to identify:
 #### Step 2
 In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data is stored within the data sources.  
 
-We quickly discovered that different departments have very different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html)
+We quickly discovered that different departments have very different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html).
 
 #### Step 3
 In Step 3, we wanted to collect the minimum amount of information needed to get the gist of what the dataset was, and to prioritize it.  We asked for the following indicators:
