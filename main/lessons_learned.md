@@ -6,10 +6,10 @@
 * We have departments that do double the work to measure the same thing.
 
 
-# Some Feedback Received from Information Coordinators. -- make it sound more positive.
-* My department ... selected useful or relevant performance metrics.
-* The data we have collected is largely unusable because it cannot be validated.
-* We have been doing a lot of work/spending a lot of money for insignificant measurable effect or insignificant recognition of the effect - each option is bad. In other words, we most likely have been focused on the wrong things and this inspires me to ask WHY? And that inquiry takes me down some very interesting roads to possible answers.
-* This exercise leads me to believe that our department is unclear on its priorities or can't agree on its priorities or has not recently examined its priorities.
-* This department is not adequately educated or skilled in managing and using data.
-* If we use valid data as an end goal, we will be able to design our work smart from the start.
+# Some Feedback Received from Information Coordinators.
+* My department should select metrics more targeted towards measuring our performance.
+* My departments needs to be more explicit in our data collection methodologies.
+* My department needs to do more work that is targeted towards effects we can measure. 
+* This exercise leads me to believe that my department needs to actively evaluate our priorities and align them with our mission.
+* We need to increase capacity for managing and analyzing data within my department.
+* My department needs to focus on setting an end goal, and measuring our work by data to back it up.

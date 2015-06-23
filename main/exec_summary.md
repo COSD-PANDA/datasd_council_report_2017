@@ -60,7 +60,7 @@ In the last 6 months, we have been able to begin addressing some of the core cha
     * Begin to identify individuals currently working with specific sets of data. 
     * Begin to establish a common body of knowledge in the city about what data is.
     * Uncover some of the challenges mentioned above.
-+ The Technical Guidelines are complete, but are always expected to change as they are meant to be a living document.
++ The Technical Guidelines are ready, but we are awaiting feedback and changes.
 + We are beginning to engage much more with the community of civic hackers and other people interested in the space.  In addition, the City of San Diego participated in the National Day of Civic Hacking by hosting three events over the weekend.  
 
 
