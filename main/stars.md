@@ -1,5 +1,5 @@
 # Outstanding Departments
-This is not an easy process and different from what most City staff do day-to-day.  All the departments did an amazing job on the inventory, but there are some departments (and coordinators) that I want to especially thank.  
+This is not an easy process and different from what most City staff do day-to-day.  All the departments did an amazing job on the inventory, but there are some departments (and coordinators) that deserve special recognition.  
 
 They provided constructive feedback and exceptional assistance, helping to shape the inventory process. This is not based on the number of datasets each submitted, but rather on their active involvement in the process.
 

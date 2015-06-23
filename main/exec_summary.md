@@ -3,7 +3,7 @@
 Getting the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
 
 ## Background
-The City of San Diego collects, produces, and stores an enormous amount of data. Some examples include:
+The City collects, produces, and stores an enormous amount of data. Some examples include:
 
 * Crime data
 * Parking meter data
@@ -22,6 +22,8 @@ Properly enhanced and managed, this information has the potential to be used to:
 * Allow the community to build applications on top of the City’s data
 
 It is the mission and commitment of the Performance & Analytics Department to shepherd this potential towards reality. 
+
+For additional background and history of the Open Data Program in the City, please refer to the following: [http://bit.ly/sdodpres](http://bit.ly/sdodpres)
 
 
 ## Benefits
@@ -63,7 +65,7 @@ In the last 6 months, we have been able to begin addressing some of the core cha
     * Begin to establish a common body of knowledge in the city about what data is.
     * Uncover some of the challenges mentioned above.
 + The Technical Guidelines are ready, but we are awaiting feedback and changes.
-+ We are beginning to engage much more with the community of civic hackers and other people interested in the space.  In addition, the City of San Diego participated in the National Day of Civic Hacking by hosting three events over the weekend.  
++ We are beginning to engage much more with the community of civic hackers and other people interested in the space.  In addition, the City participated in the National Day of Civic Hacking by hosting three events over the weekend.  
 
 
 ## Next Steps.

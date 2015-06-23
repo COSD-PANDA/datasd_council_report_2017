@@ -51,7 +51,7 @@ This one is tricky as Access DBs can be small or huge.  If you think the entire 
 You will have to use your judgement here, but this should still be pretty simple.  Ideally, this would be every layer that your department owns or contributes to.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
 
 ### Website / Web Based Application
-I will use our excellent OpenDSD as an example here.  When you visit [OpenDSD](http://www.sandiego.gov/development-services/opendsd), you see several options presented to you.  
+Let's use our excellent OpenDSD as an example here.  When you visit [OpenDSD](http://www.sandiego.gov/development-services/opendsd), you see several options presented to you.  
 ![DSD Options](http://take.ms/KXjLO)
 
 Let's break these down into datasets:
