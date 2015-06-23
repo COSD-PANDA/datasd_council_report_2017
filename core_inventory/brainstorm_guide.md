@@ -13,7 +13,7 @@ There are six ways to approach dataset brainstorming:
 ## By Stakeholder
 Review the list of stakeholders:
 
-> {% include "../../includes/stakeholders.md" %} 
+> {% include "./includes/stakeholders.md" %} 
 
 Data flow between your department and these entities.  Or sometimes they don't but you believe they should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data are relevant to these stakeholder from this datasource"***.
 
@@ -21,7 +21,7 @@ Maybe you share the datasource with them directly, but what data do they get fro
 
 ## By Question
 Review the list of questions below:
-> {% include "../../includes/questions.md" %} 
+> {% include "./includes/questions.md" %} 
 
 You don't have to respond to each one, but these will help you come up with datasets for every datasource.  Think "lists and spreadsheets".  Try to create as many as possible, we can always filter out.
 
