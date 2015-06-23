@@ -46,10 +46,8 @@ In no particular order:
 
 # Additional Acknowledgements
 * Joy Bonaguro (CDO of San Francisco)
-    - Joy was instrumental in helping to plan the inventory process and is an amazing person to work with. 
-    - ## Note of Acknowledgement.
-The base structure for the process was very much inspired by that of San Francisco's inventory, and it's important to acknowledge the wonderful work Joy Bonaguro, the CDO of San Francisco did in creating this process. A blog post about the process can be seen at the [DataSF Blog](http://datasf.org/blog/5-ways-to-scale-mountain-of-data/)
+    - Joy was instrumental in helping to plan the basics of the inventory process and is a pleasure to work with. 
 * Allen Gunn 
-    - The communication advice I have received from Allen has been invaluable.
+    - The communication advice I have received from Allen has been invaluable and has led down the path of better communication with the information coordinators.
 
 

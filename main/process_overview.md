@@ -11,8 +11,6 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 
 ## Process Overview
 
-## Put something else here
-
 The first part of the inventory was to assign information coordinators from each department to work with the Chief Data Officer.  Several larger departments chose to assign multiple coordinators, as these people knew their divisions best.  However, most departments assigned a single point of contact to work with the CDO.  It was important for information coordinators to be knowledgeable in the business level of how the department operates, since they would oftentimes need to make decisions based on that knowledge.
 
 There were a total of 35 departments in the inventory, and a total of 65 coordinators.  
