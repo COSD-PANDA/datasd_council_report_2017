@@ -1,15 +1,13 @@
 # City of San Diego
-## Council Report
-### Open Data, July 1, 2015
+## Open Data Implementation Update
+### July 1, 2015
 
-This report is in response to the requirement in Section 2.4 of the City of San Diego Open Data Policy, that I, the Chief Data Officer - Maksim Pecherskiy provide a written status report to the Mayor and Council regarding the Open Data Policy's implementation status.
+Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program. For additional background and history of the Open Data Program in the City, please refer to the following: [INSERT HYPERLINK TO OUR OPEN DATA SLIDESHOW]
 
-Included in the report are the findings from the City of San Diego Open Data Inventory's very first run.  Included is an overview of the results, as well as some retrospective content on the process and how we were able to accomplish the task.
+This inaugural 2015 report contains the findings from the City's first Open Data Inventory including an overview of the process, the results, and next steps.
 
-In addition, I am outlining the goals and next steps for implementing the Open Data Policy.
+The inventory process was well received, with 100% of invited departments participating. In our initial run, we have identified over 2,000 datasets, yet more work remains to process and prioritize them for public release.  
 
-Overall, I believe that the inventory process went well, with 100% of the targeted departments participating.  We have a large number of datasets collected, and still  much more work to do in processing and prioritizing all of them.  
+The City is well on its way towards achieving the goals of the Open Data Policy.  In addition, we are on track to build a robust data management program that ensures the data we publish and maintain is  of high quality and up-to-date.  
 
-Having completed this step, I feel extremely confident that San Diego is well on the way towards achieving the goals of the Open Data Policy.  In addition, I believe we are well on our way to building a robust data management program that makes sure that the data we publish and maintain is timely and is of high quality.  
-
-I truly appreciate your support in this effort as well as that of all the department directors, Mayor Faulconer and the Council.  
+This is not an easy effort and it would not have been possible without the support of Mayor Faulconer, the City's management team, yourself, or the City Council. It has taken a team effort to put together what may be the largest and most comprehensive, not to mention first, data inventory effort of any government in this region.  I look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
