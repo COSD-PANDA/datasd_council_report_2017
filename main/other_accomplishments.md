@@ -23,3 +23,7 @@ So far, we have met with delegations from Macedonia and the Phillipines to discu
 
 #### Meeting with Phillipines Delegation
 ![Phillipines](http://mrm-random.s3.amazonaws.com/dz/2015-06-17%2015.49.45.jpg)
+
+## City of San Diego Website Redesign
+We were heavily involved in the earlier stages, and will continue to be involved in the later of the City of San Diego Website Redesign project to make sure that it works well together with the Open Data initiative.
+![MKF](http://www.sandiego.gov/mayor/graphics/article/designsdphoto.jpg)
