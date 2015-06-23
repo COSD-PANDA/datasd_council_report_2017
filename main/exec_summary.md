@@ -12,7 +12,7 @@ The City collects, produces, and stores an enormous amount of data.  Some exampl
 * Mapping data
 * Many more
 
-This data currently resides in a range of isolated and poorly integrated data stores, in multiple incompatible formats, and managed by non-interoperable platforms.  This is data that has the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and information-driven leader on the broader civic landscape.
+These data currently reside in a range of isolated and poorly integrated data stores, in multiple incompatible formats, and managed by non-interoperable platforms.  These data has the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and information-driven leader on the broader civic landscape.
 
 Properly enhanced and managed, this information has the potential to be used to:
 
@@ -44,7 +44,7 @@ For additional background and history of the Open Data Program in the City, plea
 
 ## Goals
 1. Increase data literacy within the city and outside of it.
-    * There are various levels of understanding of what is data, metadata, Open Data, etc.
+    * There are various levels of understanding of what are data, metadata, Open Data, etc.
 2. Manage data like an asset, formalizing existing oversight and ownership.
     * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program.
 3. Release data to the public via a strategic and predictable process.
@@ -62,7 +62,7 @@ In the last 6 months, we have been able to begin addressing some of the core cha
     * Begin collection of base level metadata.
     * Create a base knowledge of what information we have.
     * Begin to identify individuals currently working with specific sets of data. 
-    * Begin to establish a common body of knowledge in the city about what data is.
+    * Begin to establish a common body of knowledge in the city about what data are.
     * Uncover some of the challenges mentioned above.
 + The Technical Guidelines are ready, but we are awaiting feedback and changes.
 + We are beginning to engage much more with the community of civic hackers and other people interested in the space.  In addition, the City participated in the National Day of Civic Hacking by hosting three events over the weekend.  

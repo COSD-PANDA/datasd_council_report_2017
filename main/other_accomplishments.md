@@ -1,6 +1,6 @@
 # Other Accomplishments
 ## OpenGov
-In partnership with Financial Management and IT [FIGURE OUT A WAY TO CONSISTENTLY REFER TO IT; I THINK WE SHOULD JUST USE JONATHAN'S TITLE INSTEAD OF IT, IS HE THE CIO?, THAT SOUNDS MORE LEGIT; REPLACE IT WITH CIO ASSUMING THAT'S HIS TITLE SO CHECK WTIH HIM IF YOU DON'T KNOW IT], we [TAKE OUT 'we are able' or 'we were able' and just go right for the verb] launched a public-facing budget tool, OpenGov, that to our knowledge is among the most transparent budget visualizations in the country.  
+In partnership with Financial Management and the CIO, we launched a public-facing budget tool, OpenGov, that to our knowledge is among the most transparent budget visualizations in the country.  
 
 ![OpenGov](http://take.ms/WSg3A)
 
@@ -9,10 +9,17 @@ Notably, our OpenGov launch took less than 4 weeks, making it the fastest large 
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
 ## City Clerk
-Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help her office keep track of Records Disposition Schedules. [THE ORIGINAL SENTENCE MADE IT SEEM LIKE SHE MIGHT NOT USE IT; IF WE THINK SHE'S NOT GOING TO DO ANYTHING WITH IT, WE MAY NEED TO STRIKE THIS SECTION SO AS NOT TO APPEAR AS THOUGH WE ARE WORKING ON STUFF THAT DOESN'T SEE THE LIGHT OF DAY, EVEN IF TRUE]
+Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help her office keep track of Records Disposition Schedules. 
 
 ![cdash](http://take.ms/2u2QS)
 
-[I FEEL LIKE WE SHOULD LIST AS ACCOMPLISHMENTS OUR MEETING WTIH TWO FOREIGN DELEGATIONS OF JOURNALISTS, OPEN GOVERNMENT ADVOCATES, SECURITY OFFICIALS, AND ELECTED OFFICIALS' STAFF; I'M BEGINNING TO VIEW THIS REPORT PARTIALLY AS A RAH RAH PIECE FOR THE OPEN DATA PROGRAM GENERALLY]
+## Meetings with Foreign Delegations
+As the City moves along its open data program, we are beginning to get globally recognized for our thoughtful and insightful approaches to how we are doing open data.
 
-[SHOULD WE MENTION THAT WE ARE WORKING WITH T&SW ON A STREETS VISUALIZATION AND WITH READ ON A PROPERTY MAPPING OR LEAVE THOSE TO NEXT YEAR'S ACCOMPLISHMENTS ?]
+So far, we have met with delegations from Macedonia and the Phillipines to discuss our advances in Open Data and Open Government:
+
+#### Meeting with the Macedonian Delegation
+![Macedonians](http://mrm-random.s3.amazonaws.com/dz/2015-01-27%2016.28.38.jpg)
+
+#### Meeting with Phillipines Delegation
+![Phillipines](http://mrm-random.s3.amazonaws.com/dz/2015-06-17%2015.49.45.jpg)

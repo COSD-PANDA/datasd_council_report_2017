@@ -18,7 +18,7 @@ What is the purpose? What is it used for? Include key data fields if possible.
 At what rate does the information in the dataset change?
 
 # Format
-What format is the data in? e.g: [THIS MADE ME THINK ABOUT THE PAGE IN IT'S REPORT WHERE THEY HAVE A PIE CHART THAT SHOWS THE DATABASES THE CITY OPERATES...I WONDER IF THERE'S ROOM IN THIS REPORT FOR THAT SAME GRAPHIC...IT SEEMS RELEVANT]
+What format is the data in? e.g:
  * excel
  * sql
  * oracle database
@@ -30,23 +30,23 @@ What format is the data in? e.g: [THIS MADE ME THINK ABOUT THE PAGE IN IT'S REPO
 Are there existing database connections or extractions?
 
 # Existing publication
-Is this data already published (made publicly available) in some form or another?  In a report, on our website, or on a council docket.
+Are these data already published (made publicly available) in some form or another?  In a report, on our website, or on a council docket.
 
 # Link to existing publication
 If you answered yes to the previous question, please include a link to the report or document.  If you don't know what it is, it's ok, don't spend too much time looking for it.
 
 # Priority/value
 What is your sense of the relative value in publishing this data?  *** This is purely subjective, but will help with the initial data classification. ***
-* **High** - Existing and ongoing requests for this data; this data addresses pressing information needs or pain points (within or without the city); or we have heard compelling examples of how this data could be used
-* **Medium** - This data may be useful for other departments or for people external to the city; we occasionally receive requests for this information; or we have heard some examples for how this data could be used
-* **Low** - This data has unclear value for either the public or other city departments; we have never received requests for this data; or we have never heard a use case for this data
+* **High** - Existing and ongoing requests for this data; these data address pressing information needs or pain points (within or without the city); or we have heard compelling examples of how these data could be used.
+* **Medium** - These data may be useful for other departments or for people external to the city; we occasionally receive requests for this information; or we have heard some examples for how these data could be used.
+* **Low** - These data has unclear value for either the public or other city departments; we have never received requests for these; or we have never heard a use case for these data.
 
 
 # Data Classification
-How would you classify this data?  *** This is purely subjective, but will help with the initial data classification. ***
-* **Public** - this data could be publicly disseminated without any concerns
-* **Protected** - this data is protected by law or regulation and can only be shared or accessed internally and per organizational procedures; OR this information includes individually identified information
-* **Sensitive** - in its raw form this data poses security concerns could be misused to target individuals or poses other concerns.
+How would you classify these data?  *** This is purely subjective, but will help with the initial data classification. ***
+* **Public** - these data could be publicly disseminated without any concerns
+* **Protected** - these data are protected by law or regulation and can only be shared or accessed internally and per organizational procedures; OR this information includes individually identified information
+* **Sensitive** - in its raw form these data pose security concerns could be misused to target individuals or poses other concerns.
 
 # Data Quality Concerns
 Do you have concerns about the quality of this dataset?

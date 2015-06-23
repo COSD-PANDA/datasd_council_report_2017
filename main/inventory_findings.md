@@ -73,7 +73,7 @@ As can be seen by the graphs above, there is quiet a bit of data that department
 * Business Tax Data (Treasurer).
 
 ### Change Frequency
-In addition, due to the inventory, we are able to get a general overview of how fast the datasets are updated, and are able to make some guesses about what we will be targeting.  Once again, the data has not been fully cleaned yet, so there are outliers and inconsistencies.  Nevertheless, this is good for seeing the general pattern. 
+In addition, due to the inventory, we are able to get a general overview of how fast the datasets are updated, and are able to make some guesses about what we will be targeting.  Once again, the data have not been fully cleaned yet, so there are outliers and inconsistencies.  Nevertheless, this is good for seeing the general pattern. 
 
 #### Datasets with low-speed update cycles.
 ![low-update-ds](assets/chart/pubdsc.png) 

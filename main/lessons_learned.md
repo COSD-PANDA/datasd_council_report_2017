@@ -1,7 +1,6 @@
 # Lessons Learned
 * We have a ton of amazing talent in the City.  City staff are passionate about their duties, committed to customer service, and knowledgeable about the ins and outs of their jobs.
 * Communication is important.  We need to make sure that the way in which we communicate works for everyone, that everyone uses it and understands it.  Analytics provides us a tool to facilitate that.
-* We have a large amount of good data. [SO YOU ALREADY KNOW THAT WE HAVE A "LARGE" AMOUNT OF "GOOD" DATA?  JUST MAKING SURE]
 * City departments could save time and avoid duplication of effort if we can stand up a system with a continuous flow of data from other departments.
 
 

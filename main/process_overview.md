@@ -60,11 +60,11 @@ For Step 1, coordinators were asked to identify any authoritative data sources t
 In addition to identifying datasources, they were asked to identify:
 
 * The person that is responsible for the technical management of the system (IT SME).
-* The person that has the business level knowledge and understanding of what data is stored within the system (Business SME).
+* The person that has the business level knowledge and understanding of what data are stored within the system (Business SME).
 * Any potential technical changes (replacement, upgrades) the system might be scheduled for in the future.
 
 #### Step 2
-In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data is stored within the data sources.  
+In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data are stored within the data sources.  
 
 We quickly discovered that different departments have very different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html).
 
@@ -131,7 +131,7 @@ Pageviews per session, returning users, etc for the inventory documentation:
 ![gashot](http://take.ms/xpqQr)
 
 #### Compiling
-Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all spreadsheets, aggregates and cleans the data.  In order for the inventory to be effective, it must be continously updated, and these tools allow us to do so.
+Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all spreadsheets, aggregates and cleans it.  In order for the inventory to be effective, it must be continously updated, and these tools allow us to do so.
 
 #### Additional Sources
 In addition to the human generated inventory, we have worked closely with IT to use any technological data collection methods that are available.  The sources that supplement the inventory are as follows.  They will be used to verify and augment the inventory data to the extent possible:

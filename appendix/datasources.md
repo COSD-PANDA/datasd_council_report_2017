@@ -1,6 +1,6 @@
 #Datasources
 
-## What is a Datasource? [WE SEEM TO BE MISSING APPENDIX 1; I ALSO JUST NOTICED THAT THE OD POLICY SAYS WE WILL POST THE INVENTORY GUIDELINES TO OUR WEBSITE...I WONDER IF WE CAN'T RENAME APPENDIX 1, 2, AND 3 THE "INVENTORY GUIDELINES" FOR PURPOSES OF THE REPORT AND PUBLIC POSTING AND MEETING OUR POLICY REQUIREMENTS...]
+## What is a Datasource? 
 A Datasource is a technology or system that stores data.  Some examples include:
 * Information Systems
 * Databases
@@ -15,7 +15,7 @@ In order to help you identify some datasources, use this list of helper question
 * What databases does your department use?
 * What information systems does your department use?
 * What applications capture information or are used in your business processes?
-* Are there some data sources kept in spreadsheets on your desktop? 
+* Are there some datasources kept in spreadsheets on your desktop? 
 * Are there some data that you work on with other people stored on shared drives? 
 * Are you already publishing information out on the web or in reports?  Where does that information come from?
 * Do you use Excel Spreadsheets or Access Databases to hold any information? 
@@ -53,7 +53,7 @@ This is not an exhaustive list of attributes that would make a spreadsheet a dat
 * Libraries - locations and hours.
 * List of Lists (Dataset that contains information about other datasets)
 * [other cities' data portals](../other_cities_portals.html) are a great source of examples
-* Reference data (data and provides reference to another data set.)
+* Reference data (data that provides reference to another data set.)
 
 ### Spreadsheets that are extracted from another system.
 If there's a report that you run from another system that ends up being put into a spreadsheet, that spreadsheet is ***not*** a ***datasource***.  However, please include that spreadsheet as a ***dataset*** in Step 2 (Sheet #2 in the Spreadsheet).  

@@ -15,7 +15,7 @@ Review the list of stakeholders:
 
 > {% include "../../includes/stakeholders.md" %} 
 
-Data flows between your department and these entities.  Or sometimes it doesn't and you believe that it should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data is relevant to these stakeholder from this datasource"***.
+Data flow between your department and these entities.  Or sometimes they don't but you believe they should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data are relevant to these stakeholder from this datasource"***.
 
 Maybe you share the datasource with them directly, but what data do they get from the datasource when it's shared?  Think "lists and spreadsheets".  Try to create as many as possible, we can always filter out.  ***You don't have to worry about determining the exact columns or column headings per dataset just yet***. 
 
