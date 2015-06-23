@@ -42,12 +42,12 @@ Since the departments that participated in the inventory are sized very differen
 |special events                               |          17|
 |transportation & storm water                 |          99|
 
-![data submissions](../assets/chart/databydeptg.png) 
+![data submissions](assets/chart/databydeptg.png) 
 
 #### Submissions By Dept, adjusted Scale.
 This is an adjusted graph with a smaller scale, clipping large outliers to be able to make a better comparison.
 
-![data submissions adjusted](../assets/chart/databydeptgn.png) 
+![data submissions adjusted](assets/chart/databydeptgn.png) 
 
 #### Insights
 It's obvious we have a lot of data, and information coordinators worked extremely hard to make sure that they let Performance and Analytics know as much about it as they can.  
@@ -57,12 +57,12 @@ As part of the inventory process, departments are asked to assess which datasets
 
 ### Public Datasets Per Department
 
-![public datasets](../assets/chart/pubdsg.png) 
+![public datasets](assets/chart/pubdsg.png) 
 
 #### Public Datasets, adjusted Scale.
 This is an adjusted graph with a smaller scale, clipping large outliers to be able to make a better comparison.
 
-![public datasets adjusted](../assets/chart/pubdsgn.png) 
+![public datasets adjusted](assets/chart/pubdsgn.png) 
 
 #### Insights
 As can be seen by the graphs above, there is quiet a bit of data that departments already consider to be public, but are not yet publishing it.  Or if they are, they are publishing it in disparate places and in disparate formats.  We envision these specific datasets to be a "low hanging" fruit.  Some examples include: 
@@ -76,10 +76,10 @@ As can be seen by the graphs above, there is quiet a bit of data that department
 In addition, due to the inventory, we are able to get a general overview of how fast the datasets are updated, and are able to make some guesses about what we will be targeting. Once again, the data has not been fully cleaned yet, so there are outliers and inconsistencies.  Nevertheless, this is good for seeing the general pattern. 
 
 #### Datasets with low-speed update cycles.
-![low-update-ds](../assets/chart/pubdsc.png) 
+![low-update-ds](assets/chart/pubdsc.png) 
 
 #### Datasets with fast update cycles.
-![high-update-ds](../assets/chart/pubdsco.png) 
+![high-update-ds](assets/chart/pubdsco.png) 
 
 #### Insight
 The datasets that are updated less frequently are good low-hanging fruit targets, because they may not necessarily warrant a need for an automated process to publish data.  However, the datasets with faster rates of update will not be excluded as we're considering various ETL tools.  Examples of datasets already published, with low change frequency:
