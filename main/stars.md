@@ -44,8 +44,8 @@ In no particular order:
 
 # Additional Acknowledgements
 * Joy Bonaguro (CDO of San Francisco)
-    - Joy is a pleasure to collaborate with and was instrumental in helping plan the basics of the inventory process she is now implementing in her city upon which I modeled our City's process. 
+    - Joy is a pleasure to collaborate with and was instrumental in helping plan the basics of the inventory process she is now implementing in her city upon which we modeled our City's process. 
 * Allen Gunn 
-    - The advice I have received from Allen [insert "former...." his title] has been invaluable and has led down the path of better communication with the information coordinators.
+    - The advice we have received from Allen (Maksim's friend, and Director of Aspirationtech) has been invaluable and has led down the path of better communication with the information coordinators.
 
 
