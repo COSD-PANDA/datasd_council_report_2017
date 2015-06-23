@@ -66,7 +66,7 @@ In addition to identifying datasources, they were asked to identify:
 #### Step 2
 In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data are stored within the data sources.  
 
-We quickly discovered that different departments have very different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html).
+We quickly discovered that different departments have different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html).
 
 #### Step 3
 In Step 3, we wanted to collect the minimum amount of information needed to get the gist of what the dataset was, and to prioritize it.  We asked for the following indicators:
@@ -83,13 +83,13 @@ In Step 3, we wanted to collect the minimum amount of information needed to get 
 
 Please review the [Appendix Step 3](../appendix/definitions.html) for the definitions of the fields above.
 
-Despite the fact that this is not a complete set of metadata, and doesn't conform to any recognized metadata format, we felt that it was a good level of metadata to maintain on a high level, since these things are not likely to change very often.  Once the datasets are going through the release process, they will be brought in under a more comprehensive metadata schema.  
+Despite the fact that this is not a complete set of metadata, and doesn't conform to any recognized metadata format, we felt that it was a good level of metadata to maintain on a high level, since these things are not likely to change often.  Once the datasets are going through the release process, they will be brought in under a more comprehensive metadata schema.  
 
 ### Technology
 #### Inventory Sheets
-Technology was a very necessary factor in being able to accomplish the inventory in the timeframe given, and also make sure that we were able to overcome roadblocks and achieve our goals.  
+Technology was a necessary factor in being able to accomplish the inventory in the timeframe given, and also make sure that we were able to overcome roadblocks and achieve our goals.  
 
-We worked closely with IT to derive a process that would allow for the use of technology which met our needs.  They were extremely responsive and helpful, and within almost no time at all, we were good to go and using the tools that were crucial.
+We worked closely with IT to derive a process that would allow for the use of technology which met our needs.  They were responsive and helpful, and within almost no time at all, we were good to go and using the tools that were crucial.
 
 We were able to:
 * Automate creation of spreadsheets per department.

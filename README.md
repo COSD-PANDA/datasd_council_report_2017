@@ -6,7 +6,7 @@ Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require th
 
 This inaugural 2015 report contains the findings from the City's first Open Data Inventory including an overview of the process, the results, and next steps.
 
-The inventory process was well received, with 100% of invited departments participating.  In our initial run, we have identified over 2,000 datasets, yet more work remains to process and prioritize them for public release.  
+The inventory process was well received, with 100% of invited departments participating.  In our initial run, we have identified over 1,200 datasets, yet more work remains to process and prioritize them for public release.  
 
 The City is well on its way towards achieving the goals of the Open Data Policy.  In addition, we are on track to build a robust data management program that ensures the data we publish and maintain is  of high quality and up-to-date.  
 

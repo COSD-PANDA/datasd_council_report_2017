@@ -50,7 +50,7 @@ This is an adjusted graph with a smaller scale, clipping large outliers to be ab
 ![data submissions adjusted](assets/chart/databydeptgn.png) 
 
 #### Insights
-It's obvious we have a lot of data, and information coordinators worked extremely hard to make sure that they let Performance and Analytics know as much about it as they can.  
+It's obvious we have a lot of data, and information coordinators worked hard to make sure that they let Performance and Analytics know as much about it as they can.  
 
 ## Public Dataset Analysis
 As part of the inventory process, departments are asked to assess which datasets they would consider to be already public, and if they are publishing them anywhere.  It's important to note that this has not been verified and there still remains to be a lot of work done per department to make sure these are correct.  Nevertheless, it's a good general overview.
