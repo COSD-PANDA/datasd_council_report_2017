@@ -1,7 +1,7 @@
 # Next Steps
 
 #### Perform a thorough analysis of inventory data.
-Since the inventory is human generated, it is anticipated that there will be a lot of cleaning involved. There are plenty of possibilities for duplication, inconsistent data entry, etc. In addition, it is still necessary to merge information from sources that are not human generated. Finally, there are potential mistakes in data that can expose PII or cybersecurity vulnerabilities. After we have verifified the inventory data, we will be posting it for public review and prioritization.
+Since the inventory is human generated, it is anticipated that there will be a lot of cleaning involved.  There are plenty of possibilities for duplication, inconsistent data entry, etc.  In addition, it is still necessary to merge information from sources that are not human generated.  Finally, there are potential mistakes in data that can expose PII or cybersecurity vulnerabilities.  After we have verifified the inventory data, we will be posting it for public review and prioritization.
 
 #### Data prioritization.
 After the inventory data is cleaned and analyzed, we will be prioritizing data based on the plan outlined in the technical guidelines for release.

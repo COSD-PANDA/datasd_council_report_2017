@@ -1,10 +1,10 @@
 # Community Involvement
 
 ## Purpose
-Community outreach and engagement is critical for any Open Data effort to be successful. Engagement is largely driven by with the local Code for America brigade - Open San Diego. 
+Community outreach and engagement is critical for any Open Data effort to be successful.  Engagement is largely driven by with the local Code for America brigade - Open San Diego. 
 
 ## Open San Diego
-Open San Diego was a staunch advocate for adopting the Open Data Policy and hiring a Chief Data Officer. In the past six months, [Open San Diego](http://opensandiego.org/) under the leadership of Xavier Leonard, has accelerated its activities. It is now a regular meetup group that we partner with on a regular basis.  It has several [ongoing projects](https://github.com/opensandiego), such as [...insert a few examples or bullet point a list] and is working with other interested stakeholders to increase membership and civic engagement with data.
+Open San Diego was a staunch advocate for adopting the Open Data Policy and hiring a Chief Data Officer.  In the past six months, [Open San Diego](http://opensandiego.org/) under the leadership of Xavier Leonard, has accelerated its activities.  It is now a regular group that we partner with on a regular basis.  It has several [ongoing projects](https://github.com/opensandiego), such as [...insert a few examples or bullet point a list] and is working with other interested stakeholders to increase membership and civic engagement with data.
 
 In order to build proper context between the community and the City, the following City employees have stepped up and presented at Open San Diego, upon our request:
 
@@ -19,7 +19,7 @@ In order to build proper context between the community and the City, the followi
 
 ![City Clerk](http://mrm-random.s3.amazonaws.com/dz/2015-05-19%2018.03.23.jpg)
 
-These appearances enhance the relationship between the City and the civic hacking community. In addition, other City employees have become regular attendees of Open San Diego Meetings and are actively working on civic hacking projects.
+These appearances enhance the relationship between the City and the civic hacking community.  In addition, other City employees have become regular attendees of Open San Diego Meetings and are actively working on civic hacking projects.
 
 Open San Diego coordinated 3 simultaneous events on June 5 and 6, 2015 for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and others from the community got involved.  
 

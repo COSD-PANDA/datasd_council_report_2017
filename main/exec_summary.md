@@ -3,7 +3,7 @@
 Getting the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
 
 ## Background
-The City collects, produces, and stores an enormous amount of data. Some examples include:
+The City collects, produces, and stores an enormous amount of data.  Some examples include:
 
 * Crime data
 * Parking meter data
@@ -12,7 +12,7 @@ The City collects, produces, and stores an enormous amount of data. Some example
 * Mapping data
 * Many more
 
-This data currently resides in a range of isolated and poorly integrated data stores, in multiple incompatible formats, and managed by non-interoperable platforms. This is data that has the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and information-driven leader on the broader civic landscape.
+This data currently resides in a range of isolated and poorly integrated data stores, in multiple incompatible formats, and managed by non-interoperable platforms.  This is data that has the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and information-driven leader on the broader civic landscape.
 
 Properly enhanced and managed, this information has the potential to be used to:
 
@@ -37,7 +37,7 @@ For additional background and history of the Open Data Program in the City, plea
 ## Challenges
 1. There are varying levels of understanding on what is considered to be data and Open Data.  
 2. There is no formal governance structure, and no defined responsibilities for the data we have, but we do have processes in place that can be formalized.
-3. The data are closed. They are trapped in proprietary formats and databases that can only be read by expensive proprietary software.  They are not described well, creating space for misinterpretation.
+3. The data are closed.  They are trapped in proprietary formats and databases that can only be read by expensive proprietary software.  They are not described well, creating space for misinterpretation.
 4. We don’t know what data we have, how they’re stored and used.
 5. Data creation, management and analysis efforts are often duplicated by multiple departments.
 

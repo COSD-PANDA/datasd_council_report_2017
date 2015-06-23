@@ -15,7 +15,7 @@ Review the list of stakeholders:
 
 > {% include "../../includes/stakeholders.md" %} 
 
-Data flows between your department and these entities. Or sometimes it doesn't and you believe that it should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data is relevant to these stakeholder from this datasource"***.
+Data flows between your department and these entities.  Or sometimes it doesn't and you believe that it should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data is relevant to these stakeholder from this datasource"***.
 
 Maybe you share the datasource with them directly, but what data do they get from the datasource when it's shared?  Think "lists and spreadsheets".  Try to create as many as possible, we can always filter out.  ***You don't have to worry about determining the exact columns or column headings per dataset just yet***. 
 
@@ -42,10 +42,10 @@ Just move that over as a dataset, and Maksim will deal with it.
 
 
 ### Excel File / Spreadsheet
-If the Excel file contains multiple sheets, each sheet that contains "original", non-computed data is a dataset. For example, if Sheet1 contains a list of PRAs responded to, and Sheet2 Contains a subset of that that was responded to in the last quarter, only Sheet1 is a dataset.  If Sheet2 on the other hand contains a list of divisions that reponded to the PRAs in Sheet1, then both Sheet2 and Sheet1 are datasets. 
+If the Excel file contains multiple sheets, each sheet that contains "original", non-computed data is a dataset.  For example, if Sheet1 contains a list of PRAs responded to, and Sheet2 Contains a subset of that that was responded to in the last quarter, only Sheet1 is a dataset.  If Sheet2 on the other hand contains a list of divisions that reponded to the PRAs in Sheet1, then both Sheet2 and Sheet1 are datasets. 
 
 ### Access Database
-This one is tricky as Access DBs can be small or huge.  If you think the entire database makes sense to expose as a dataset because the tables are just not relevant without each other, feel free to put that in as a dataset. If you have stored queries that you already run against the database, those are prime dataset examples. Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
+This one is tricky as Access DBs can be small or huge.  If you think the entire database makes sense to expose as a dataset because the tables are just not relevant without each other, feel free to put that in as a dataset.  If you have stored queries that you already run against the database, those are prime dataset examples.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
 
 ### GIS Server
 You will have to use your judgement here, but this should still be pretty simple.  Ideally, this would be every layer that your department owns or contributes to.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
@@ -70,7 +70,7 @@ The next 3 are maps - "Discretionary Approval Map, Ministerial Approvals Map, Co
 Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
 
 ### SAP Module
-Any reports you run from the module are good dataset candidates.  They should be ***high value and run regularly***, especially if you have hundreds of them. Also go through the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) above. Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
+Any reports you run from the module are good dataset candidates.  They should be ***high value and run regularly***, especially if you have hundreds of them.  Also go through the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) above.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
 
 ### SAP Business Warehouse.
-This one is easy.  If you have pre-built reports in WEBI each of those is a dataset.  If you can think of any other relevant reports as per the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) to run in WEBI add those in as well. Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
+This one is easy.  If you have pre-built reports in WEBI each of those is a dataset.  If you can think of any other relevant reports as per the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) to run in WEBI add those in as well.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
