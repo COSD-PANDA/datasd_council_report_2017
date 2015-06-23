@@ -18,7 +18,7 @@ What is the purpose? What is it used for? Include key data fields if possible.
 At what rate does the information in the dataset change?
 
 # Format
-What format is the data in? e.g: 
+What format is the data in? e.g: [THIS MADE ME THINK ABOUT THE PAGE IN IT'S REPORT WHERE THEY HAVE A PIE CHART THAT SHOWS THE DATABASES THE CITY OPERATES...I WONDER IF THERE'S ROOM IN THIS REPORT FOR THAT SAME GRAPHIC...IT SEEMS RELEVANT]
  * excel
  * sql
  * oracle database
