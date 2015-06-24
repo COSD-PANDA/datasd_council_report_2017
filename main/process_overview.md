@@ -1,12 +1,12 @@
 # Inventory 
 
 ## Purpose
-The purpose of the Data Inventory is to get a bird's eye view of data we have in the city and to assist stakeholders--such as the Mayor, the Council, and the public--to be able to identify data sets they consider high value for publication.  However, the inventory process was designed to have the following additional benefits:
+The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders to be able to identify data sets they consider high value for publication.  However, the inventory process was designed to have the following additional benefits:
 
-* Begin to create a base level of metadata for our city's data.
-* Begin to identify people currently working with and managing data.
-* Begin to establish a base level inventory of the data we have as a city.
-* Understand what systems of record we have for various pieces of information.
+* Begin to create a base level of metadata for our City's data. [CAN WE USE ANYTHING OTHER THAN THE WORD METADATA?  I'M JUST CURIOUS IF YOU CAN REPLACE IT WITH LAYMEN'S TERMS; PLUS, METADATA SOUNDS ALL EDWARD SNOWDENY, I'M WORRIED ELECTEDS COULD UNREASONABLY FREAK OUT BY THAT TERM - IT'S ACTUALLY BEEN A SOURCE OF CONTENTION IN THE PATRIOT ACT REAUTHORIZATION]
+* identify people currently working with and managing data.
+* Begin to establish a base level inventory of the data the City has at its disposal.
+* Understand the City's systems of record [AN ELECTED WILL NEED A DEFINITION OF "SYSTEM OF RECORD' OR SOME OTHER TERM] for various pieces of information. [THESE FIRST THREE BENEFITS ARE LISTED AS 
 
 
 ## Process Overview
