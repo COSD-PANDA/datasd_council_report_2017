@@ -54,7 +54,8 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
     * Begin collection of base level metadata. (Goal 4)
     * Create a base knowledge of information at the City's disposal. (Goals 2, 4, 5)
     * Identify individuals currently working with specific sets of data. (Goal 2) 
-    * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5)
+    * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
+    * Understand which of the city's software systems are authoritative for various pieces of information. (Goal 2, 4, 5)
 + Consistent with the policy, a draft version of the Technical Guidelines is ready, but is currently going through internal review before formalization. (All Goals)
 + We are enhancing our engagement with the civic hacking community and other interested stakeholders. For example, the City participated in the National Day of Civic Hacking by co-hosting three events on June 5th and 6th.  (Goal 5)
 

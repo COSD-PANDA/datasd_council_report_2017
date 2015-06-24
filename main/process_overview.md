@@ -3,10 +3,10 @@
 ## Purpose
 The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders to be able to identify data sets they consider high value for publication.  However, the inventory process was designed to begin the following processes:
 
-* Create a base level of metadata for our City's data. [CAN WE USE ANYTHING OTHER THAN THE WORD METADATA?  I'M JUST CURIOUS IF YOU CAN REPLACE IT WITH LAYMEN'S TERMS; PLUS, METADATA SOUNDS ALL EDWARD SNOWDENY, I'M WORRIED ELECTEDS COULD UNREASONABLY FREAK OUT BY THAT TERM - IT'S ACTUALLY BEEN A SOURCE OF CONTENTION IN THE PATRIOT ACT REAUTHORIZATION]
+* Create and collect a base level of attributes describing our City's data. 
 * Identify people currently working with and managing data.
 * Establish a base level inventory of the data the City has at its disposal.
-* Understand the City's systems of record [AN ELECTED WILL NEED A DEFINITION OF "SYSTEM OF RECORD' OR SOME OTHER TERM] for various pieces of information. [THESE FIRST THREE BENEFITS ARE LISTED UNDER THE WHERE WE ARE SECTION OF THE PREVIOUS PAGE BUT THIS FOURTH ONE IS NOT]
+* Understand which of the city's software systems are authoritative for various pieces of information.
 
 
 ## Process Overview
@@ -25,18 +25,17 @@ Consequently, we emphasized the following:
 * Minimize large in-person meetings, but be available for small face-to-face meetings, maintaining preference for online collaboration.
 * Provide all the necessary information to everyone all the time. 
 * Continously collect feedback, and be flexible enough to adjust the process.
-* Say no to perfection, but increase accuracy as much as possible. [I'M NOT SURE I LIKE THE MESSAGE OF SAYING NO TO PERFECTION AND PRACTICALLY AM NOT SURE HOW YOU WOULD DESCRIBE THIS; PERHAPS A SLIGHT REPHRAZING COULD BE "dON'T LET THE PERFECT BE THE ENEMY OF THE GOOD" OR JUST DROP THIS BULLET SINCE I THINK YOU CAPTURE IT IN OTHER BULLETS]
 * Automate repeatable tasks and allow technology to increase execution velocity.
 * Technology or the CDO must not be a bottleneck to any of the coordinators.
-* Process must be as efficient as possible to minimize rework and increase accuracy. [THERE'S INCREASE ACCURACY AGAIN, SEE MY COMMENT ABOVE]
+* Process must be as efficient as possible to minimize rework and increase accuracy. 
 * Break down large chunks of work into smaller ones.  Operate in short spurts but allow for full-scope completion all at once.
 * Create infrastructure for future growth and maintenance.
-* Track progress. [EVERYTHING IS pra HEAVEN]
+* Track progress. 
 
 ### Kickoff
-Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 2-hour meetings were the only large meetings held during the inventory process.
+Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 3-hour meetings were the only large meetings held during the inventory process.
 
-### Inventory Process [I THINK WE NEED TO DO A SPOT CHECK OF PAST VS PRESENT TENSE; THOSE ARE BEING USED INTERCHANGEABLEY]
+### Inventory Process 
 We broke the inventory into three steps, with coordinators given one month to complete each step.  
 
 ![Inv One Pager](http://take.ms/lv7da)
@@ -80,7 +79,6 @@ In Step 3 we collected the minimum amount of information needed to get a basic u
 
 Please review the [Inventory Step 3](../core_inventory/definitions.html) for the definitions of the fields above.
 
-Although this does not represent a complete set of metadata, and does not conform to any recognized metadata format, it nonetheless provides us a base level of information at a high level, since these elements are unlikely to change frequently.  As datasets go through the release process, they will be brought in under a more comprehensive metadata schema.  [SORT OF QUESTIONING THE NEED FOR THE PREVIOUS 2 SENTENCES]
 
 ### Technology
 #### Inventory Sheets
@@ -90,13 +88,9 @@ Through the use of technology in the inventory process, we were able to facilita
 * Automate creation of spreadsheets per department.
 * Maintain centralized access to all sheets while giving coordinators access to their own.
 * Increase our felxiblity to quickly adjust to feedback by writing code that made changes to all the department spreadsheets at once.
-* Allow coordinators to edit their inventory documents simultaneously. [WHAT DOES THIS MEAN?]
+* Allow coordinators to edit their inventory documents simultaneously in real time, preventing time spent on merging changes between document versions.
 * Aggregate and track progress for all departments in one location.
-* Work with our constraints and emphasize the efficiencies we needed. [THIS BULLET IS THE LEAST DESCRIPTIVE TO ME, SO DROP OR ADD MORE CONTEXT]
 
-Allowing technology not to be a roadblock gave us a lot of flexibility.  Some comments we received from coordinators:
-
-    "Thank you for being patient and going with the flow in terms of our workloads at our departments." [IF WE HAVE ONLY ONE COMMENT, LET'S STRIKE THIS SENTENCE AND THE PREVIOUS TWO]
 
 #### Reporting
 To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard:
@@ -108,17 +102,24 @@ However, department coordinators did not need the same level of depth, so we pro
 #### Dissemination of information.
 One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook which is an open source publishing workflow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to re-email them out to coordinators.
 
-In addition to the benefit of receiving continuous feedback from City staff, we also were able to analyze how users were using the documents.  By continuously tracking our documentation's effectiveness, we could issue targeted clarifications, and improve internal communication around Open Data.  [IS THERE AN EXAMPLE OF THIS WE COULD INCLUDE?]
+In addition to the benefit of receiving continuous feedback from City staff, we also were able to analyze how users were using the documents.  By continuously tracking our documentation's effectiveness, we could issue targeted clarifications, and improve internal communication around Open Data.  For example, earlier versions of the inventory had separate examples for each step.  We noticed that lots of coordinators were going to see the examples, but leaving those pages quickly, meaning they were not useful.  When we changed to a single example to cover the whole inventory, we instantly saw people staying on pages longer and getting more use from the examples.
 
 Note: the metric screenshots below include the entire inventory time frame, though we used smaller intervals throughout the process.
 
-Monitoring the navigation flow of users:[FOR THIS AND THE NEXT TWO PICTURES, I FEEL WE NEED A BIT MORE CONTEXT; PARTICULARLY TERMS LIKE NAVIGATION FLOW OR BOUNCE RATES NEED EXPLANATION IN LAYMENS TERMS]
+######Monitoring the navigation flow of users:
+We were able to see how people navigate through the inventory, which pages lead them to other pages and based on that we made several decisions on how the guidelines were laid out.
 ![gaflow](http://take.ms/0Hi0H)
 
-Tracking bounce rates, active users, most active pages, and most active exit pages:
-![gadash](http://take.ms/HjbwW)
+######Tracking various metrics to gauge user behaviour and adjust accordingly:
+We tracked:
+* Pages where the most people exited the guidelines.
+* To viewed pages of the guidelines.
+* Ratio of how many people left the site after viewing only one page.
+* Pageviews, users and returning users.
+![gadash](http://take.ms/5Kg8v)
 
-Pageviews per session, returning users, etc for the inventory documentation:
+######Tracking pageviews per session and returning users.
+It was important to know how many people spent a significant amount reading the guidelines, and how many people were coming back in order to gauge how useful the guidelines were to coordinators.
 ![gashot](http://take.ms/xpqQr)
 
 #### Compiling
