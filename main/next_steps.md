@@ -4,7 +4,7 @@
 Since the inventory is human generated, we expect the need for considerable cleaning of the data to correct duplicative and inconsistent data entry intro the inventory.  In addition, we have yet to merge information from sources that are not human generated to validate, and possibly supplement, today's inventory. Finally, there are risks that our current data may expose Personally Identifiable Information (PII) or cybersecurity vulnerabilities. After we have verified the inventory data and taken steps to mitigate these potential vulnerabilities, we will be posting it for public review and prioritization. We anticipate beginning to post an index of public data sets by September 2015 for review and input towards high value data sets for release through the portal.
 
 #### Data prioritization.
-After the inventory data is cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. 
+After the inventory data is cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. [YOU MAY NEED TO DESCRIBE THE PRIORITIZATION MATRIX HERE; I PREFER A DESCRIPTION OF THAT TO A MENTION OF THE TECHNICAL GUIDELINES WITH A NEBULOUS REFERENCE TO PRIORITIZATION; OTHERWISE YOU'LL BE ASKED TO SHARE THOSE GUIDELINES SOONER THAN YOU'D LIKE]
 
 #### Procure an Open Data Portal.
 Since it is difficult for many people to understand data when it is provided in a purely machine readeable format, we plan to procure a software solution for making user-friendly visualizations of such information.  In addition this software will host our datasets.

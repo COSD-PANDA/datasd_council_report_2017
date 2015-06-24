@@ -55,7 +55,7 @@ For Step 1, coordinators were asked to identify any authoritative data sources t
 * Excel Spreadsheets on Shared Drives or Personal Desktops.
 * Access Databases on Shared Drives or Personal Desktops.
 * 3rd Party Vendors and data hosted on vendor systems.
-* For a further description of what we provided as datasource definitions for coordinators, please see [Appendix Step 1](../appendix/datasources.html).
+* For a further description of what we provided as datasource definitions for coordinators, please see [Inventory Step 1](../core_inventory/datasources.html).
 
 In addition to identifying datasources, they were asked to identify:
 
@@ -66,7 +66,7 @@ In addition to identifying datasources, they were asked to identify:
 #### Step 2
 In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data are stored within the data sources.  
 
-We quickly discovered that different departments have different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Appendix Step 2](../appendix/brainstorm_guide.html).
+We quickly discovered that different departments have different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Inventory Step 2](../core_inventory/brainstorm_guide.html).
 
 #### Step 3
 In Step 3, we wanted to collect the minimum amount of information needed to get the gist of what the dataset was, and to prioritize it.  We asked for the following indicators:
@@ -81,7 +81,7 @@ In Step 3, we wanted to collect the minimum amount of information needed to get 
 * PRA frequency   
 * Comments / Extra Info
 
-Please review the [Appendix Step 3](../appendix/definitions.html) for the definitions of the fields above.
+Please review the [Inventory Step 3](../core_inventory/definitions.html) for the definitions of the fields above.
 
 Despite the fact that this is not a complete set of metadata, and doesn't conform to any recognized metadata format, we felt that it was a good level of metadata to maintain on a high level, since these things are not likely to change often.  Once the datasets are going through the release process, they will be brought in under a more comprehensive metadata schema.  
 
