@@ -1,24 +1,22 @@
 # Inventory 
 
 ## Purpose
-The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders to be able to identify data sets they consider high value for publication.  However, the inventory process was designed to have the following additional benefits:
+The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders to be able to identify data sets they consider high value for publication.  However, the inventory process was designed to begin the following processes:
 
-* Begin to create a base level of metadata for our City's data. [CAN WE USE ANYTHING OTHER THAN THE WORD METADATA?  I'M JUST CURIOUS IF YOU CAN REPLACE IT WITH LAYMEN'S TERMS; PLUS, METADATA SOUNDS ALL EDWARD SNOWDENY, I'M WORRIED ELECTEDS COULD UNREASONABLY FREAK OUT BY THAT TERM - IT'S ACTUALLY BEEN A SOURCE OF CONTENTION IN THE PATRIOT ACT REAUTHORIZATION]
-* identify people currently working with and managing data.
-* Begin to establish a base level inventory of the data the City has at its disposal.
-* Understand the City's systems of record [AN ELECTED WILL NEED A DEFINITION OF "SYSTEM OF RECORD' OR SOME OTHER TERM] for various pieces of information. [THESE FIRST THREE BENEFITS ARE LISTED AS 
+* Create a base level of metadata for our City's data. [CAN WE USE ANYTHING OTHER THAN THE WORD METADATA?  I'M JUST CURIOUS IF YOU CAN REPLACE IT WITH LAYMEN'S TERMS; PLUS, METADATA SOUNDS ALL EDWARD SNOWDENY, I'M WORRIED ELECTEDS COULD UNREASONABLY FREAK OUT BY THAT TERM - IT'S ACTUALLY BEEN A SOURCE OF CONTENTION IN THE PATRIOT ACT REAUTHORIZATION]
+* Identify people currently working with and managing data.
+* Establish a base level inventory of the data the City has at its disposal.
+* Understand the City's systems of record [AN ELECTED WILL NEED A DEFINITION OF "SYSTEM OF RECORD' OR SOME OTHER TERM] for various pieces of information. [THESE FIRST THREE BENEFITS ARE LISTED UNDER THE WHERE WE ARE SECTION OF THE PREVIOUS PAGE BUT THIS FOURTH ONE IS NOT]
 
 
 ## Process Overview
 
-The first part of the inventory was to assign information coordinators from each department to work with the Chief Data Officer.  Several larger departments chose to assign multiple coordinators, as these people knew their divisions best.  However, most departments assigned a single point of contact to work with the CDO.  It was important for information coordinators to be knowledgeable in the business level of how the department operates, since they would oftentimes need to make decisions based on that knowledge.
+The first part of the inventory was to assign information coordinators from each of the 35 departments/programs we engaged to work with the Chief Data Officer.  Most departments assigned a single point of contact to work with the CDO.  However, several larger departments chose to assign multiple coordinators to represent certain divisions.  We sought out information coordinators  knowledgeable in the business level of how the department operates and how users make decisions based on that knowledge.  In total, we worked with 65 coordinators.
 
-There were a total of 35 departments in the inventory, and a total of 65 coordinators.  
+We designed the inventory process mindful of the following realities:
 
-The inventory process was designed with the following constraints in mind:
-
-* The information coordinators' time must be used as efficiently as possible, as the process was not their primary responsibility.
-* Coordinators do not have a high level of technical knowledge-rather, a high level of business knowledge.
+* The information coordinators' time must be used as efficiently as possible, as this process is not their primary responsibility.
+* Coordinators may not have a high level of technical knowledge.
 * Execution time frame is only three months.
 * Coordinators do not have the same base level of understanding of what is "data".
 
@@ -27,49 +25,48 @@ Consequently, we emphasized the following:
 * Minimize large in-person meetings, but be available for small face-to-face meetings, maintaining preference for online collaboration.
 * Provide all the necessary information to everyone all the time. 
 * Continously collect feedback, and be flexible enough to adjust the process.
-* Say no to perfection, but increase accuracy as much as possible.
-* Automate repeatable tasks and allow to technology to increase execution velocity.
+* Say no to perfection, but increase accuracy as much as possible. [I'M NOT SURE I LIKE THE MESSAGE OF SAYING NO TO PERFECTION AND PRACTICALLY AM NOT SURE HOW YOU WOULD DESCRIBE THIS; PERHAPS A SLIGHT REPHRAZING COULD BE "dON'T LET THE PERFECT BE THE ENEMY OF THE GOOD" OR JUST DROP THIS BULLET SINCE I THINK YOU CAPTURE IT IN OTHER BULLETS]
+* Automate repeatable tasks and allow technology to increase execution velocity.
 * Technology or the CDO must not be a bottleneck to any of the coordinators.
-* Process must be as efficient as possible to minimize rework and increase accuracy.
+* Process must be as efficient as possible to minimize rework and increase accuracy. [THERE'S INCREASE ACCURACY AGAIN, SEE MY COMMENT ABOVE]
 * Break down large chunks of work into smaller ones.  Operate in short spurts but allow for full-scope completion all at once.
 * Create infrastructure for future growth and maintenance.
-* Track everything.
+* Track progress. [EVERYTHING IS pra HEAVEN]
 
 ### Kickoff
-Initially, it was necessary to have a kickoff to get as many questions answered as possible, to get as many coordinators engaged as possible, and to introduce the process.  There were two such meetings scheduled of the same content, in order to allow for variation in people's schedules.  Each of these meetings was two hours long. 
+Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 2-hour meetings were the only large meetings held during the inventory process.
 
-This was the only large meeting we have had during the inventory process.
-
-### Inventory Process
-The inventory is broken down into three steps, with coordinators given one month to complete each step.  
+### Inventory Process [I THINK WE NEED TO DO A SPOT CHECK OF PAST VS PRESENT TENSE; THOSE ARE BEING USED INTERCHANGEABLEY]
+We broke the inventory into three steps, with coordinators given one month to complete each step.  
 
 ![Inv One Pager](http://take.ms/lv7da)
 
-Each department is given a spreadsheet to fill out with all the steps and explanations built into the sheet.  
+Each department was given a spreadsheet to fill out with all the steps and explanations built into the sheet.  
 
 #### Step 1
-For Step 1, coordinators were asked to identify any authoritative data sources their department uses.  We identified a data source as any system that stores the primary version of data.  For example:
+For Step 1 we asked coordinators to identify any authoritative data sources their department uses.  We identified a data source as any system that stores the primary version of data.  For example:
 
 * Information Systems
 * Databases
-* Excel Spreadsheets on Shared Drives or Personal Desktops.
-* Access Databases on Shared Drives or Personal Desktops.
-* 3rd Party Vendors and data hosted on vendor systems.
-* For a further description of what we provided as datasource definitions for coordinators, please see [Inventory Step 1](../core_inventory/datasources.html).
+* Excel Spreadsheets on Shared Drives or Personal Desktops
+* Access Databases on Shared Drives or Personal Desktops
+* 3rd Party Vendors and data hosted on vendor systems
 
-In addition to identifying datasources, they were asked to identify:
+For a further description of what we provided as datasource definitions for coordinators, please see [Inventory Step 1](../core_inventory/datasources.html).
+
+In addition to identifying datasources, coordinators were asked to identify:
 
 * The person that is responsible for the technical management of the system (IT SME).
 * The person that has the business level knowledge and understanding of what data are stored within the system (Business SME).
-* Any potential technical changes (replacement, upgrades) the system might be scheduled for in the future.
+* Any potential technical changes (replacement, upgrades) the system might experience in the future.
 
 #### Step 2
-In Step 2, coordinators were asked to identify any potential datasets within the datasources from Step 1.  This was purely a brainstorming exercise designed as a away to tease out the beginnings of understanding what kind of data are stored within the data sources.  
+In Step 2 coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to begin to explore what kind of data are stored within the data sources.  
 
-We quickly discovered that different departments have different cultures and styles of communications, so we provided a brainstorm guide to allow coordinators to comye up with datasets in as many ways as possible.  The brainstorm guide can be found in [Inventory Step 2](../core_inventory/brainstorm_guide.html).
+Because each department has its own culture and style of communicating, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Inventory Step 2](../core_inventory/brainstorm_guide.html).
 
 #### Step 3
-In Step 3, we wanted to collect the minimum amount of information needed to get the gist of what the dataset was, and to prioritize it.  We asked for the following indicators:
+In Step 3 we collected the minimum amount of information needed to get a basic understanding of datasets to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
 * Brief description of data   
 * Frequency of data change    
 * Format  
@@ -83,45 +80,39 @@ In Step 3, we wanted to collect the minimum amount of information needed to get 
 
 Please review the [Inventory Step 3](../core_inventory/definitions.html) for the definitions of the fields above.
 
-Despite the fact that this is not a complete set of metadata, and doesn't conform to any recognized metadata format, we felt that it was a good level of metadata to maintain on a high level, since these things are not likely to change often.  Once the datasets are going through the release process, they will be brought in under a more comprehensive metadata schema.  
+Although this does not represent a complete set of metadata, and does not conform to any recognized metadata format, it nonetheless provides us a base level of information at a high level, since these elements are unlikely to change frequently.  As datasets go through the release process, they will be brought in under a more comprehensive metadata schema.  [SORT OF QUESTIONING THE NEED FOR THE PREVIOUS 2 SENTENCES]
 
 ### Technology
 #### Inventory Sheets
-Technology was a necessary factor in being able to accomplish the inventory in the timeframe given, and also make sure that we were able to overcome roadblocks and achieve our goals.  
+Working closely with the Department of Information Technology, we took advantage of technology to complete the inventory in the required timeframe.
 
-We worked closely with IT to derive a process that would allow for the use of technology which met our needs.  They were responsive and helpful, and within almost no time at all, we were good to go and using the tools that were crucial.
-
-We were able to:
+Through the use of technology in the inventory process, we were able to facilitate the following:
 * Automate creation of spreadsheets per department.
-* Maintain access control to all sheets while giving coordinators access only to theirs.
-* Push changes to all the department spreadsheets by writing code and running it once, allowing us to quickly adjust to feedback.
-* Allowing people to edit their inventory documents simultaneously
-* Aggregating and tracking progress for all departments in one place.
-* Work with our constraints and emphasize the efficiencies we needed.
+* Maintain centralized access to all sheets while giving coordinators access to their own.
+* Increase our felxiblity to quickly adjust to feedback by writing code that made changes to all the department spreadsheets at once.
+* Allow coordinators to edit their inventory documents simultaneously. [WHAT DOES THIS MEAN?]
+* Aggregate and track progress for all departments in one location.
+* Work with our constraints and emphasize the efficiencies we needed. [THIS BULLET IS THE LEAST DESCRIPTIVE TO ME, SO DROP OR ADD MORE CONTEXT]
 
 Allowing technology not to be a roadblock gave us a lot of flexibility.  Some comments we received from coordinators:
 
-    "Thank you for being patient and going with the flow in terms of our workloads at our departments."
+    "Thank you for being patient and going with the flow in terms of our workloads at our departments." [IF WE HAVE ONLY ONE COMMENT, LET'S STRIKE THIS SENTENCE AND THE PREVIOUS TWO]
 
 #### Reporting
-In order to make sure that the CDO is not a bottleneck and we had continous reporting, all the reporting was aggregated up to a central dashboard.  Therefore, we were able to track progress for all departments simultaneously:
+To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard:
 ![CDO Dashboard](http://take.ms/BGPG1).  
 
-However, the department coordinators did not need something as in depth, so they were given access to a simplified interface:
+However, department coordinators did not need the same level of depth, so we provided them a simplified interface:
 ![deptdash](http://take.ms/fxSR6)
 
 #### Dissemination of information.
-This was probably the most challenging part of the inventory.  Departments around the city are vastly different, with different people and diverse cultures.  They need to be communicated to in their way, on their level.  We chose a technology that would allow us to continously update our documentation on the fly as needed, and analyze how well our documentation was working. 
+One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook which is an open source publishing workflow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to re-email them out to coordinators.
 
-One of the points we wanted to emphasize was that all information should be available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook which is an open source publishing workflow system.  
+In addition to the benefit of receiving continuous feedback from City staff, we also were able to analyze how users were using the documents.  By continuously tracking our documentation's effectiveness, we could issue targeted clarifications, and improve internal communication around Open Data.  [IS THERE AN EXAMPLE OF THIS WE COULD INCLUDE?]
 
-This allowed us to continously incorporate feedback and update the instructions without having to re-email them out to people.
+Note: the metric screenshots below include the entire inventory time frame, though we used smaller intervals throughout the process.
 
-Besides getting continous feedback from people, we were also getting continous feedback from their behaviour.  By continously being able to track how effective our documentation was and how people were using it, we were able to target and clarify things that did not make sense, and use the things that worked to understand what way of communication was best.  
-
-Note: the screenshots for the metrics are in week time intervals, and for the whole period of the inventory.  Obviously, for monitoring we would use much smaller intervals.
-
-Monitoring the navigation flow of various users:
+Monitoring the navigation flow of users:[FOR THIS AND THE NEXT TWO PICTURES, I FEEL WE NEED A BIT MORE CONTEXT; PARTICULARLY TERMS LIKE NAVIGATION FLOW OR BOUNCE RATES NEED EXPLANATION IN LAYMENS TERMS]
 ![gaflow](http://take.ms/0Hi0H)
 
 Tracking bounce rates, active users, most active pages, and most active exit pages:
@@ -131,10 +122,10 @@ Pageviews per session, returning users, etc for the inventory documentation:
 ![gashot](http://take.ms/xpqQr)
 
 #### Compiling
-Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all spreadsheets, aggregates and cleans it.  In order for the inventory to be effective, it must be continously updated, and these tools allow us to do so.
+Compilation and reporting of the inventory data across the department spreadsheets is handled by an R Script that pulls data from all spreadsheets, aggregates, and cleans it.  In order for the inventory to be effective, it must be continuously updated, and these tools allow us to do so now and into the future.
 
 #### Additional Sources
-In addition to the human generated inventory, we have worked closely with IT to use any technological data collection methods that are available.  The sources that supplement the inventory are as follows.  They will be used to verify and augment the inventory data to the extent possible:
+In addition to the human generated inventory, we have worked closely with the Department of IT to take advantage of available technological data collection methods.  We will rely on the following sources to verify and augment the inventory data over the coming year:
 
 * List of GIS Data
 * List of Business Warehouse Reports
