@@ -12,4 +12,6 @@
     - [Step 1 - Data Sources](core_inventory/datasources.md)
     - [Step 2 - Brainstorm Guide](core_inventory/brainstorm_guide.md)
     - [Step 3 - Definitions](core_inventory/definitions.md)
+* [Attachments](attachments/prioritization.md)
+    - [Prioritization Process](attachments/prioritization.md)
 * [GLOSSARY](glossary.md)
