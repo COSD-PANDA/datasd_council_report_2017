@@ -1,11 +1,11 @@
 # Inventory Findings
-It's important to recognize that this analysis is preliminary, and as the inventory is a living document, it will evolve.  These are meant to give a general high level overview of the inventory.  Since the inventory is human generated, there will need to be a lot of data cleaning as there are a number of values that do not fit into the validation criteria.  In addition, it is still necessary to merge information from sources that are not human generated.Finally, there are potential mistakes in data that can expose PII or cybersecurity vulnerabilities.  After we have verified the inventory data, we will be posting it for public review and updating this analysis.
+The inventory is a living document and will evolve. [I DON'T KNOW WHERE TO SAY THIS, BUT SOMEWHERE IN THIS REPORT WE NEED TO SAY THAT THIS IS THE FIRST DATA INVENTORY IN SAN DIEGO'S HISTORY]  Since this first-ever inventory is human generated, it will require cleaning as there are a number of values that do not fit into the validation criteria. [INSERT EXAMPLE]  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose PII [HAVE WE DEFINED THIS ACRONYM YET?] or cybersecurity vulnerabilities.  After we have verified the inventory data [WHEN DO WE EXPECT TO DO THIS?], we will post a list of public data sets for public review and update this analysis.
 
 ## Submissions By Department
-Since the departments that participated in the inventory are sized very differently, with different numbers of employees and are widely varying in the type of work that they do, submissions by department are interesting, but are in no way indicative of the quality of the the department's participation in the inventory.  In addition, as we proceed with the program, the inventory will become more robust and these numbers will only grow more accurate (this is a scripted report).
+Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate (this is a scripted report). [NOBODY WILL KNOW WHAT SCRIPTED REPORT MEANS; CAN WE STRIKE IT?]
 
 ### Overall Submissions By Department
-####Submission Counts
+####Submission Counts [THERE IS NO TOTAL ON THIS CHART - WE SHOULD HAVE TOTALS]
 
 |dept                                         | numDatasets|
 |:--------------------------------------------|-----------:|
@@ -44,48 +44,50 @@ Since the departments that participated in the inventory are sized very differen
 
 ![data submissions](assets/chart/databydeptg.png) 
 
+[THE DATA IN SOME OF THESE CHARTS ARE IN REVERSE ALPHABETICAL ORDER; ANY REASON?  I ALSO STILL HAVE SOME ISSUE WITH THE pud LINE; IF WE MAKE THE BAR CHARTS VERTICAL INSTEAD OF HORIZONTAL, WILL THAT HELP US NOT HAVE TO DO ONE THAT IS ADJUSTED TO SCLAE?  JUST TRYING TO THINK IT THROUGH...OR MAYBE IF WE ARE PROVIDING THE DETAILED TABLE ABOVE, WE SHOULD STRIKE THE TWO GRAPHICS AND JUST DO A PIE CHART BY BRANCH (LIKE THE OPENING OPENGOV PIE CHART - LIKE MY LINKAGE ?)...
+
 #### Submissions By Dept, adjusted Scale.
-This is an adjusted graph with a smaller scale, clipping large outliers to be able to make a better comparison.
+This is an adjusted graph with a smaller scale, clipping large outliers to allow for a more clear comparison.
 
 ![data submissions adjusted](assets/chart/databydeptgn.png) 
 
 #### Insights
-It's obvious we have a lot of data, and information coordinators worked hard to make sure that they let Performance and Analytics know as much about it as they can.  
+The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
 
 ## Public Dataset Analysis
-As part of the inventory process, departments are asked to assess which datasets they would consider to be already public, and if they are publishing them anywhere.  It's important to note that this has not been verified and there still remains to be a lot of work done per department to make sure these are correct.  Nevertheless, it's a good general overview.
+As part of the inventory process, departments were asked to identify datasets they consider to be already public, and if they are already publishing them.  Although this information is preliminary and still needs to be validated, below is a general overview of department-reported information about public datasets.
 
 ### Public Datasets Per Department
 
 ![public datasets](assets/chart/pubdsg.png) 
 
-#### Public Datasets, adjusted Scale.
-This is an adjusted graph with a smaller scale, clipping large outliers to be able to make a better comparison.
+#### Public Datasets, adjusted Scale. [I THINK WE REPLACE THIS AND THE PREVIOUS BAR GRAPHS WITH A CITYWIDE PIE CHART BROKEN INTO NO, UNSURE, YES]
+This is an adjusted graph with a smaller scale, clipping large outliers to allow for a more clear comparison.
 
 ![public datasets adjusted](assets/chart/pubdsgn.png) 
 
 #### Insights
-As can be seen by the graphs above, there is quiet a bit of data that departments already consider to be public, but are not yet publishing it.  Or if they are, they are publishing it in disparate places and in disparate formats.  We envision these specific datasets to be a "low hanging" fruit.  Some examples include: 
+As seen above, there is quite a bit of data that departments already consider to be public, but are not yet publishing.  As we prioritize public data sets for release, we envision these to be the low hanging fruit that would likely be first in line to flow into the portal.  Some examples include: 
 * Capital Improvement Projects (PW).
 * Library Locations and Hours (Library).
 * Event Calendars (Parks).
-* Vehicle Stop Details (PD).
+* Vehicle Stop Details (PD). [IS THIS REALLY ALREADY PUBLIC??? JUST WANT TO MAKE SURE; SENSITIVITIES]
 * Business Tax Data (Treasurer).
 
-### Change Frequency
-In addition, due to the inventory, we are able to get a general overview of how fast the datasets are updated, and are able to make some guesses about what we will be targeting.  Once again, the data have not been fully cleaned yet, so there are outliers and inconsistencies.  Nevertheless, this is good for seeing the general pattern. 
+### Update Frequency
+As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified, dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require technical upgrades in the form of ETL's [RIGHT? ...IF SO, DEFINE ETL'S FOR NON TECH FOLKS] that may require additioanl resources.
 
-#### Datasets with low-speed update cycles.
+#### Datasets with low-speed update cycles. [DO A CITYWIDE PIE CHART]
 ![low-update-ds](assets/chart/pubdsc.png) 
 
-#### Datasets with fast update cycles.
+#### Datasets with frequent update cycles. [DO A CITYWIDE PIE CHART]
 ![high-update-ds](assets/chart/pubdsco.png) 
 
 #### Insight
-The datasets that are updated less frequently are good low-hanging fruit targets, because they may not necessarily warrant a need for an automated process to publish data.  However, the datasets with faster rates of update will not be excluded as we're considering various ETL tools.  Examples of datasets already published, with low change frequency:
+Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data that might require additional resources.  Examples of datasets already published, with low change frequency:
 * Fire Hydrants (PUD)
-* Storm Water Runoff Report (PUD)
-* Business Improvement Distric (Economic Development)
-* Rec Spaces (Parks and Rec)
+* Storm Water Runoff Report (PUD) [I THINK THIS IS T&SW]
+* Business Improvement Districts (Economic Development)
+* Rec Spaces (Park and Rec) [YOU KEEP SAYING "pARKS AND REC" LIKE THE TV SHOW, IT'S pARK AND REC (NO 'S')
 * Fire Stations (Fire Department)
 * Annual Permit Issuances (DSD)
