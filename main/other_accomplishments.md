@@ -27,5 +27,5 @@ So far, we have met with delegations from Macedonia and the Phillipines to discu
 ![Macedonians](http://mrm-random.s3.amazonaws.com/dz/2015-01-27%2016.28.38.jpg)
 
 #### Meeting with Phillipines Delegation
-![Phillipines](http://mrm-random.s3.amazonaws.com/dz/2015-06-17%2015.49.45.jpg)
+![Phillipines](http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg)
 
