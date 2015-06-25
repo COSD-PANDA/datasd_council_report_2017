@@ -51,7 +51,7 @@ For Step 1 we asked coordinators to identify any authoritative data sources thei
 * Access Databases on Shared Drives or Personal Desktops
 * 3rd Party Vendors and data hosted on vendor systems
 
-For a further description of what we provided as datasource definitions for coordinators, please see [Inventory Step 1](../core_inventory/datasources.html).
+For a further description of what we provided as datasource definitions for coordinators, please see [Inventory Step 1](../attachments/core_inventory/datasources.html).
 
 In addition to identifying datasources, coordinators were asked to identify:
 
@@ -62,7 +62,7 @@ In addition to identifying datasources, coordinators were asked to identify:
 #### Step 2
 In Step 2 coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to begin to explore what kind of data are stored within the data sources.  
 
-Because each department has its own culture and style of communicating, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Inventory Step 2](../core_inventory/brainstorm_guide.html).
+Because each department has its own culture and style of communicating, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Inventory Step 2](../attachments/core_inventory/brainstorm_guide.html).
 
 #### Step 3
 In Step 3 we collected the minimum amount of information needed to get a basic understanding of datasets to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
@@ -77,7 +77,7 @@ In Step 3 we collected the minimum amount of information needed to get a basic u
 * PRA frequency   
 * Comments / Extra Info
 
-Please review the [Inventory Step 3](../core_inventory/definitions.html) for the definitions of the fields above.
+Please review the [Inventory Step 3](../attachments/core_inventory/definitions.html) for the definitions of the fields above.
 
 
 ### Technology
