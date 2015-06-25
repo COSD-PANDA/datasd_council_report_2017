@@ -1,3 +1,5 @@
+# Step 3 - Definitions
+
 # Data source
 What information system or database contains the data? Or what shared server or shared drive contains the data?  This is automatically synced from Step 2.
 
@@ -37,22 +39,22 @@ If you answered yes to the previous question, please include a link to the repor
 
 # Priority/value
 What is your sense of the relative value in publishing this data?  *** This is purely subjective, but will help with the initial data classification. ***
-* **High** - Existing and ongoing requests for this data; these data address pressing information needs or pain points (within or without the city); or we have heard compelling examples of how these data could be used.
+* **High** - Existing and ongoing requests for these data; these data address pressing information needs or pain points (within or without the city); or we have heard compelling examples of how these data could be used.
 * **Medium** - These data may be useful for other departments or for people external to the city; we occasionally receive requests for this information; or we have heard some examples for how these data could be used.
-* **Low** - These data has unclear value for either the public or other city departments; we have never received requests for these; or we have never heard a use case for these data.
+* **Low** - These data have unclear value for either the public or other city departments; we have never received requests for these; or we have never heard a use case for these data.
 
 
 # Data Classification
 How would you classify these data?  *** This is purely subjective, but will help with the initial data classification. ***
 * **Public** - these data could be publicly disseminated without any concerns
-* **Protected** - these data are protected by law or regulation and can only be shared or accessed internally and per organizational procedures; OR this information includes individually identified information
-* **Sensitive** - in its raw form these data pose security concerns could be misused to target individuals or poses other concerns.
+* **Protected** - these data are protected by law or regulation and can only be shared or accessed internally and per organizational procedures; OR this information includes PII [RIGHT?]
+* **Sensitive** - in its raw form these data pose security or other concerns and could be misused to target individuals
 
 # Data Quality Concerns
 Do you have concerns about the quality of this dataset?
 
 # PRA Frequency
-If this data set was added because of it being asked for often in PRA, what is the rough frequency that it gets asked for
+If this data set was added because it is often requested in a PRA, what is the rough frequency that it gets asked for?
 
 
 # Comments / Extra Info.
