@@ -22,7 +22,7 @@ In order to help you identify some datasources, use this list of helper question
 
 
 ## Do I have to list every information system my department uses?
-While ideally we would prefer to know every system you use that stores data, we recognize it may be overwhelming and cause an extra burden for some departments to list every single piece of software they use that stores data.  In those situations, we are asking you to use your judgement -- if this is something that gets PRA'd or something that holds information you think may be useful to someone in another department please put that system in as a ***datasource***.
+While ideally we would prefer to know every system you use that stores data, we recognize it may be overwhelming and burdensome for some departments to list every single piece of software they use that stores data.  In those situations, we are asking you to use your judgement: if this is something that gets PRA'd or something that holds information you think may be useful to someone in another department please put that system in as a ***datasource***.
 
 ## Do I have to list every Spreadsheet / Access DB?
 It's important to understand that we are **not** looking for a listing of every spreadsheet / Access DB you, your department or your colleagues own or use.  
