@@ -15,9 +15,9 @@ Review the list of stakeholders:
 
 > {% include "./includes/stakeholders.md" %} 
 
-Data flow between your department and these entities.  Or sometimes they don't but you believe they should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data are relevant to these stakeholder from this datasource"***.
+Data flow between your department and these entities.  Or sometimes they don't but you believe they should.  You should have already filled out your list of stakeholders.  For every datasource, go through and ask ***"What data are relevant to these stakeholders from this datasource"***.
 
-Maybe you share the datasource with them directly, but what data do they get from the datasource when it's shared?  Think "lists and spreadsheets".  Try to create as many as possible, we can always filter out.  ***You don't have to worry about determining the exact columns or column headings per dataset just yet***. 
+Maybe you share the datasource with them directly, but what data do they get from the datasource when it's shared?  Think "lists and spreadsheets".  Try to create as many as possible; we can always filter out.  ***You don't have to worry about determining the exact columns or column headings per dataset just yet***. 
 
 ## By Question
 Review the list of questions below:
@@ -73,4 +73,4 @@ Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-bra
 Any reports you run from the module are good dataset candidates.  They should be ***high value and run regularly***, especially if you have hundreds of them.  Also go through the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) above.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
 
 ### SAP Business Warehouse.
-This one is easy.  If you have pre-built reports in WEBI each of those is a dataset.  If you can think of any other relevant reports as per the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) to run in WEBI add those in as well.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
+This one is easy.  If you have pre-built reports in WEBI [MAY NEED TO DEFINE OR SPELL OUT WHAT WEBi IS THE FIRST TIME HERE] each of those is a dataset.  If you can think of any other relevant reports as per the [Dataset Brainstorming Instructions](#dataset-brainstorming-instructions) to run in WEBI add those in as well.  Don't forget to try [Some of the Other Brainstorming Methods Above](#dataset-brainstorming-guide)
