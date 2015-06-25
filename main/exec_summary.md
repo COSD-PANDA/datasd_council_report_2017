@@ -50,8 +50,8 @@ It is the mission and commitment of the Performance & Analytics Department to sh
 ## Where we are today.
 In the last 6 months, we have made significant progress on all 5 of our goals:
 * Consistent with the policy timelines, we issued the inventory guidelines on March 9, before the March 31, 2015 deadline.
-* By executing the inventory process, we were able to:
-    * Begin collection of base level metadata. (Goal 4)
+* By creating the city's first ever data inventory, we were able to:
+    * Collect base level attributes about the city's data. (Goal 4)
     * Create a base knowledge of information at the City's disposal. (Goals 2, 4, 5)
     * Identify individuals currently working with specific sets of data. (Goal 2) 
     * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
