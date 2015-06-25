@@ -1,4 +1,4 @@
-#Datasources
+#Step 1 - Datasources
 
 ## What is a Datasource? 
 A Datasource is a technology or system that stores data.  Some examples include:
@@ -7,7 +7,7 @@ A Datasource is a technology or system that stores data.  Some examples include:
 * Excel Spreadsheets on Shared Drives or Personal Desktops.
 * Access Databases on Shared Drives or Personal Desktops.
 * 3rd Party Vendors and data hosted on vendor systems.
-* Anything in the [Online Services List](http://bit.ly/sdols) or [Application Portfolio](http://bit.ly/sdappportf) that your department uses and that stores / creates data.
+* Anything in the [Online Services List](http://bit.ly/sdols) or [Application Portfolio](http://bit.ly/sdappportf) that your department uses and that stores / creates data. [SAME QUESTION ABOUT WHETHER THE PAPER REPORT WILL CONTAIN LINK LANGUAGE INSTEAD OF HYPERLINKS]
 
 ## Helper Questions
 In order to help you identify some datasources, use this list of helper questions:
