@@ -1,4 +1,4 @@
-# Dataset Brainstorming Guide.
+# Step 2 - Dataset Brainstorming Guide.
 
 There are six ways to approach dataset brainstorming: 
 

@@ -1,7 +1,7 @@
 # Summary
 * [About This Report](README.md)
 * [Executive Summary](main/exec_summary.md)
-* [Inventory Process Overview](main/process_overview.md)
+* [Inventory Process](main/process_overview.md)
 * [Inventory Findings](main/inventory_findings.md)
 * [Lessons learned](main/lessons_learned.md)
 * [Next Steps](main/next_steps.md)
@@ -9,7 +9,7 @@
 * [Community Involvement](main/community.md)
 * [Acknowledgements](main/stars.md)
 * [Attachments](attachments/prioritization.md)
-    - [Prioritization Process](attachments/prioritization.md)
+    - [Prioritization](attachments/prioritization.md)
     - [Core Inventory](attachments/core_inventory/datasources.md)
         + [Step 1 - Data Sources](attachments/core_inventory/datasources.md)
         + [Step 2 - Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)

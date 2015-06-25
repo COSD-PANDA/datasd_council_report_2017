@@ -2,7 +2,7 @@
 ## Open Data Implementation Update
 ### July 1, 2015
 
-[DON'T KNOW WHERE TO PUT THIS NOTE - DID YOU CHECK THAT TABLE OF CONTENTS REFLECTS HOW YOU HEAD EACH SECTION [I.E. I WOULD STRIKE THE WORD "OVERVIEW" FROM THE THIRD SECTION OF THE TOC SINCE ITS NOT HOW THAT SECTION IS LABELED; LOOKS BETTER THAT WAY TOO] Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program. 
+Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program. 
 
 This inaugural 2015 report contains the findings from the City's first Data Inventory [SO WE HAVE CERTAIN TERMS BEGIN IN "CAPS" LIKE "DATA INVENTORY" "OPEN DATA"...NOT BY TOMORROW, BUT IT WOULD BE GOOD TO SCRUB THE DOC FOR CONSISTENCY BEFORE jULY 1 IN TERMS OF HOW WE USE CAPS] including an overview of the process, the results, and next steps.
 

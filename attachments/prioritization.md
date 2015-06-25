@@ -1,4 +1,4 @@
-# Prioritization 
+# Prioritization
 What is a high value dataset?  High value is a subjective term, highly relative to the standpoint of the person making the judgment.  Therefore, to have a solid determination of "high value", we need to understand who it is that may be making the judgment:
 
 
