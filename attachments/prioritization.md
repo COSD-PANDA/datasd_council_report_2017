@@ -27,7 +27,7 @@ Based on the preceding components of prioritization, we have derived an initial 
 
 
 | **Field Name** | **Field Description** | **Prioritization Category** |
-|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Dataset | Dataset Identifier | Meta |
 | Mayor Demand / Council Demand | Is there demand from the Mayor / Council for this dataset? | Value |
 | Interdepartmental demand | Can releasing this data positively influence workflows / performance across City silos? | Value |
@@ -44,7 +44,10 @@ Based on the preceding components of prioritization, we have derived an initial 
 | Data governance structure | Does a minimum viable level of data governance structure exist for this dataset? | Quality |
 | Data frequency of change | If the data gets updated often, releasing it without ETL will render it irrelevant, and building ETLs may require investment of time and money. | Quality |
 | ETL Required? | A 3-level indicator of whether ETL is required - 1=yes, 2=yes,but can delay, 3 = no | Quality |
-| Does this data contain potential PII or Security Threats? | If this data does contain PII, it will need special handling making it harder to release | Security |
+| Does this data contain potential PII? | If this data does contain PII, it will need special handling making it harder to release | Security |
+| Does this data contain information detrimental to the city's security if released? | If this data does contain such information, it will need special handling making it harder to release | Security |
+| Does this data contain PCI data | If this data does contain such information, it will need special handling making it harder to release | Security |
+| Does this data contain business sensitive data | If this data does contain such information, it will need special handling making it harder to release | Security |
 | Data extraction complexity | If it's hard to extract data from a given system, it may result in a lower prioritization | Readiness |
 | Metadata Availability | Metadata Availability | Readiness |
 | Does this data support a performance indicator? | If this data supports a published performance indicator for the department, that will cause a higher level of prioritization | Value |
