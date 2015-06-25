@@ -99,7 +99,7 @@ However, department coordinators did not need the same level of depth, so we pro
 ![deptdash](http://take.ms/fxSR6)
 
 #### Dissemination of information.
-One of our main goals is to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook, which is an open source publishing work-flow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to redistribute them to coordinators.
+One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook, which is an open source publishing work-flow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to redistribute them to coordinators.
 
 In addition to the benefit of receiving continuous feedback from City staff, we also analyzed how the staff used the documents.  By continuously tracking our documentation's effectiveness, we issued targeted clarifications and improved internal communication around Open Data.  For example, earlier versions of the inventory had separate examples for each step.  We noticed that many coordinators went to see the examples, but left those pages quickly, meaning they did not find them useful.  When we changed to a single example that covered the whole inventory, we instantly observed people staying on pages longer and getting more use from the examples.
 
