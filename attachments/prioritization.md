@@ -1,5 +1,5 @@
 # Prioritization 
-What is a high value dataset?  High value is a very subjective term, highly relative to the standpoint of the person making the judgement.  Therefore, to have a solid determination of "high value", we need to understand who is it that would be making the judgement:
+What is a high value dataset?  High value is a subjective term, highly relative to the standpoint of the person making the judgment.  Therefore, to have a solid determination of "high value", we need to understand who it is that may be making the judgment:
 
 
 ## Components of Prioritization.
@@ -8,43 +8,43 @@ In our thinking about Open Data, we identified several high-level personas that 
 
 ![Personas](http://take.ms/UiDp2)
 
-In order to prioritize correctly, we are planning to measure a dataset on the following overarching factors:
+In order to prioritize, we plan to measure a dataset on the following overarching factors:
 
 ### Value
-The value of a dataset is gauged by demand from various stakeholders, whether this dataset will increase transparency and accountability, or create economic opportunity.
+The value of a dataset is gauged by demand from various stakeholders; whether this dataset will increase transparency, accountability or internal efficiency; or create economic opportunity.
 
 ### Security
-The City will place the highest priority on making sure that data that has potential security or privacy flaws is never released. A security of a given dataset can be gauged fairly quickly by the evaluator, with additional checks to be done by the information coordinator who is familiar with the data on a deeper level.
+The City will place the highest priority on protecting data that exposes the City to security risks or the public's private information from release.
 
 ### Quality
-Quality measures the quality of a dataset pre and post release.  If the coordinator flags the data as potentially having quality issues, that could prioritize it lower, since it may need some extra work.  This metric also gauges our capability to deliver it to the public consistently in a timely way through automated processes.
+Low-quality data (i.e. missing fields, erroneous entry, manually updated) could receive a lower prioritization, since it may need some extra work.
 
 ### Readiness
-Readiness gauges the amount of work required to convert the data to an open format, and whether data is being published or not.
+Readiness gauges the amount of work required to convert the data to an open format, and whether data is already routinely published.
 
 ## Prioritization Matrix
-Based on the preceding components of prioritization, we have derived a prioritization matrix. This is still pending review by the city's security and technology teams:
+Based on the preceding components of prioritization, we have derived an initial prioritization matrix that will be revised as necessary following a legal and technical review: [I DON'T WANT TOO MANY CAVEATS; CAN YOU SHARE THIS WITH gARY AND jONATHAN FOR A PRELIM ONCE OVER?] [I LIKE THIS MATRIX, YOU MAY BE ASKED WHAT PERCENTAGES YOU ASSIGN TO ANY OF THESE CATEGORIES...NOT SURE WEWANT TO DO THAT, BUT WE'LL NEED TO PREP AN ANSWER TO THAT QUESTION]
 
 | **Field Name** | **Field Description** | **Prioritization Category** |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Dataset | Dataset Identifier | Meta |
-| Mayor Demand / Council Demand | Is there demand from the mayor / council for this dataset | Value |
-| Interdepartmental demand | Can releasing this data positively influence workflows / performance? | Value |
-| Departmental demand | Does the department demand for this data to be released? | Value |
+| Mayor Demand / Council Demand | Is there demand from the Mayor / Council for this dataset | Value |
+| Interdepartmental demand | Can releasing this data positively influence workflows / performance across City silos? | Value |
+| Departmental demand | Does the department desire that this data be released? | Value |
 | Dataset included in Open Data Census | The Open Data Census contains some of the more highly requested datasets across the country and is a good indicator for demand (http://sdgo.io/1IzdOom) | Value |
-| There is an application built ready to use this data. | If there is an application built on sample data that we can deliver to citizens quickly and provide impact. | Value |
+| There is an application built ready to use this data. | If there is an application built on sample data that we can deliver to residents or other users quickly and provide impact. | Value |
 | There is a known, constant stream of PRAs for this data | If releasing this data will alleviate some PRA work from departments. | Value |
 | Resident Demand | Percentage of surveyed residents who want this data released | Value |
 | # Of Defined Personas Affected Positively | Based on our persona definitions, which of the personas are likely to use this data? (http://sdgo.io/1HeIOiK) | Value |
-| Is this data already being published? | Is this data already being published just in an incorrect format / inconsistent location? | Readiness |
+| Is this data already being published? | Is this data already being published, but not in a central, organized location and in open source format? [RIGHT?] | Readiness |
 | Coordinator Value Assignment | Did the Coordinator mark this data as high / med or low priority | Value |
-| Data Sensitivity Assignment | Did the coordinator mark this data as public / protected or sensitive | Security |
+| Data Sensitivity Assignment | Is this data public [ULTIMATELY THIS DECISION WILL INVOLVE MORE THAN JUST THE COORDINATOR SO LEAVING IT MORE VAGUE] / protected or sensitive | Security |
 | Data Quality Concerns | Are there concerns about data quality? | Quality |
 | Data governance structure | Does a minimum viable level of data governance structure exist for this dataset? | Quality |
-| Data frequency of change | If the data gets updated often, releasing it without ETL may be irrelevant, and ETLs are harder to build so prioritization may be lower | Quality |
+| Data frequency of change | If the data gets updated often, releasing it without ETL will render it irrelevant, and building ETLs requires investment of time & money [RIGHT?] | Quality |
 | ETL Required? | A 3-level indicator of whether ETL is required - 1=yes, 2=yes,but can delay, 3 = no | Quality |
-| Does this data contain potential PII or Security Threats? | If this data does contain PII it will need special handling making it harder to release | Security |
-| Data extraction complexity | If it's hard to extract data from a given system, lower prioritization may occur. | Readiness |
+| Does this data contain potential PII or Security Threats? | If this data does contain PII, it will need special handling making it harder to release | Security |
+| Data extraction complexity | If it's hard to extract data from a given system, it may result in a lower prioritization | Readiness |
 | Metadata Availability | Metadata Availability | Readiness |
 | Does this data support a performance indicator? | If this data supports a published performance indicator for the department, that will cause a higher level of prioritization | Value |
 
