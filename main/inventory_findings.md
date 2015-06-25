@@ -1,5 +1,5 @@
 # Inventory Findings
-The data inventory we have compiled is the first data inventory in the history of the City.  Needless to say, it is a living document and will continue to evolve.  Since this first-ever inventory is human generated, it will require cleaning as there are a number of values that do not fit into the validation criteria (for example: a coordinator putting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose personally identifiable information or cybersecurity vulnerabilities.  After we have verified the inventory data (we expect to finish this by September 2015), we will post a list of public data sets for public review and update this analysis.
+The data inventory we compiled is the first data inventory in the history of the City.  Needless to say, it is a living document and will continue to evolve.  Since this first-ever inventory is human generated, it will require cleaning, as there are a number of values that do not fit into the validation criteria (for example: a coordinator putting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose personally identifiable information or cybersecurity vulnerabilities.  After we have verified the inventory data (we expect to finish this by September 2015), we will post a list of  data sets for public review and update this analysis.
 
 ## Submissions By Department
 Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate.
@@ -50,14 +50,14 @@ Below is a list of submissions by department.  Departments vary in size, number 
 The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
 
 ## Public Dataset Analysis
-As part of the inventory process, departments were asked to identify datasets they consider to be already public, and if they are already publishing them.  Although this information is preliminary and still needs to be validated, below is a general overview of department-reported information about public datasets.
+As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Although this information is preliminary and still needs to be validated, below is a general overview of department-reported information about public datasets.
 
 ### Public Datasets Per Department
 
 ![public datasets](assets/chart/pubdsg.png) 
 
 #### Insights
-As seen above, there is quite a bit of data that departments already consider to be public, but are not yet publishing.  As we prioritize public data sets for release, we envision these to be the low hanging fruit that would likely be first in line to flow into the portal.  Some examples include: 
+As seen above, departments already consider quite a bit of data to be public but are not yet publishing. As we prioritize public data sets for release, we envision these to be the low hanging fruit that would likely be first in line to flow into the portal.  Some examples include: 
 * Capital Improvement Projects (PW).
 * Library Locations and Hours (Library).
 * Event Calendars (Parks).
