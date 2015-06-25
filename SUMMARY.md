@@ -10,7 +10,7 @@
 * [Acknowledgements](main/stars.md)
 * [Attachments](attachments/prioritization.md)
     - [Prioritization Process](attachments/prioritization.md)
-    - [Core Inventory](core_inventory/datasources.md)
+    - [Core Inventory](attachments/core_inventory/datasources.md)
         + [Step 1 - Data Sources](attachments/core_inventory/datasources.md)
         + [Step 2 - Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)
         + [Step 3 - Definitions](attachments/core_inventory/definitions.md)
