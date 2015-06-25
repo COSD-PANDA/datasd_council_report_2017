@@ -5,12 +5,12 @@ What is a high value dataset?  High value is a very subjective term, highly rela
 In order to have a clear prioritization strategy, we are combining several pieces into our decision making:
 
 ### Personas
-In our thinking about Open Data, we have identified several high-level personas that would naturally care about what is released.  
+In our thinking about Open Data, we identified several high-level personas that would naturally care about what is released.  
 
 ![Personas](http://take.ms/UiDp2)
 
 ### Internal Information Sources
-Sources such as the resident data survey (to be released), PRA request tracking, and the inventory which provides a lot of valuable prioritization information serve as key factors in prioritization.
+Sources such as the resident data survey (to be released), PRA request tracking, and the inventory (which provides a lot of valuable prioritization information) serve as key factors in prioritization.
 
 ### External Information Sources
 Sources such as the Open Data Census serve as a good gauge of what has been released by other cities.
@@ -33,7 +33,7 @@ Combining all those factors allows us to have a prioritization matrix for datase
 | Data Sensitivity Assignment                               | Did the coordinator mark this data as public / protected or sensitive                                                                                   | Strategic |
 | Data Quality Concerns                                     | Are there concerns about data quality?                                                                                                                  | Strategic |
 | Data governance structure                                 | Does a minimum viable level of data governance structure exist for this dataset?                                                                        | Strategic |
-| Data frequency of change                                  | If the data gets updated often, releasing it without ETL may be irrelevant, and ETLs are harder to build so prioritization may be lower                 | Technical |
+| Data frequency of change                                  | If the data gets updated often, releasing it without ETL may be irrelevant, and ETLs are harder to build, so prioritization may be lower                 | Technical |
 | ETL Required?                                             | A 3-level indicator of whether ETL is required - 1=yes, 2=yes,but can delay, 3 = no                                                                     | Technical |
 | Does this data contain potential PII or Security Threats? | If this data does contain PII it will need special handling making it harder to release                                                                 | Technical |
 | Data extraction complexity                                | If it's hard to extract data from a given system, lower prioritization may occur.                                                                       | Technical | 
