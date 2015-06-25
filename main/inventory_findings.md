@@ -1,8 +1,8 @@
 # Inventory Findings
-The data inventory we compiled is the first data inventory in the history of the City.  Needless to say, it is a living document and will continue to evolve.  Since this first-ever inventory is human generated, it will require cleaning, as there are a number of values that do not fit into the validation criteria (for example: a coordinator putting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose personally identifiable information or cybersecurity vulnerabilities.  After we have verified the inventory data (we expect to finish this by September 2015), we will post a list of  data sets for public review and update this analysis.
+The data inventory we compiled is the first data inventory in the history of the City.  Needless to say, it is a living document and will continue to evolve.  Since this first-ever [ANOTHER TERM WE USE MORE THAN ONCE IN THIS DOC BUT I CAN'T RECALL IF WE HYPHENATE OR NOT IN BOTH/ALL INSTANCES; TO CHECK OVER THE WEEKEND] inventory is human generated, it will require cleaning, as there are a number of values that do not fit into the validation criteria (for example: a coordinator inputting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose PII or cybersecurity vulnerabilities.  After we have verified the inventory data, [I KNOW I WANTED A TARGET DATE, BUT WE CAN JUST ANSWER THAT OUT LOUD IF ASKED TO MAINTAIN DISCRETION; AND I WOULDN'T SAY SEPT, I'D SAY WE HOPE TO ACCOMPLISH IT BY THE END OF THE FIRST QUARTER IN FY 16] we will post a list of  data sets for public review.
 
 ## Submissions By Department
-Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate.
+Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate. [IN THE PIE CHART, MOVE OFFICE OF THE ACOO INTO "OTHER" SO IT DOESN'T HAVE ITS OWN PIE PIECE; ALSO, CAN WE SHOW PERCENTAGES INSIDE THE PIE CHART...TOTAL NUMBERS ARE A BIT AWKWARD BY THEMSELVES]
 
 ##### Submissions Per Department
 
@@ -51,28 +51,28 @@ Below is a list of submissions by department.  Departments vary in size, number 
 The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
 
 ## Public Dataset Analysis
-As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Although this information is preliminary and still needs to be validated, below is a general overview of department-reported information about public datasets.
+As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Because this information is preliminary and still needs to be validated, below is a general citywide aggregated overview of department-reported information about public datasets.
 
-##### Public Datasets Per Department
+##### Citywide Publication of Reported Public Datasets [RENAME IN THE GRAPHIC AS WELL]
 
-![public datasets](assets/chart/pubdsg.png) 
+![public datasets](assets/chart/pubdsg.png)
 
 ##### Insights
-As seen above, departments already consider quite a bit of data to be public but are not yet publishing. As we prioritize public data sets for release, we envision these to be the low hanging fruit that would likely be first in line to flow into the portal.  Some examples include: 
+Departments already consider nearly half of the reported datasets [RIGHT?] to be public but are not yet publishing them. As we prioritize public data sets for release, we envision these to be among the low-hanging fruit [ANOTHER TERM THAT WE HYPHENATE OR NOT IN OTHER PLACES; TO SPOT CHECK] to consider for publication in the Open Data portal.  Some examples include: 
 * Capital Improvement Projects (PW).
 * Library Locations and Hours (Library).
-* Event Calendars (Parks).
+* Event Calendars (Parks). [IS THIS ALSO SPECIAL EVENTS?  I DON'T KNOW, JUST ASKING]
 * Business Tax Data (Treasurer).
 
 ## Update Frequency
-As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified, dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may or may not require additional resources.
+As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified (and thus is presented in aggregated form below), dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may [I TOOK OUT 'MAY NOT' CAUSE 'MAY' ALREADY GIVES US WIGGLE ROOM, PLUS I DON'T WANT ANYONE CHALLENGING OUR JUDGMENT ON NEED FOR ETL RESOURCES] require additional resources.
 
-##### Public Datasets Update cycles.
+##### Public Datasets Update Cycles. [CAN YOU RENAME THIS CHART "FREQUENCY OF UPDATES OF REPORTED PUBLIC DATASETS" AND STRIKE "PER DEPARTMENT]
 ![update-ds](assets/chart/pubdsc.png) 
 
 
 ##### Insights
-Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data that might require additional resources.  Examples of datasets already published, with low change frequency:
+Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data.  Examples of datasets already published, with low update frequency:
 * Fire Hydrants (PUD)
 * Storm Water Runoff Report (TSW)
 * Business Improvement Districts (Economic Development)
