@@ -4,8 +4,7 @@ The data inventory we compiled is the first data inventory in the history of the
 ## Submissions By Department
 Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate.
 
-### Overall Submissions By Department
-####Submission Counts 
+##### Submissions Per Department
 
 |dept                                         | numDatasets|
 |:--------------------------------------------|-----------:|
@@ -43,34 +42,36 @@ Below is a list of submissions by department.  Departments vary in size, number 
 |transportation & storm water                 |          99|
 |**Total**                                    |    **2030**|
 
+
+##### Submissions By Branch
 ![data submissions](assets/chart/databybranchg.png) 
 
 
-#### Insights
+##### Insights
 The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
 
 ## Public Dataset Analysis
 As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Although this information is preliminary and still needs to be validated, below is a general overview of department-reported information about public datasets.
 
-### Public Datasets Per Department
+##### Public Datasets Per Department
 
 ![public datasets](assets/chart/pubdsg.png) 
 
-#### Insights
+##### Insights
 As seen above, departments already consider quite a bit of data to be public but are not yet publishing. As we prioritize public data sets for release, we envision these to be the low hanging fruit that would likely be first in line to flow into the portal.  Some examples include: 
 * Capital Improvement Projects (PW).
 * Library Locations and Hours (Library).
 * Event Calendars (Parks).
 * Business Tax Data (Treasurer).
 
-### Update Frequency
+## Update Frequency
 As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified, dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may or may not require additional resources.
 
-#### Public Datasets Update cycles.
+##### Public Datasets Update cycles.
 ![update-ds](assets/chart/pubdsc.png) 
 
 
-#### Insight
+##### Insights
 Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data that might require additional resources.  Examples of datasets already published, with low change frequency:
 * Fire Hydrants (PUD)
 * Storm Water Runoff Report (TSW)

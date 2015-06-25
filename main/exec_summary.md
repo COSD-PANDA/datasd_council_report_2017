@@ -35,6 +35,7 @@ It is the mission and commitment of the Performance & Analytics Department to sh
 5. Be recognized globally as a leader in the space.
 
 
+
 ## Open Data Program Goals
 1. Increase data literacy within the city and outside of it.
     * There are various levels of understanding of what are data, metadata, Open Data, etc.
