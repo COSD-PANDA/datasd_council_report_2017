@@ -3,7 +3,7 @@ This is not an easy process and different from what most City staff do day-to-da
 
 They provided constructive feedback and exceptional assistance, helping to shape the inventory process.  This is not based on the number of datasets each submitted, but rather on their active involvement in the process.
 
-In no particular order:
+In no particular order: [HOPE YOU HAVE ALL THE NAMES SPELLED CORRECTLY
 
 * Department of IT
     - Jonathan Behnke
@@ -27,15 +27,7 @@ In no particular order:
 * Fire-Rescue Department
     - Ken Barnes
 * Park and Recreation
-    - Andrew Field
-* Performance and Analytics
-    - Almis Udrys
-    - Maureen Jugar
-    - Karen Dennison
-    - Ulysses Panganiban
-    - Debbie Waddell
-    - Barbara Lamb
-    - Iovanka Todt
+    - Andrew Field [I STRUCK P&A - I KNOW WE SENT YOU A LETTER ON SD WORKS, BUT THIS WOULD SEEM LIKE WE'RE NOT A TEAM; THANK EVERYONE ELSE PERSONALLY AND BLAME ME FOR STRIKING IT]
 * Public Utilities
     - Linda Schmidt and all the PUD coordinators.
 * Transportation and Storm Water
