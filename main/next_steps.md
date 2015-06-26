@@ -16,7 +16,7 @@ We will continue our community outreach and engagement efforts with Open San Die
 We designed technical guidelines to operate as a living document, and we will continue to adjust as we move along the process of publishing data.  A well-designed release and management process--one that ensures any data released to the portal continues to be up-to-date--will be a key component of the technical guidelines.
 
 ## Identify high value data sets and prioritize data for release.
-    After the inventory data is cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [Attachments](../attachments/prioritization.md) section.
+After the inventory data is cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [Attachments](../attachments/prioritization.md) section.
 
 ## Review and potentially update Open Data Policy.
 Since the Policy calls for a yearly review of itself, we will be reviewing the Open Data Policy before the end of the calendar year.
