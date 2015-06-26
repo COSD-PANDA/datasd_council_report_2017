@@ -40,7 +40,7 @@ The Performance & Analytics Department is committed to guiding this potential to
 1. Increase data literacy within the City and with those who interact with the City.
     * There are various levels of understanding of what are data, metadata, Open Data, etc.
 2. Manage data like an asset, formalizing existing oversight and ownership.
-    * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and re-work, as well as ensure sustainability of Open Data release.
+    * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
 3. Release data to the public via a strategic and predictable process.
     * Data releases must account for a multitude of factors, including but not limited to communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
 4. Ensure that data are well described and catalogued.
