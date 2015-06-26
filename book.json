@@ -18,5 +18,5 @@
     "title": "City of San Diego Open Data Implementation Update",
     "description": "July 2015 Open Data Implementation Update",
     "styles": {"pdf": "styles/pdf.css", "website": "styles/website.css"},
-    "pdf": {"fontSize": "20"}
+    "pdf": {"fontSize": "14"}
 }
