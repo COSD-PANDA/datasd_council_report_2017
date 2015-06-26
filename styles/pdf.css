@@ -2,6 +2,10 @@ img {
 	width: 75% !important;
 }
 
+p {
+  font-size: 5px !important;
+}
+
 .sig-container {
   width:100%; 
   margin-top: 30px;
