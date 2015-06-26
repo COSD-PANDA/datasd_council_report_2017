@@ -10,5 +10,3 @@
 * From this exercise, I believe that my department needs to actively evaluate our priorities and align them with our mission.
 * We need to increase capacity for managing and analyzing data within my department.
 * My department needs to focus on setting an end goal, and measuring our work by data to back it up.
-* 
-[I'M CONSIDERING THESE SECTIONS AND WHETHER WE NEED THEM; I'M INCLINED TO KEEP THEM THOUGH THE LESSONS LEARNED SEEMS A BIT SPARSE; I ALSO WILL WANT TO RUN THE FEEDBACK (AND THE ENTIRE REPORT) BY SCOTT CHADWICK B/C THOUGH IT MAKES OUR DEPT LOOK NECESSARY, IT COULD MAKE THE CITY LOOK LIKE WE SUCK]
