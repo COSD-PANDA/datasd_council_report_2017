@@ -52,7 +52,7 @@ This is not an exhaustive list of attributes that would make a spreadsheet a dat
 * Libraries - locations and hours.
 * List of Lists (Dataset that contains information about other datasets)
 * [other cities' data portals](../other_cities_portals.html) are a great source of examples
-* Reference data (data that provides reference to another dataset.)
+* Reference data (data that provide reference to another dataset.)
 
 ### Spreadsheets that are extracted from another system.
 If there's a report that you run from another system that ends up being put into a spreadsheet, that spreadsheet is ***not*** a ***datasource***.  However, please include that spreadsheet as a ***dataset*** in Step 2 (Sheet #2 in the Spreadsheet).  

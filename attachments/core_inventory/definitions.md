@@ -20,7 +20,7 @@ What is the purpose? What is it used for? Include key data fields if possible.
 At what rate does the information in the dataset change?
 
 ## Format
-What format is the data in? e.g:
+What format are the data in? e.g:
  * excel
  * sql
  * oracle database
