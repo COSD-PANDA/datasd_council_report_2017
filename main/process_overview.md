@@ -43,7 +43,7 @@ We broke the inventory down into three steps, giving coordinators one month to c
 We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 
 #### Step 1
-For Step 1, we asked coordinators to identify any authoritative data sources their department uses.  We identified a data source as any system that stores the primary version of data.  For example:
+For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
 
 * Information Systems (such as client facing applications sandiego.gov or internally used applications like SAP)
 * Databases (such as Microsoft Access and Business Warehouse)
@@ -51,7 +51,7 @@ For Step 1, we asked coordinators to identify any authoritative data sources the
 * Access Databases on Shared Drives or Personal Desktops
 * 3rd Party Vendors and data hosted on vendor systems (such as Survey Monkey or Google Analytics).
 
-For a further description of what we provided as datasource definitions, please see [Core Inventory, Step 1 - Data Sources in the Attachments Section](../attachments/core_inventory/datasources.html).
+For a further description of what we provided as datasource definitions, please see [Core Inventory, Step 1 - Datasources in the Attachments Section](../attachments/core_inventory/datasources.html).
 
 In addition to identifying datasources, we asked coordinators to identify:
 
@@ -60,7 +60,7 @@ In addition to identifying datasources, we asked coordinators to identify:
 * Any potential technical changes (replacements, upgrades) the system might experience in the future.
 
 #### Step 2
-In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the data sources. 
+In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the datasources.
 Because each department has its own culture and style of communication, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Core Inventory, Step 2 - Dataset Brainstorm Guide in the Attachments Section](../attachments/core_inventory/brainstorm_guide.html).
 
 

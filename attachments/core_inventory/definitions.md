@@ -1,6 +1,6 @@
 # Step 3 - Dataset Attribute Definitions
 
-## Data source
+## Datasource
 What information system or database contains the data? Or what shared server or shared drive contains the data?  This is automatically synced from Step 2.
 
 ## Dataset name
