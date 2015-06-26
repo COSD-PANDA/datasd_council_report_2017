@@ -6,11 +6,11 @@ Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require th
 
 This inaugural 2015 report contains the findings from the City's first Data Inventory including an overview of the process, the results, and next steps.
 
-The inventory process was well received, with 100% of invited departments participating.  In our initial run, we identified over 2,000 datasets.  However, some of these datasets may not make it into the portal for a variety of reasons we describe in the report including the need to process and prioritize the data for public release, which we will begin during the first half of FY 16.  
+The inventory process was well received, with 100% of invited departments participating.  In our initial run, we identified over 2,000 datasets.  However, some of these datasets may not make it into the Open Data portal, expected to be launched by July 1, 2016, for a variety of reasons we describe in the report including the need to process and prioritize the data for public release, which we will begin during the first half of FY 16.  
 
 The City is well on its way towards achieving the goals of the Open Data Policy.  In addition, we are on track to build a robust data management program--one that ensures the data we publish and maintain is of high quality and up-to-date.  
 
-This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, Assistant Chief Operating Officer Stacey LoMedico, and the entire management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive data inventory effort of any government in this region.  I look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
+This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, Assistant Chief Operating Officer Stacey LoMedico, and the entire management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive data inventory effort of any government in this region.  We look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
 
 
 <div class="sig-container">
