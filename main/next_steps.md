@@ -13,10 +13,11 @@ The initial inventory largely relied on human input, but as we continue along th
 We will continue our community outreach and engagement efforts with Open San Diego. We will explore new avenues for contextualizing city data, so that it can be consumed by all interested parties.   We will pursue partnerships with nonprofits or educational institutions to analyze data for the betterment of our communities and our City operations.
 
 ## Continue refinement and updates of technical guidelines.
-We designed technical guidelines to operate as a living document, and we will continue to adjust as we move along the process of publishing data.  A well-designed release and management process--one that ensures any data released to the portal continues to be up-to-date--will be a key component of the technical guidelines.
+We designed technical guidelines to operate as a living document, and we will continue to adjust as we move along the process of publishing data and managing data.  A well-designed release process--one that ensures any data released to the portal continues to be up-to-date--will be a key component of the technical guidelines, and a well-defined internal data management structure will be crucial in supporting it.
 
 ## Identify high value data sets and prioritize data for release.
-After the inventory data is cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [Attachments](../attachments/prioritization.md) section.
+After the inventory data is cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [Attachments](../attachments/prioritization.md) section.  Furthermore, as we leverage Open Data for creation and future upgrading of the citywide performance dashboard, datasets supporting those indicators will be prioritized higher for release.
+
 
 ## Review and potentially update Open Data Policy.
 Since the Policy calls for a yearly review of itself, we will be reviewing the Open Data Policy before the end of the calendar year.
