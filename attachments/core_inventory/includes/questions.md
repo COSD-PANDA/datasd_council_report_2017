@@ -6,7 +6,7 @@
 * What data is reported to federal, state or local agencies?
 * What data requests do you receive under the PRA act?
 * What data do other departments ask for, or you share with other departments now?
-* What kinds of open data are similar agencies across the country publishing?
+* What kinds of Open Data are similar agencies across the country publishing?
 * What are the the top 10 most often run queries agains the database?
 * What do I think the public wants to see?
 * What do I think other departments may want to pull in as part of their workflow?
