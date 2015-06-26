@@ -1,6 +1,6 @@
 # City of San Diego
 ## Open Data Implementation Update
-### July 1, 2015
+##### July 1, 2015
 
 Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program. 
 
@@ -10,4 +10,18 @@ The inventory process was well received, with 100% of invited departments partic
 
 The City is well on its way towards achieving the goals of the Open Data Policy.  In addition, we are on track to build a robust data management program--one that ensures the data we publish and maintain is of high quality and up-to-date.  
 
-This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, Assistant Chief Operating Officer Stacey LoMedico, the entire management team, and yourself.  Through a collaborative approach, we have put together what may be the largest and most comprehensive data inventory effort of any government in this region.  I look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
+This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, Assistant Chief Operating Officer Stacey LoMedico, and the entire management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive data inventory effort of any government in this region.  I look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
+
+
+<div class="sig-container">
+    <div class="sig-container-inner right">
+      Almis Udrys, <br/>
+      Director of Performance & Analytics
+    </div>
+    <div class="sig-container-inner left">
+      
+      Maksim Pecherskiy, <br/>
+      Chief Data Officer
+    </div>
+</div>
+
