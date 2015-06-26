@@ -66,7 +66,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
 * Make the inventory process routine and more efficient.
 * Continue to provide context to City data and engage with the community.
 * Continue refinement and updates of technical guidelines.
-* Identify high value data sets and prioritize data for release.
+* Identify high value datasets and prioritize data for release.
 * Review and potentially update Open Data Policy.
 * Begin to release data by July 1, 2016.
 

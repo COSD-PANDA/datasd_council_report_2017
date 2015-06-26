@@ -1,7 +1,7 @@
 # Inventory Process
 
 ## Purpose
-The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders in identifying data sets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
+The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders in identifying datasets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
 
 * Create and collect a base level of attributes describing our City's data. 
 * Identify people currently working with and managing data.

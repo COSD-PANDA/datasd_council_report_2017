@@ -54,7 +54,7 @@ How would you classify these data?  *** This is purely subjective, but will help
 Do you have concerns about the quality of this dataset?
 
 # PRA Frequency
-If this data set was added because it is often requested in a PRA, what is the rough frequency that it gets asked for?
+If this dataset was added because it is often requested in a PRA, what is the rough frequency that it gets asked for?
 
 
 ## Comments / Extra Info.
