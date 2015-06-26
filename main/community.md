@@ -1,14 +1,14 @@
 # Community Involvement
 
 ## Purpose
-Community outreach and engagement is critical for any Open Data effort to be successful.  The local Code for America brigade, Open San Diego, largely drives engagement with the community.
+Community outreach and engagement is critical for any Open Data effort to be successful.  The local Code for America brigade, Open San Diego, largely drives engagement with the community purely as a volunteer group.  It is important for us to work closely with them as they are an active amplifier of our efforts. 
 
 ## Open San Diego
 Open San Diego was a staunch advocate for adopting the Open Data Policy and hiring a Chief Data Officer.  In the past six months, [Open San Diego](http://opensandiego.org/) under the leadership of Xavier Leonard, has accelerated its activities.  It is now a group that we partner with on a regular basis.  It has several [ongoing projects](https://github.com/opensandiego), such as:
 
-* A code enforcement notification application,
-* A street sweeping notification application,
-* A parks finder application.
+* A code enforcement notification application, leveraging city data,
+* A street sweeping notification application, leveraging city data,
+* A parks finder application, leveraging city data.
 
 They work with other interested stakeholders to increase membership and civic engagement with data.
 

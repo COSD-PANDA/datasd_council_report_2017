@@ -17,3 +17,9 @@ The goal of National Day of Civic Hacking is for residents, community groups, an
 
 # System of Record
 The software system that is the authoritative data source for a given data element or piece of information.
+
+# Portal
+A web application providing access, information and sometimes visualization of data.
+
+# GIS
+A geographic information system (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data.

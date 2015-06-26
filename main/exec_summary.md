@@ -29,9 +29,9 @@ The Performance & Analytics Department is committed to guiding this potential to
 
 ## Benefits of Open Data
 1. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the city.
-2. **Empower** consumers of City data-based applications to have the most up-to-date, relevant information at their fingertips.
+2. **Empower** consumers of City data-based applications to have the most up-to-date, accurate and relevant information at their fingertips.
 3. Allow City employees to be more **efficient** and innovative by allowing them to get data from other departments more quickly and in an easily consumable format.
-4. Allow taxpayers to benefit from a more **efficient**, nimble government that is capable of being responsive to them and able to deliver more with the same level of resources.
+4. Allow taxpayers to benefit from a more **efficient**, agile government that is capable of being responsive to them and able to deliver more with the same level of resources.
 5. Be recognized globally as a leader in the space.
 
 
@@ -52,8 +52,9 @@ The Performance & Analytics Department is committed to guiding this potential to
 In the last 6 months, we have made significant progress on all 5 of our goals:
 * Consistent with the policy timeline, we issued the inventory guidelines on March 9, before the March 31, 2015 deadline.
 * By creating the city's first ever data inventory, we were able to:
-    * Collect base level attributes about the city's data. (Goal 4)
     * Create a base knowledge of information at the City's disposal. (Goals 2, 4, 5)
+    * Collect base level attributes about the city's data. (Goal 4)
+    * Establish a competent group of information coordinators across the departments (All Goals)
     * Identify individuals currently working with specific sets of data. (Goal 2) 
     * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
     * Understand which of the City's software systems are authoritative for various pieces of information. (Goal 2, 4, 5)
@@ -63,7 +64,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
 ## Next Steps.
 * Perform a thorough analysis of inventory data.
 * Procure an Open Data Portal.
-* Make the inventory process routine and more efficient.
+* Make the inventory maintenance process routine and more efficient.
 * Continue to provide context to City data and engage with the community.
 * Continue refinement and updates of technical guidelines.
 * Identify high value data sets and prioritize data for release.
