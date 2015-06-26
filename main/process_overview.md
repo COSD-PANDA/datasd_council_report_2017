@@ -27,18 +27,18 @@ Consequently, we emphasized the following:
 * Continuously collect feedback, and be flexible enough to adjust the process.
 * Automate repeatable tasks and allow technology to increase execution velocity.
 * Technology or the CDO must not be a bottleneck to any of the coordinators.
-* Process must be as efficient as possible to minimize rework [ANOTHER THING TO SPOT CHECK - I BELIEVE YOU HAVE HYPHENATED THE WORD "RE-WORK" LATER IN THE REPORT, NOT SURE WHAT IS MOST APPROPRIATE] and increase accuracy. 
+* Process must be as efficient as possible to minimize rework and increase accuracy. 
 * Break down large chunks of work into smaller ones.  Operate in short spurts, but allow for full-scope completion all at once.
 * Create infrastructure for future growth and maintenance.
 * Track progress. 
 
 ### Kickoff
-Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 3-hour [I GUESS THEY WERE 3, NOT 2, HOURS...RIGHT?] meetings were the only large meetings held during the inventory process.
+Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 3-hour meetings were the only large meetings held during the inventory process.
 
 ### Inventory Process 
-We broke the inventory down into three steps, giving coordinators one month to complete each step.  [ARE YOU ABLE TO STRIKE THE ROW IN THE TOP LEFT THAT SAYS "COORDINATORS/DEPARTMENTS - GOOGLE SHEETS" ?  IT BLOCKS #1 AND MENTIONS GOOGLE ;) ]
+We broke the inventory down into three steps, giving coordinators one month to complete each step.  
 
-![Inv One Pager](http://take.ms/lv7da)
+![Inv One Pager](http://take.ms/U11fa)
 
 We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 

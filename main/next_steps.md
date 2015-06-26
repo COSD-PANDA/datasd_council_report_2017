@@ -7,7 +7,7 @@ Since the inventory is human generated, we need considerable cleaning of the dat
 Since it is difficult for many people to understand data when it is provided in a purely machine readable format, we plan to procure a software solution for making user-friendly visualizations of such information.  In addition, this software will host our datasets.
 
 ## Make the inventory process routine and more efficient.
-The initial inventory largely relied on human input, but as we continue along the path of treating our data as a valued asset, we will explore and implement options to automate inventory maintenance and contextualize as much as possible. [DO WE NEED "AND CONTEXTUALIZE AS MUCH AS POSSIBLE" ? SORT OF DOESN'T SAY MUCH TO ME AND WE TALK CONTEXT IN NEXT SECTION]
+The initial inventory largely relied on human input, but as we continue along the path of treating our data as a valued asset, we will explore and implement options to automate inventory maintenance.
 
 ## Continue to provide context to city data and engage with the community.
 We will continue our community outreach and engagement efforts with Open San Diego. We will explore new avenues for contextualizing city data, so that it can be consumed by all interested parties.   We will pursue partnerships with nonprofits or educational institutions to analyze data for the betterment of our communities and our City operations.

@@ -8,7 +8,7 @@ Notably, our OpenGov launch took less than 4 weeks, making it the fastest large 
 
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
-## City Clerk [DID CLERK OK YOU TALKING ABOUT THIS YET ?]
+## City Clerk
 Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help her office keep track of Records Disposition Schedules. 
 
 ![cdash](http://take.ms/2u2QS)
