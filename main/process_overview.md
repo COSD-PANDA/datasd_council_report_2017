@@ -45,13 +45,13 @@ We gave each department a spreadsheet to fill out with all steps and explanation
 #### Step 1
 For Step 1, we asked coordinators to identify any authoritative data sources their department uses.  We identified a data source as any system that stores the primary version of data.  For example:
 
-* Information Systems [CAN WE INSERT AN I.E. WITH 2 EXAMPLES FOR THIS ?]
-* Databases [DITTO]
+* Information Systems (such as client facing applications sandiego.gov or internally used applications like SAP)
+* Databases (such as Microsoft Access and Business Warehouse)
 * Excel Spreadsheets on Shared Drives or Personal Desktops
 * Access Databases on Shared Drives or Personal Desktops
-* 3rd Party Vendors and data hosted on vendor systems [DO WE HAVE AN IE OR TWO FOR THIS ?]
+* 3rd Party Vendors and data hosted on vendor systems (such as Survey Monkey or Google Analytics).
 
-For a further description of what we provided as datasource definitions, please see [Inventory Step 1](../attachments/core_inventory/datasources.html). [FOR THE "PAPER" REPORT, WILL YOU CHANGE THIS AND OTHER REFERENCES TO MATCH THE SECTION TITLE FROM THE TABLE OF CONTENTS?]
+For a further description of what we provided as datasource definitions, please see [Core Inventory, Step 1 - Data Sources in the Attachments Section](../attachments/core_inventory/datasources.html).
 
 In addition to identifying datasources, we asked coordinators to identify:
 
@@ -61,7 +61,7 @@ In addition to identifying datasources, we asked coordinators to identify:
 
 #### Step 2
 In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the data sources. 
-Because each department has its own culture and style of communication, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Inventory Step 2](../attachments/core_inventory/brainstorm_guide.html). [DITTO]
+Because each department has its own culture and style of communication, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Core Inventory, Step 2 - Dataset Brainstorm Guide in the Attachments Section](../attachments/core_inventory/brainstorm_guide.html).
 
 
 #### Step 3
@@ -77,7 +77,7 @@ In Step 3, we collected the minimum amount of information needed to get a basic 
 * PRA frequency   
 * Comments / Extra Info
 
-Please review the [Inventory Step 3](../attachments/core_inventory/definitions.html) for the definitions of the fields above.
+Please review the [Core Inventory, Step 3 - Dataset Attribute Definitions in the Attachments Section](../attachments/core_inventory/definitions.html) for the definitions of the fields above.
 
 
 ### Technology
@@ -96,15 +96,14 @@ Through the use of technology in the inventory process, we were able to facilita
 To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard:
 ![CDO Dashboard](http://take.ms/BGPG1).  
 
-However, department coordinators did not need the same level of depth, so we provided them a simplified interface: [CAN YOU MAKE THE TOP ROW OF THE DASHBOARD SHOW DIFFERENT LEVELS/COLORS FOR CONTEXT - JUST MAKE SURE NO DEPARTMENT'S NAME IS VISIBLE LIKE NOW, BUT I'D LIKE DIFF COLORS FOR ILLUSTRATIVE PURPOSES]
-![deptdash](http://take.ms/fxSR6)
+However, department coordinators did not need the same level of depth, so we provided them a simplified interface: 
+![deptdash](http://take.ms/2FCWc)
 
 #### Dissemination of information.
 One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook, which is an open source publishing work-flow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to redistribute them to coordinators.
 
 In addition to the benefit of receiving continuous feedback from City staff, we also analyzed how the staff used the documents.  By continuously tracking our documentation's effectiveness, we issued targeted clarifications and improved internal communication around Open Data.  For example, earlier versions of the inventory had separate examples for each step.  We noticed that many coordinators went to see the examples, but left those pages quickly, which suggests that they did not find them useful.  When we changed to a single example that covered the entire inventory, we instantly observed people staying on pages longer and getting more use from the examples.
 
-Note: the metric screenshots below include the entire inventory time frame, though we used smaller intervals throughout the process. [I SUGGEST DROPPING THIS NOTE; NOBODY BUT THE MOST TECHNICAL PERSON WOULD EVER WONDER ABOUT THIS; I EVEN CONSIDERED DROPPING THE GRAPHIC, BUT I KIND OF LIKE HOW IT WILL MAKE NO SENSE TO ANYONE AND YOU WILL LOOK SMART, BUT THE NOTE IS UNNECESSARY]
 
 ######Monitoring the navigation flow of users:
 We saw how people navigated through the inventory: which pages led them to other pages. Based on the feedback, we made several decisions on how to lay out the guidelines.

@@ -12,6 +12,6 @@
     - [Prioritization](attachments/prioritization.md)
     - [Core Inventory](attachments/core_inventory/datasources.md)
         + [Step 1 - Data Sources](attachments/core_inventory/datasources.md)
-        + [Step 2 - Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)
-        + [Step 3 - Definitions](attachments/core_inventory/definitions.md)
+        + [Step 2 - Dataset Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)
+        + [Step 3 - Dataset Attribute Definitions](attachments/core_inventory/definitions.md)
 * [GLOSSARY](glossary.md)
