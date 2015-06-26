@@ -1,6 +1,6 @@
 # City of San Diego
-## Open Data Implementation Update
-##### July 1, 2015
+## About this Report
+
 
 Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program. 
 
