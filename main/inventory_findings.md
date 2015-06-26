@@ -43,7 +43,7 @@ Below is a list of submissions by department.  Departments vary in size, number 
 |risk management                                |          42|
 |special events                                 |          17|
 |transportation & storm water                   |          99|
-|**Total**                                    |    **2048**|
+|**Total**                                      |    **2048**|
 
 
 ##### Submissions By Branch
