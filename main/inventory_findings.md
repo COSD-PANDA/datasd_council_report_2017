@@ -6,41 +6,44 @@ Below is a list of submissions by department.  Departments vary in size, number 
 
 ##### Submissions Per Department
 
-|dept                                         | numDatasets|
-|:--------------------------------------------|-----------:|
-|ada compliance and accessibility (office of) |           8|
-|city auditor                                 |           6|
-|city clerk                                   |          30|
-|city comptroller                             |          93|
-|city treasurer                               |          63|
-|commission for arts and culture              |          27|
-|communications                               |           4|
-|corporate partnerships and development       |           6|
-|debt management                              |          64|
-|development services                         |          24|
-|docket                                       |           2|
-|doit                                         |         247|
-|economic development                         |          11|
-|environmental services                       |         112|
-|ethics commission                            |           1|
-|financial management                         |          31|
-|fire-rescue department                       |          24|
-|homeland security                            |          11|
-|human resources                              |          22|
-|library                                      |          38|
-|park and recreation                          |         221|
-|performance & analytics                      |           8|
-|personnel                                    |           3|
-|planning department                          |          16|
-|police                                       |          12|
-|public utilities                             |         749|
-|public works / ecp                           |           8|
-|purchasing & contracting                     |          17|
-|read                                         |          14|
-|risk management                              |          42|
-|special events                               |          17|
-|transportation & storm water                 |          99|
-|**Total**                                    |    **2030**|
+|dept                                           | numDatasets|
+|:----------------------------------------------|-----------:|
+|ada compliance and accessibility (office of)   |           8|
+|citizens' review board on police practices     |           9|
+|city auditor                                   |           6|
+|city clerk                                     |          30|
+|city comptroller                               |          93|
+|city treasurer                                 |          63|
+|commission for arts and culture                |          27|
+|commission on gang prevention and intervention |           3|
+|communications                                 |           4|
+|corporate partnerships and development         |           6|
+|debt management                                |          64|
+|development services                           |          24|
+|docket                                         |           2|
+|doit                                           |         247|
+|economic development                           |          11|
+|environmental services                         |         112|
+|ethics commission                              |           1|
+|financial management                           |          31|
+|fire-rescue department                         |          24|
+|homeland security                              |          11|
+|human relations commission                     |           6|
+|human resources                                |          22|
+|library                                        |          38|
+|park and recreation                            |         221|
+|performance & analytics                        |           8|
+|personnel                                      |           3|
+|planning department                            |          16|
+|police                                         |          12|
+|public utilities                               |         749|
+|public works / ecp                             |           8|
+|purchasing & contracting                       |          17|
+|read                                           |          14|
+|risk management                                |          42|
+|special events                                 |          17|
+|transportation & storm water                   |          99|
+|**Total**                                    |    **2048**|
 
 
 ##### Submissions By Branch
@@ -53,7 +56,7 @@ The City has a substantial amount of data, and information coordinators worked h
 ## Public Dataset Analysis
 As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Because this information is preliminary and still needs to be validated, below is a general citywide aggregated overview of department-reported information about public datasets.
 
-##### Citywide Publication of Reported Public Datasets [RENAME IN THE GRAPHIC AS WELL]
+##### Citywide Publication of Reported Public Datasets 
 
 ![public datasets](assets/chart/pubdsg.png)
 
@@ -67,7 +70,7 @@ Departments already consider nearly half of the reported datasets to be public b
 ## Update Frequency
 As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified (and thus is presented in aggregated form below), dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may require additional resources.
 
-##### Public Datasets Update Cycles. [CAN YOU RENAME THIS CHART "FREQUENCY OF UPDATES OF REPORTED PUBLIC DATASETS" AND STRIKE "PER DEPARTMENT]
+##### Frequency of Updates of Reported Public Datasets
 ![update-ds](assets/chart/pubdsc.png) 
 
 
