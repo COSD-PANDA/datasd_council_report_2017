@@ -2,6 +2,12 @@
 
 The City of San Diego is committed to the principles of open, accessible, efficient, and transparent government, as well the use of technology to help put those principles into practice.  Mayor Faulconer created the Performance & Analytics Department on July 1, 2014.  Its purpose is to focus on citywide efficiency, accountability, and transparency initiatives.  On December 16, 2014, the Council passed the City's Open Data Policy with his strong support.
 
+Opening up the City's data ties in directly with each of our Strategic Goals and allows us to monitor our progress in achieving them:
+
+* Provide High Quality Public Service
+* Work in partnership with all our communities to achieve safe and livable neighborhoods.
+* Create and sustain a resilient, economically prosperous city.
+
 For additional background and history of the Open Data Program in the City, please refer to the following: [http://bit.ly/sdodpres](http://bit.ly/sdodpres).
 
 The overarching vision for the program is to get the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
