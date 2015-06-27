@@ -1,6 +1,6 @@
 # Lessons Learned
 * We have a plethora of amazing talent in the City.  City staff are passionate about their duties, committed to customer service, and knowledgeable about the ins and outs of their jobs.
-* Communication is important.  We need to make sure that the way in which we communicate works for everyone, that everyone uses our tools and understands them.  Analytics allow us facilitate that.
+* Communication is important.  We need to make sure that the way in which we communicate works for everyone, that everyone uses our tools and understands them.  Analytics allow us facilitate those results.
 * City departments will save time and avoid duplication of effort when we set up a system with a continuous flow of data from other departments.
 
 # Some Feedback Received from Information Coordinators

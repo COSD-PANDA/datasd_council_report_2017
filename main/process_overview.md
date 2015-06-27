@@ -26,7 +26,7 @@ Consequently, we emphasized the following:
 * Provide all the necessary information to everyone all the time. 
 * Continuously collect feedback, and be flexible enough to adjust the process.
 * Automate repeatable tasks and allow technology to increase execution velocity.
-* Technology or the CDO must not be a bottleneck to any of the coordinators.
+* Technology or the CDO (Chief Data Officer) must not be a bottleneck to any of the coordinators.
 * Process must be as efficient as possible to minimize rework and increase accuracy. 
 * Break down large chunks of work into smaller ones.  Operate in short spurts, but allow for full-scope completion all at once.
 * Create infrastructure for future growth and maintenance.
@@ -45,7 +45,7 @@ We gave each department a spreadsheet to fill out with all steps and explanation
 #### Step 1
 For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
 
-* Information Systems (such as client facing applications sandiego.gov or internally used applications like SAP)
+* Information Systems (such as public facing applications sandiego.gov or internally used applications like SAP)
 * Databases (such as Microsoft Access and Business Warehouse)
 * Excel Spreadsheets on Shared Drives or Personal Desktops
 * Access Databases on Shared Drives or Personal Desktops
@@ -55,8 +55,8 @@ For a further description of what we provided as datasource definitions, please 
 
 In addition to identifying datasources, we asked coordinators to identify:
 
-* The person that is responsible for the technical management of the system (IT SME).
-* The person that has the business level knowledge and understanding of what data are stored within the system (Business SME).
+* The person that is responsible for the technical management of the system (IT Subject Matter Expert).
+* The person that has the business level knowledge and understanding of what data are stored within the system (Business Subject Matter Expert).
 * Any potential technical changes (replacements, upgrades) the system might experience in the future.
 
 #### Step 2

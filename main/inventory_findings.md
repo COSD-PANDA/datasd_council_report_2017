@@ -65,7 +65,7 @@ Departments already consider nearly half of the reported datasets to be public b
 * Capital Improvement Projects (PW).
 * Library Locations and Hours (Library).
 * Event Calendars (Parks & Special Events).
-* Business Tax Data (Treasurer).
+* Parking Meter Data (Treasurer).
 
 ## Update Frequency
 As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified (and thus is presented in aggregated form below), dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may require additional resources.
