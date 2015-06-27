@@ -9,8 +9,8 @@ Since it is difficult for many people to understand data when they are provided 
 ## Make the inventory process routine and more efficient.
 The initial inventory largely relied on human input, but as we continue along the path of treating our data as valued assets, we will explore and implement options to automate inventory maintenance.
 
-## Continue to provide context to city data and engage with the community.
-We will continue our community outreach and engagement efforts with Open San Diego. We will explore new avenues for contextualizing city data, so that they can be consumed by all interested parties.   We will pursue partnerships with nonprofits or educational institutions to analyze data for the betterment of our communities and our City operations.
+## Continue to provide context to City data and engage with the community.
+We will continue our community outreach and engagement efforts with Open San Diego. We will explore new avenues for contextualizing City data, so that they can be consumed by all interested parties.   We will pursue partnerships with nonprofits or educational institutions to analyze data for the betterment of our communities and our City operations.
 
 ## Continue refinement and updates of technical guidelines.
 We designed technical guidelines to operate as a living document, and we will continue to adjust as we move along the process of publishing data and managing data.  A well-designed release process--one that ensures any data released to the portal continues to be up-to-date--will be a key component of the technical guidelines, and a well-defined internal data management structure will be crucial in supporting it.

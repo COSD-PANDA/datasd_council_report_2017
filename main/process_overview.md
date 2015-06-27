@@ -6,7 +6,7 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 * Create and collect a base level of attributes describing our City's data. 
 * Identify people currently working with and managing data.
 * Establish a base level inventory of the data the City has at its disposal.
-* Understand which of the city's software systems are authoritative for various pieces of information.
+* Understand which of the City's software systems are authoritative for various pieces of information.
 
 
 ## Process Overview

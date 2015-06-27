@@ -45,7 +45,7 @@ Based on the preceding components of prioritization, we have derived an initial 
 | Data frequency of change | If the data get updated often, releasing it without ETL will render it irrelevant, and building ETLs may require investment of time and money. | Quality |
 | ETL Required? | A 3-level indicator of whether ETL is required - 1=yes, 2=yes,but can delay, 3 = no | Quality |
 | Do this data contain potential PII (Personally Identifiable Information), or PCI (Payment Card Industry) information? | If these data does contain PII, it will need special handling making it harder to release | Security |
-| Do these data contain information detrimental to the city's security if released or information that is business sensitive? | If these data does contain such information, it will need special handling making it harder to release | Security |
+| Do these data contain information detrimental to the City's security if released or information that is business sensitive? | If these data does contain such information, it will need special handling making it harder to release | Security |
 | Do these data contain information that is public but only under specific terms? | If these data does contain such information, it will need special handling making it harder to release | Security |
 | Data extraction complexity | If it's hard to extract data from a given system, it may result in a lower prioritization | Readiness |
 | Metadata Availability | Metadata Availability | Readiness |

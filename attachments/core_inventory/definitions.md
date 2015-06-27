@@ -39,9 +39,9 @@ If you answered yes to the previous question, please include a link to the repor
 
 ## Priority/value
 What is your sense of the relative value in publishing this data?  *** This is purely subjective, but will help with the initial data prioritization. ***
-* **High** - Existing and ongoing requests for these data; these data address pressing information needs or pain points (within or without the city); or we have heard compelling examples of how these data could be used.
-* **Medium** - These data may be useful for other departments or for people external to the city; we occasionally receive requests for this information; or we have heard some examples for how these data could be used.
-* **Low** - These data have unclear value for either the public or other city departments; we have never received requests for these; or we have never heard a use case for these data.
+* **High** - Existing and ongoing requests for these data; these data address pressing information needs or pain points (within or without the City); or we have heard compelling examples of how these data could be used.
+* **Medium** - These data may be useful for other departments or for people external to the City; we occasionally receive requests for this information; or we have heard some examples for how these data could be used.
+* **Low** - These data have unclear value for either the public or other City departments; we have never received requests for these; or we have never heard a use case for these data.
 
 
 ## Data Classification
