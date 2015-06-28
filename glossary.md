@@ -16,4 +16,4 @@ Group of San Diego civic-stakeholders who meet regularly to share knowledge and 
 The goal of National Day of Civic Hacking is for residents, community groups, and government to collaborate to make their communities stronger. [National Day Of Civic Hacking](http://hackforchange.org/about/)
 
 # System of Record
-The software system that is the authoritative data source for a given data element or piece of information.
+The software system that is the authoritative datasource for a given data element or piece of information.

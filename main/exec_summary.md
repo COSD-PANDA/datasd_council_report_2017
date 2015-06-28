@@ -28,7 +28,7 @@ The Performance & Analytics Department is committed to guiding this potential to
 
 
 ## Benefits of Open Data
-1. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the city.
+1. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
 2. **Empower** consumers of City data-based applications to have the most up-to-date, relevant information at their fingertips.
 3. Allow City employees to be more **efficient** and innovative by allowing them to get data from other departments more quickly and in an easily consumable format.
 4. Allow taxpayers to benefit from a more **efficient**, nimble government that is capable of being responsive to them and able to deliver more with the same level of resources.
@@ -40,7 +40,7 @@ The Performance & Analytics Department is committed to guiding this potential to
 1. Increase data literacy within the City and with those who interact with the City.
     * There are various levels of understanding of what are data, metadata, Open Data, etc.
 2. Manage data like an asset, formalizing existing oversight and ownership.
-    * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and re-work, as well as ensure sustainability of Open Data release.
+    * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
 3. Release data to the public via a strategic and predictable process.
     * Data releases must account for a multitude of factors, including but not limited to communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
 4. Ensure that data are well described and catalogued.
@@ -51,8 +51,8 @@ The Performance & Analytics Department is committed to guiding this potential to
 ## Where we are today.
 In the last 6 months, we have made significant progress on all 5 of our goals:
 * Consistent with the policy timeline, we issued the inventory guidelines on March 9, before the March 31, 2015 deadline.
-* By creating the city's first ever data inventory, we were able to:
-    * Collect base level attributes about the city's data. (Goal 4)
+* By creating the City's first ever Data Inventory, we were able to:
+    * Collect base level attributes about the City's data. (Goal 4)
     * Create a base knowledge of information at the City's disposal. (Goals 2, 4, 5)
     * Identify individuals currently working with specific sets of data. (Goal 2) 
     * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
@@ -66,7 +66,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
 * Make the inventory process routine and more efficient.
 * Continue to provide context to City data and engage with the community.
 * Continue refinement and updates of technical guidelines.
-* Identify high value data sets and prioritize data for release.
+* Identify high value datasets and prioritize data for release.
 * Review and potentially update Open Data Policy.
 * Begin to release data by July 1, 2016.
 

@@ -1,5 +1,5 @@
 # Inventory Findings
-The data inventory we compiled is the first data inventory in the history of the City.  Needless to say, it is a living document and will continue to evolve.  Since this first-ever inventory is human generated, it will require cleaning, as there are a number of values that do not fit into the validation criteria (for example: a coordinator inputting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose PII or cybersecurity vulnerabilities.  After we have verified the inventory data, we will post a list of data sets for public review.
+The Data Inventory we compiled is the first Data Inventory in the history of the City.  Needless to say, it is a living document and will continue to evolve.  Since this first ever inventory is human generated, it will require cleaning, as there are a number of values that do not fit into the validation criteria (for example: a coordinator inputting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate for data that may expose PII or cybersecurity vulnerabilities.  After we have verified the inventory data, we will post a list of datasets for public review.
 
 ## Submissions By Department
 Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate. 
@@ -61,11 +61,11 @@ As part of the inventory process, we asked departments to identify datasets they
 ![public datasets](assets/chart/pubdsg.png)
 
 ##### Insights
-Departments already consider nearly half of the reported datasets to be public but are not yet publishing them. As we prioritize public data sets for release, we envision these to be among the low-hanging fruit to consider for publication in the Open Data portal.  Some examples include: 
+Departments already consider nearly half of the reported datasets to be public but are not yet publishing them. As we prioritize public datasets for release, we envision these to be among the low-hanging fruit to consider for publication in the Open Data portal.  Some examples include:
 * Capital Improvement Projects (PW).
 * Library Locations and Hours (Library).
 * Event Calendars (Parks & Special Events).
-* Business Tax Data (Treasurer).
+* Parking Meter Data (Treasurer).
 
 ## Update Frequency
 As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified (and thus is presented in aggregated form below), dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may require additional resources.
