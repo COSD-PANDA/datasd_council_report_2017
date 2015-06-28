@@ -42,7 +42,7 @@ Team members from 18F, a top notch team of designers, developers and product spe
 ![Tweet](http://take.ms/mdrLE)
 
 ## CyberTech 
-On May 30 and 31, CyberTech, a global cybersecurity and Internet of Things network ecosystem, in partnership with the City and AT&T, hosted a hackathon to build applications of the City's already open data.  Below are some tweets referring to some of the apps that were under construction.
+On May 30 and 31, CyberTech, a global cybersecurity and Internet of Things network ecosystem, in partnership with the City and AT&T, hosted a hackathon to build applications of the City's already Open Data.  Below are some tweets referring to some of the apps that were under construction.
 
 ![movein](http://take.ms/CvMRt)
 ![swat](http://take.ms/w8W10)

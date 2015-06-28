@@ -19,7 +19,7 @@ In order to ensure that it works well with the Open Data initiative, we were hea
 ![MKF](http://www.sandiego.gov/mayor/graphics/article/designsdphoto.jpg)
 
 ## Meetings with Foreign Delegations
-As the City moves along its open data program, we are beginning to receive global recognition for our thoughtful and insightful approaches to open data.
+As the City moves along its Open Data program, we are beginning to receive global recognition for our thoughtful and insightful approaches to Open Data.
 
 So far, we have met with delegations from Macedonia and the Phillipines to discuss Mayor Faulconer's advances in Open Data and Open Government:
 

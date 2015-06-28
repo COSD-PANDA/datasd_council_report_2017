@@ -1,7 +1,7 @@
 # Inventory Process
 
 ## Purpose
-The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders in identifying data sets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
+The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders in identifying datasets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
 
 * Establish a base level inventory of the data the City has at its disposal.
 * Create and collect a base level of attributes describing our City's data.
@@ -9,6 +9,7 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 * Identify people currently working with and managing data.
 * Understand which of the city's software systems are authoritative for various pieces of information.
 * Identify critical data and be able to prioritize it for release or internal access.
+* Understand which of the City's software systems are authoritative for various pieces of information.
 
 
 ## Process Overview
@@ -28,7 +29,7 @@ Consequently, we emphasized the following:
 * Provide all the necessary information to everyone all the time. 
 * Continuously collect feedback, and be flexible enough to adjust the process.
 * Automate repeatable tasks and allow technology to increase execution velocity.
-* Technology or the CDO must not be a bottleneck to any of the coordinators.
+* Technology or the CDO (Chief Data Officer) must not be a bottleneck to any of the coordinators.
 * Process must be as efficient as possible to minimize rework and increase accuracy. 
 * Break down large chunks of work into smaller ones.  Operate in short spurts, but allow for full-scope completion all at once.
 * Create infrastructure for future growth and maintenance.
@@ -45,24 +46,24 @@ We broke the inventory down into three steps, giving coordinators one month to c
 We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 
 #### Step 1
-For Step 1, we asked coordinators to identify any authoritative data sources their department uses.  We identified a data source as any system that stores the primary version of data.  For example:
+For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
 
-* Information Systems (such as client facing applications sandiego.gov or internally used applications like SAP)
+* Information Systems (such as public facing applications sandiego.gov or internally used applications like SAP)
 * Databases (such as Microsoft Access and Business Warehouse)
 * Excel Spreadsheets on Shared Drives or Personal Desktops
 * Access Databases on Shared Drives or Personal Desktops
 * 3rd Party Vendors and data hosted on vendor systems (such as Survey Monkey or Google Analytics).
 
-For a further description of what we provided as datasource definitions, please see [Core Inventory, Step 1 - Data Sources in the Attachments Section](../attachments/core_inventory/datasources.html).
+For a further description of what we provided as datasource definitions, please see [Core Inventory, Step 1 - Datasources in the Attachments Section](../attachments/core_inventory/datasources.html).
 
 In addition to identifying datasources, we asked coordinators to identify:
 
-* The person that is responsible for the technical management of the system (IT SME).
-* The person that has the business level knowledge and understanding of what data are stored within the system (Business SME).
+* The person that is responsible for the technical management of the system (IT Subject Matter Expert).
+* The person that has the business level knowledge and understanding of what data are stored within the system (Business Subject Matter Expert).
 * Any potential technical changes (replacements, upgrades) the system might experience in the future.
 
 #### Step 2
-In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the data sources. 
+In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the datasources.
 Because each department has its own culture and style of communication, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Core Inventory, Step 2 - Dataset Brainstorm Guide in the Attachments Section](../attachments/core_inventory/brainstorm_guide.html).
 
 
