@@ -16,7 +16,7 @@ We will continue our community outreach and engagement efforts with Open San Die
 We designed technical guidelines to operate as a living document, and we will continue to adjust as we move along the process of publishing data and managing data.  A well-designed release process--one that ensures any data released to the portal continues to be up-to-date--will be a key component of the technical guidelines, and a well-defined internal data management structure will be crucial in supporting it.
 
 ## Identify high value datasets and prioritize data for release.
-After the inventory data are cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [next section](../attachments/prioritization.md) section.  Furthermore, as we leverage Open Data for creation and future upgrading of the citywide performance dashboard, datasets supporting those indicators will be prioritized higher for release.
+After the inventory data are cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [next section](./prioritization.md) section.  Furthermore, as we leverage Open Data for creation and future upgrading of the citywide performance dashboard, datasets supporting those indicators will be prioritized higher for release.
 
 
 ## Review and potentially update Open Data Policy.

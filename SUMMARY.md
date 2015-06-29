@@ -8,7 +8,7 @@
 * [Prioritization](main/prioritization.md)
 * [Community Involvement](main/community.md)
 * [Acknowledgements](main/stars.md)
-* [Attachments](attachments/prioritization.md)
+* [Attachments](attachments/core_inventory/datasources.md)
     - [Core Inventory](attachments/core_inventory/datasources.md)
         + [Step 1 - Datasources](attachments/core_inventory/datasources.md)
         + [Step 2 - Dataset Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)
