@@ -1,13 +1,13 @@
 # Next Steps
 
 ## Perform a thorough analysis of inventory data.
-Since the inventory is human generated, we need considerable cleaning of the data in order to correct duplicative and inconsistent data entry.  In addition, we have yet to merge information from nonhuman sources to validate, and possibly supplement, today's inventory. Finally, there are risks that our data may expose PII or cybersecurity vulnerabilities. After we have verified the inventory data and taken steps to mitigate these potential vulnerabilities, we will post it for public review and to assist in the identification of high value datasets for prioritization and release.
+Since the inventory is manually generated, we need considerable cleaning of the data in order to correct duplicative and inconsistent data entry.  In addition, we have yet to merge information from additional sources to validate, and possibly supplement, today's inventory. Finally, there are risks that our data may expose PII or cybersecurity vulnerabilities. After we have verified the inventory data and taken steps to mitigate these potential vulnerabilities, we will post it for public review and to assist in the identification of high value datasets for prioritization and release.
 
 ## Procure an Open Data Portal.
-Since it is difficult for many people to understand data when they are provided in a purely machine readable format, we plan to procure a software solution for making user-friendly visualizations of such information.  In addition, this software will host our datasets.
+Since it is difficult for many people to understand data when they are provided in a purely machine readable format, we plan to procure a software solution for making user-friendly visualizations of such information.  In addition, this software will host datasets we make available to the public.
 
 ## Make the inventory process routine and more efficient.
-The initial inventory largely relied on human input, but as we continue along the path of treating our data as valued assets, we will explore and implement options to automate inventory maintenance.
+The initial inventory largely relied on manual input, but as we continue along the path of treating our data as valued assets, we will explore and implement options to automate inventory maintenance and further educate information coordinators.
 
 ## Continue to provide context to City data and engage with the community.
 We will continue our community outreach and engagement efforts with Open San Diego. We will explore new avenues for contextualizing City data, so that they can be consumed by all interested parties.   We will pursue partnerships with nonprofits or educational institutions to analyze data for the betterment of our communities and our City operations.
@@ -23,7 +23,7 @@ After the inventory data are cleaned and analyzed, we will prioritize data based
 Since the Policy calls for a yearly review of itself, we will be reviewing the Open Data Policy before the end of the calendar year.
 
 ## Begin to release data by July 1, 2016
-We are still on schedule to begin data releases by July 1, 2016.
+We are still on schedule to begin data releases by July 1, 2016, as well as looking forward to bringing in currently released data under the governance.
 
 
 

@@ -3,9 +3,12 @@
 ## Purpose
 The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders in identifying datasets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
 
-* Create and collect a base level of attributes describing our City's data. 
-* Identify people currently working with and managing data.
 * Establish a base level inventory of the data the City has at its disposal.
+* Create and collect a base level of attributes describing our City's data.
+* Establish a competent group of information coordinators across the departments.
+* Identify people currently working with and managing data.
+* Understand which of the city's software systems are authoritative for various pieces of information.
+* Identify critical data and be able to prioritize it for release or internal access.
 * Understand which of the City's software systems are authoritative for various pieces of information.
 
 
@@ -125,11 +128,11 @@ In order to gauge the usefulness of the guidelines, it was important to know how
 R Script handles inventory data compilation and reporting across the department spreadsheets. R Script pulls summary inventory data from all spreadsheets, aggregates and then cleans the data.  In order for the inventory to be effective, it must be continuously updated, and these tools allow us to do so now and in the future.
 
 #### Additional Sources
-In addition to the human generated inventory, we are working with the Department of IT to take advantage of available technological data collection methods.  We will rely on the following sources to verify and augment the inventory data over the coming year:
+In addition to the manually generated inventory, we are working with the Department of IT to take advantage of available technological data collection methods.  We will rely on the following sources to verify and augment the inventory data over the coming year:
 
-* List of GIS Data
+* List of GIS (Geographic Information Systems) Data
 * List of Business Warehouse Reports
-* List of Data provided by CGI
+* List of Data provided by CGI (the application support sourcing vendor)
 * Automated scanning of sandiego.gov for potential datasets
 
 

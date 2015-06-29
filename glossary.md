@@ -15,5 +15,11 @@ Group of San Diego civic-stakeholders who meet regularly to share knowledge and 
 # National Day of Civic Hacking
 The goal of National Day of Civic Hacking is for residents, community groups, and government to collaborate to make their communities stronger. [National Day Of Civic Hacking](http://hackforchange.org/about/)
 
+# Portal
+A web application providing access, information and sometimes visualization of data.
+
+# GIS
+A geographic information system (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data.
+
 # System of Record
 The software system that is the authoritative datasource for a given data element or piece of information.
