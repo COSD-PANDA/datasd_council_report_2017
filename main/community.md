@@ -40,7 +40,7 @@ In order to build proper context between the community and the City, the followi
 
 
 ##### National Day of Civic Hacking
-Open San Diego coordinated 3 simultaneous events on June 5 and 6, 2015 for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and people from the community got involved.  
+Open San Diego coordinated 3 simultaneous events on June 5 and 6, 2015 for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and other community members got involved.  
 
 <div class="section group">
     <div class="col span_1_of_2">
