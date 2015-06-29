@@ -25,25 +25,46 @@ In order to build proper context between the community and the City, the followi
 * Almis Udrys (Director, Performance & Analytics)
     - Almis has appeared before Open San Diego in the years leading up to the adoption of the Open Data Policy to provide updates on the City's efforts in this space.
 
-![City Clerk](http://mrm-random.s3.amazonaws.com/dz/2015-05-19%2018.03.23.jpg)
 
-These appearances enhance the relationship between the City and the civic hacking community.  In addition, other City employees have become regular attendees of Open San Diego Meetings and are actively working on civic hacking projects.
 
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/2015-05-19%2018.03.23.jpg" alt="city treasurer"/>
+    </div>
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/highres_435356287.jpeg" alt="IT presentation"/>
+        These appearances enhance the relationship between the City and the civic hacking community.  In addition, other City employees have become regular attendees of Open San Diego Meetings and are actively working on civic hacking projects.
+    </div>
+
+</div>
+
+
+##### National Day of Civic Hacking
 Open San Diego coordinated 3 simultaneous events on June 5 and 6, 2015 for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and people from the community got involved.  
 
-![ndoch1](http://mrm-random.s3.amazonaws.com/dz/AVr3uRXiHqmGteWuWMqtwhcygfx5ShuioInQX2_Xx1Y.jpg)
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/NVp6Byiw2AB7R59fSpmA1w5F6cSjYqxuNtHqxNsr1rQ.jpg" alt="ndoch2"/>
+    </div>
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/CemANb4rDHMV_1PBT7KeJpdXK9PUMB9CxtK_HYXFyFw.jpg" alt="ndoch3"/>
+    </div>
+</div>
 
-![ndoch2](http://mrm-random.s3.amazonaws.com/dz/NVp6Byiw2AB7R59fSpmA1w5F6cSjYqxuNtHqxNsr1rQ.jpg)
-
-![ndoch3](http://mrm-random.s3.amazonaws.com/dz/CemANb4rDHMV_1PBT7KeJpdXK9PUMB9CxtK_HYXFyFw.jpg)
 
 Team members from 18F, a top notch team of designers, developers and product specialists embedded in the federal General Services Administration, had representatives at the event.  The City was [recognized on a national stage](https://18f.gsa.gov/2015/06/11/18f-at-national-civic-hacking-day/).
 
 ![Tweet](http://take.ms/mdrLE)
 
 ## CyberTech 
-On May 30 and 31, CyberTech, a global cybersecurity and Internet of Things network ecosystem, in partnership with the City and AT&T, hosted a hackathon to build applications of the City's already Open Data.  Below are some tweets referring to some of the apps that were under construction.
+On May 30 and 31, CyberTech, a global cybersecurity and Internet of Things network ecosystem, in partnership with the City and AT&T, hosted a hackathon to build applications of the City's already Open Data. 
 
-![movein](http://take.ms/CvMRt)
-![swat](http://take.ms/w8W10)
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/2UTlb" alt="gary tweet"/>
+    </div>
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/t0m4n" alt="ndoch3"/>
+    </div>
+</div>
 
