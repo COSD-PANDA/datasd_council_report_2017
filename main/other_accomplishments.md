@@ -4,7 +4,7 @@ In April 2015, the City launched a public-facing budget tool, OpenGov, that to o
 
 ![OpenGov](http://take.ms/WSg3A)
 
-Notably, our OpenGov launch took less than 4 weeks, making it the fastest large city deployment.  Additionally, we are one of only a few cities that house the tool under a subdomain of sandiego.gov. We plan to upload FY 16 adopted as well as historical budget data in the near future. We also continue to work with the vendor to develop new functionality. In June 2015, our Director presented San Diego's story on this visualization and our Open Data program during a financial transparency webinar.
+Notably, our OpenGov launch took less than 4 weeks, making it the fastest large city deployment.  Additionally, we are one of only a few cities that house the tool under a [subdomain of sandiego.gov](https://budget.sandiego.gov). We plan to upload FY 16 adopted as well as historical budget data in the near future. We also continue to work with the vendor to develop new functionality. In June 2015, our Director presented San Diego's story on this visualization and our Open Data program during a financial transparency webinar.
 
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
