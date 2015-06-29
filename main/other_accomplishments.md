@@ -1,6 +1,6 @@
 # Other Accomplishments
 ## OpenGov
-In partnership with Financial Management and the CIO, we launched a public-facing budget tool, OpenGov, that to our knowledge is among the most transparent budget visualizations in the country.  
+In April 2015, the City launched a public-facing budget tool, OpenGov, that to our knowledge is among the most transparent budget visualizations in the country.  
 
 ![OpenGov](http://take.ms/WSg3A)
 
@@ -9,7 +9,7 @@ Notably, our OpenGov launch took less than 4 weeks, making it the fastest large 
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
 ## City Clerk
-Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help her office keep track of Records Disposition Schedules. 
+Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help keep track of Records Disposition Schedules. 
 
 ![cdash](http://take.ms/2u2QS)
 

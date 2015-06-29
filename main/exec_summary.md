@@ -13,7 +13,7 @@ For additional background and history of the Open Data Program in the City, plea
 The overarching vision for the program is to get the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
 
 ## Background
-The City collects, produces, and stores an enormous amount of data.  Some examples include:
+The City collects, produces, and stores an enormous amount of data.  A few examples include:
 
 * Crime data
 * Parking meter data
@@ -21,24 +21,24 @@ The City collects, produces, and stores an enormous amount of data.  Some exampl
 * Street paving
 * Mapping data
 
-These data currently reside in a range of isolated and non-integrated data repositories, in multiple incompatible formats, and are managed by non-interoperable platforms.  These data have the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and data-driven leader on the global civic landscape.
+The data currently reside in a range of isolated and non-integrated data repositories, in multiple incompatible formats, and are managed by non-interoperable platforms.  The data have the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and data-driven leader on the global civic landscape.
 
-Properly enhanced and managed, these data has the potential to:
+Properly enhanced and managed, the data has the potential to:
 
-* Facilitate decision-making by Mayor Faulconer and the City Council.
+* Facilitate decision-making by staff and policymakers.
 * Increase transparency, efficiency, and accountability.
 * Improve information sharing and use by City employees.
 * Allow the community to conduct analyses and build applications on top of the City’s data.
 
-The Performance & Analytics Department is committed to guiding this potential towards reality. 
+The City is committed to guiding this potential towards reality. 
 
 
 ## Benefits of Open Data
 
-1. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
-2. **Empower** consumers of City data-based applications to have the most up-to-date, accurate and relevant information at their fingertips.
-3. Allow City employees to be more **efficient** and innovative by allowing them to get data from other departments more quickly and in an easily consumable format.
-4. Allow taxpayers to benefit from a more **efficient**, agile government that is capable of being responsive to them and able to deliver more with the same level of resources.
+1. Allow taxpayers to benefit from a more **efficient**, agile government that is capable of being responsive to them and able to deliver more with the same level of resources.
+2. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
+3. **Empower** consumers of City data-based applications to have the most up-to-date, accurate and relevant information at their fingertips.
+4. Allow City employees to be more **efficient** and innovative by allowing them to get data from other departments more quickly and in an easily consumable format.
 5. Be recognized globally as a leader in the space.
 
 
@@ -49,7 +49,7 @@ The Performance & Analytics Department is committed to guiding this potential to
 2. Manage data like an asset, formalizing existing oversight and ownership.
     * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
 3. Release data to the public via a strategic and predictable process.
-    * Data releases must account for a multitude of factors, including but not limited to communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
+    * Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
 4. Ensure that data are well described and catalogued.
     * Understanding what data we have is crucial to both Open Data and data management.  We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.  
 5. Support increased use of data in decision making, as well as innovations in Open Data use.
@@ -67,7 +67,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
     * Identify individuals currently working with specific sets of data. (Goal 2) 
     * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
     * Understand which of the City's software systems are authoritative for various pieces of information. (Goal 2, 4, 5)
-+ Consistent with the policy, a draft version of the Technical Guidelines is ready, but is currently going through internal review before formalization. (All Goals)
++ Consistent with the policy, a draft version of the Technical Guidelines is ready, and is currently going through internal review before formalization. (All Goals)
 + We are enhancing our engagement with the civic hacking community and other interested stakeholders. For example, the City participated in the National Day of Civic Hacking by co-hosting three events on June 5th and 6th.  (Goal 5)
 
 ## Next Steps.

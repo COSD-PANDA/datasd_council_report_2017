@@ -7,7 +7,7 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 * Create and collect a base level of attributes describing our City's data.
 * Establish a competent group of information coordinators across the departments.
 * Identify people currently working with and managing data.
-* Understand which of the city's software systems are authoritative for various pieces of information.
+* Understand which of the City's software systems are authoritative for various pieces of information.
 * Identify critical data and be able to prioritize it for release or internal access.
 * Understand which of the City's software systems are authoritative for various pieces of information.
 
@@ -68,7 +68,7 @@ Because each department has its own culture and style of communication, we provi
 
 
 #### Step 3
-In Step 3, we collected the minimum amount of information needed to get a basic understanding of datasets, in order to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
+In Step 3, we collected information needed to get a basic understanding of datasets, in order to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
 * Brief description of data   
 * Frequency of data change    
 * Format  

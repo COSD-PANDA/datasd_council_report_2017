@@ -10,8 +10,7 @@ The inventory process was well received, with 100% of invited departments partic
 
 The City is well on its way towards achieving the goals of the Open Data Policy.  In addition, we are on track to build a robust data management program--one that ensures the data we publish and maintain is of high quality and up-to-date.  
 
-This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, Assistant Chief Operating Officer Stacey LoMedico, and the entire management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive Data Inventory effort of any government in this region.  We look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
-
+This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, the Department of IT, and the City's management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive Data Inventory effort of any government in this region.  We look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
 
 <div class="sig-container">
     <div class="sig-container-inner right">
