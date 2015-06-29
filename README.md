@@ -11,15 +11,24 @@ The City is well on its way towards achieving the goals of the Open Data Policy.
 
 This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, the Department of IT, and the City's management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive Data Inventory effort of any government in this region.  We look forward to continuing to work together on implementing the Open Data program and making San Diego a leader in this space.
 
-<div class="sig-container">
-    <div class="sig-container-inner right">
-      Almis Udrys, <br/>
-      Director of Performance & Analytics
+<div class="section group sig">
+    <div class="col span_1_of_2">
+      <div class="sig-img">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/e-signature_AUdrys.jpg"/>
+      </div>
+      <div class="sig-sub">
+        Almis Udrys, <br/>
+        Director of Performance & Analytics
+      </div>
     </div>
-    <div class="sig-container-inner left">
-      
-      Maksim Pecherskiy, <br/>
-      Chief Data Officer
+    <div class="col span_1_of_2">
+      <div class="sig-img">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/Image-1-1.jpg"/>
+      </div>
+      <div class="sig-sub">
+        Maksim Pecherskiy, <br/>
+        Chief Data Officer
+      </div>
     </div>
-</div>
 
+</div>
