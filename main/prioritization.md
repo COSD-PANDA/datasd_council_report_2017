@@ -1,28 +1,28 @@
-# Prioritization.
+# Prioritization
 The Open Data Policy calls for us to release high value datasets to the public.  High value is a subjective term, highly relative to the standpoint of the person making the judgment.  Therefore, to have a solid determination of "high value", we need to understand who it is that may be making the judgment:
 
 
-## Components of Prioritization.
-### Personas.
+## Components of Prioritization
+### Personas
 In our thinking about Open Data, we identified several high-level personas that would naturally care about what is released.  These personas will be part of our evaluation on what constitutes datasets that are scheduled for release.
 
-![Personas](http://take.ms/UiDp2)
+<img src="http://mrm-random.s3.amazonaws.com/dz/Open_Data_Stakeholders_-_Pub%20(2).png" alt="Personas" width="100%"/>
 
 In order to prioritize, we plan to measure a dataset on the following overarching factors:
 
-### Value.
+### Value
 The value of a dataset is gauged by demand from various stakeholders; whether this dataset will increase transparency, accountability or internal efficiency; or create economic opportunity.
 
-### Security.
+### Security
 The City will place the highest priority on protecting data that exposes the City to security risks or the public's private information from release.
 
-### Quality.
+### Quality
 Low-quality data (i.e. missing fields, erroneous entry, manually updated) could receive a lower prioritization, since it may need some extra work.
 
-### Readiness.
+### Readiness
 Readiness gauges the amount of work required to convert the data to an open format, and whether data are already routinely published.
 
-## Prioritization Matrix.
+## Prioritization Matrix
 Based on the preceding components of prioritization, we have derived an initial prioritization matrix that will be revised as necessary following a legal and technical review: 
 
 
