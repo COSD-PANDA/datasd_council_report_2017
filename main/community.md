@@ -54,7 +54,6 @@ Open San Diego coordinated 3 simultaneous events on June 5 and 6, 2015 for the [
 
 Team members from 18F, a top notch team of designers, developers and product specialists embedded in the federal General Services Administration, had representatives at the event.  The City was [recognized on a national stage](https://18f.gsa.gov/2015/06/11/18f-at-national-civic-hacking-day/).
 
-![Tweet](http://take.ms/mdrLE)
 
 ## CyberTech 
 On May 30 and 31, CyberTech, a global cybersecurity and Internet of Things network ecosystem, in partnership with the City and AT&T, hosted a hackathon to build applications of the City's already Open Data. 
