@@ -1,4 +1,4 @@
-# Executive Summary.
+# Executive Summary
 
 The City of San Diego is committed to the principles of open, accessible, efficient, and transparent government, as well the use of technology to help put those principles into practice.  Mayor Faulconer created the Performance & Analytics Department on July 1, 2014.  Its purpose is to focus on citywide efficiency, accountability, and transparency initiatives.  On December 16, 2014, the Council passed the City's Open Data Policy with his strong support.
 
@@ -12,7 +12,7 @@ For additional background and history of the Open Data Program in the City, plea
 
 The overarching vision for the program is to get the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
 
-## Background.
+## Background
 The City collects, produces, and stores an enormous amount of data.  A few examples include:
 
 * Crime data
@@ -33,7 +33,7 @@ Properly enhanced and managed, the data has the potential to:
 The City is committed to guiding this potential towards reality. 
 
 
-## Benefits of Open Data.
+## Benefits of Open Data
 
 1. Allow taxpayers to benefit from a more **efficient**, agile government that is capable of being responsive to them and able to deliver more with the same level of resources.
 2. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
@@ -43,7 +43,7 @@ The City is committed to guiding this potential towards reality.
 
 
 
-## Open Data Program Goals.
+## Open Data Program Goals
 1. Increase data literacy within the City and with those who interact with the City.
     * There are various levels of understanding of what are data, metadata, Open Data, etc.
 2. Manage data like an asset, formalizing existing oversight and ownership.
@@ -55,7 +55,7 @@ The City is committed to guiding this potential towards reality.
 5. Support increased use of data in decision making, as well as innovations in Open Data use.
     * We have a talented City workforce that makes data-driven decisions every day.  In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
 
-## Where we are today.
+## Where we are today
 In the last 6 months, we have made significant progress on all 5 of our goals:
 
 * Consistent with the policy timeline, we issued the inventory guidelines on March 9, before the March 31, 2015 deadline.
@@ -70,7 +70,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
 + Consistent with the policy, a draft version of the Technical Guidelines is ready, and is currently going through internal review before formalization. (All Goals)
 + We are enhancing our engagement with the civic hacking community and other interested stakeholders. For example, the City participated in the National Day of Civic Hacking by co-hosting three events on June 5th and 6th.  (Goal 5)
 
-## Next Steps.
+## Next Steps
 * Perform a thorough analysis of inventory data.
 * Procure an Open Data Portal.
 * Make the inventory maintenance process routine and more efficient.

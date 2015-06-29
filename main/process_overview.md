@@ -1,6 +1,6 @@
-# Inventory Process.
+# Inventory Process
 
-## Purpose.
+## Purpose
 The purpose of the Data Inventory is to get a bird's eye view of data we have in the City and to assist stakeholders in identifying datasets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
 
 * Establish a base level inventory of the data the City has at its disposal.
@@ -12,7 +12,7 @@ The purpose of the Data Inventory is to get a bird's eye view of data we have in
 * Understand which of the City's software systems are authoritative for various pieces of information.
 
 
-## Process Overview.
+## Process Overview
 
 The first part of the inventory was to identify information coordinators from each of the 35 departments/programs we engaged.  Most departments assigned a single point of contact to work with the Chief Data Officer.  However, several larger departments chose to assign multiple coordinators to represent certain divisions.  We sought out information coordinators that are knowledgeable in the business level--of how the department operates, and how users make decisions based on that knowledge.  In total, we worked with 65 coordinators.
 
@@ -35,7 +35,7 @@ Consequently, we emphasized the following:
 * Create infrastructure for future growth and maintenance.
 * Track progress. 
 
-### Kickoff.
+### Kickoff
 Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 3-hour meetings were the only large meetings held during the inventory process.
 
 ### Inventory Process 
@@ -45,7 +45,7 @@ We broke the inventory down into three steps, giving coordinators one month to c
 
 We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 
-#### Step 1.
+#### Step 1
 For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
 
 * Information Systems (such as public facing applications sandiego.gov or internally used applications like SAP)
@@ -62,12 +62,12 @@ In addition to identifying datasources, we asked coordinators to identify:
 * The person that has the business level knowledge and understanding of what data are stored within the system (Business Subject Matter Expert).
 * Any potential technical changes (replacements, upgrades) the system might experience in the future.
 
-#### Step 2.
+#### Step 2
 In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the datasources.
 Because each department has its own culture and style of communication, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Core Inventory, Step 2 - Dataset Brainstorm Guide in the Attachments Section](../attachments/core_inventory/brainstorm_guide.html).
 
 
-#### Step 3.
+#### Step 3
 In Step 3, we collected information needed to get a basic understanding of datasets, in order to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
 * Brief description of data   
 * Frequency of data change    
@@ -84,8 +84,8 @@ Please review the [Core Inventory, Step 3 - Dataset Attribute Definitions in the
 
 
 
-### Technology.
-#### Inventory Sheets.
+### Technology
+#### Inventory Sheets
 Working closely with the Department of Information Technology, we took advantage of technology to complete the inventory in the required timeframe.
 
 Through the use of technology in the inventory process, we were able to facilitate the following:
@@ -96,14 +96,14 @@ Through the use of technology in the inventory process, we were able to facilita
 * Aggregate and track progress for all departments in one location.
 
 
-#### Reporting.
+#### Reporting
 To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard:
 ![CDO Dashboard](http://take.ms/BGPG1).  
 
 However, department coordinators did not need the same level of depth, so we provided them a simplified interface: 
 ![deptdash](http://take.ms/2FCWc)
 
-#### Dissemination of information.
+#### Dissemination of information
 One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook, which is an open source publishing work-flow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to redistribute them to coordinators.
 
 In addition to the benefit of receiving continuous feedback from City staff, we also analyzed how the staff used the documents.  By continuously tracking our documentation's effectiveness, we issued targeted clarifications and improved internal communication around Open Data.  For example, earlier versions of the inventory had separate examples for each step.  We noticed that many coordinators went to see the examples, but left those pages quickly, which suggests that they did not find them useful.  When we changed to a single example that covered the entire inventory, we instantly observed people staying on pages longer and getting more use from the examples.
@@ -121,14 +121,14 @@ We tracked:
 * Pageviews, users and returning users.
 ![gadash](http://take.ms/5Kg8v)
 
-######Tracking pageviews per session and returning users.
+######Tracking pageviews per session and returning users
 In order to gauge the usefulness of the guidelines, it was important to know how many people spent a significant amount of time reading the guidelines, and how many people returned to said guidelines.
 ![gashot](http://take.ms/xpqQr)
 
-#### Compiling.
+#### Compiling
 R Script handles inventory data compilation and reporting across the department spreadsheets. R Script pulls summary inventory data from all spreadsheets, aggregates and then cleans the data.  In order for the inventory to be effective, it must be continuously updated, and these tools allow us to do so now and in the future.
 
-#### Additional Sources.
+#### Additional Sources
 In addition to the manually generated inventory, we are working with the Department of IT to take advantage of available technological data collection methods.  We will rely on the following sources to verify and augment the inventory data over the coming year:
 
 * List of GIS (Geographic Information Systems) Data
