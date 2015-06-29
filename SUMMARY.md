@@ -14,5 +14,4 @@
         + [Step 1 - Datasources](attachments/core_inventory/datasources.md)
         + [Step 2 - Dataset Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)
         + [Step 3 - Dataset Attribute Definitions](attachments/core_inventory/definitions.md)
-    - [Information Coordinators](attachments/info_coordinators.md)
 * [GLOSSARY](glossary.md)
