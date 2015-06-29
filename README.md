@@ -1,10 +1,9 @@
 # City of San Diego.
 ## About this Report.
 
-
 Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program.  This report is available for [online consumption](http://tiny.cc/odreport) or as a PDF.
 
-This inaugural 2015 report contains the findings from the City's first Data Inventory including an overview of the process, the results, and next steps.  It will be provided to the Mayor and Council annually to keep them updated on progress of the program.
+This inaugural 2015 report on Open Data Program Implementation contains the findings from the City's first Data Inventory including an overview of the process, the results, and next steps.  In addition, we discuss some of the progress the program has made in community involvement and recognition.  It will be provided to the Mayor and Council annually to keep them updated on progress of the program.
 
 The inventory process was well received, with 100% of invited departments participating.  In our initial run, we identified over 2,000 datasets.  However, some of these datasets may not make it into the Open Data portal, expected to be launched by July 1, 2016, for a variety of reasons we describe in the report including the need to process and prioritize the data for public release, which we will begin during the first half of FY 16.  
 
