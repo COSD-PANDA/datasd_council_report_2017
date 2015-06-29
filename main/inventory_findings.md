@@ -47,41 +47,54 @@ Below is a list of submissions by department.  Departments vary in size, number 
 |transportation & storm water                   |          99|
 |**Total**                                      |    **2048**|
 
+ 
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="assets/chart/databybranchg.png" alt="Data Submissions By Branch"/>
+    </div>
+    <div class="col span_1_of_2">
+       <h5> Submissions By Branch. </h5>
+       The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
+    </div>
+</div>
 
-##### Submissions By Branch.
-![data submissions](assets/chart/databybranchg.png) 
-
-
-##### Insights.
-The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
 
 ## Public Dataset Analysis.
 As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Because this information is preliminary and still needs to be validated, below is a general citywide aggregated overview of department-reported information about public datasets.
 
-##### Citywide Publication of Reported Public Datasets 
-
-![public datasets](assets/chart/pubdsg.png)
-
-##### Insights.
-Departments already consider nearly half of the reported datasets to be public but are not yet publishing them. There are others that they do publish, but not in a central, organized location and in an open format. As we prioritize public datasets for release, we envision these to be among the low-hanging fruit to consider for publication in the Open Data portal.  Some examples include:
-
-* Capital Improvement Projects (PW).
-* Library Locations and Hours (Library).
-* Event Calendars (Parks & Special Events).
-* Parking Meter Data (Treasurer).
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="assets/chart/pubdsg.png" alt="Public Datasets and Publication"/>
+    </div>
+    <div class="col span_1_of_2">
+       <h5>Citywide Publication of Reported Public Datasets. </h5>
+       Departments already consider nearly half of the reported datasets to be public but are not yet publishing them. There are others that they do publish, but not in a central, organized location and in an open format. As we prioritize public datasets for release, we envision these to be among the low-hanging fruit to consider for publication in the Open Data portal.  Some examples include:
+       <ul>
+           <li>Capital Improvement Projects (PW).</li>
+           <li>Library Locations and Hours (Library).</li>
+           <li>Event Calendars (Parks & Special Events).</li>
+           <li>Parking Meter Data (Treasurer).</li>
+       </ul>
+    </div>
+</div>
 
 ## Update Frequency.
 As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified (and thus is presented in aggregated form below), dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may require additional resources.
 
-##### Frequency of Updates of Reported Public Datasets.
-![update-ds](assets/chart/pubdsc.png) 
-
-
-##### Insights.
-Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data.  Examples of datasets already published, with low update frequency:
-* Fire Hydrants (PUD)
-* Storm Water Runoff Report (TSW)
-* Business Improvement Districts (Economic Development)
-* Rec Spaces (Park and Rec) 
-* Fire Stations (Fire Department)
-* Annual Permit Issuances (DSD)
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="assets/chart/pubdsc.png" alt="Public Datasets and Updates"/>
+    </div>
+    <div class="col span_1_of_2">
+       <h5>Frequency of Updates of Reported Public Datasets.</h5>
+       Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data.  Examples of datasets already published, with low update frequency:
+       <ul>
+         <li>Fire Hydrants (PUD)</li>
+         <li>Storm Water Runoff Report (TSW)</li>
+         <li>Business Improvement Districts (Economic Development)</li>
+         <li>Rec Spaces (Park and Rec) </li>
+         <li>Fire Stations (Fire Department)</li>
+         <li>Annual Permit Issuances (DSD)</li>
+       </ul>
+    </div>
+</div>

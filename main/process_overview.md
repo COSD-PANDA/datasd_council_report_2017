@@ -83,6 +83,7 @@ In Step 3, we collected information needed to get a basic understanding of datas
 Please review the [Core Inventory, Step 3 - Dataset Attribute Definitions in the Attachments Section](../attachments/core_inventory/definitions.html) for the definitions of the fields above.
 
 
+
 ### Technology.
 #### Inventory Sheets.
 Working closely with the Department of Information Technology, we took advantage of technology to complete the inventory in the required timeframe.
