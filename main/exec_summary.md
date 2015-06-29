@@ -6,7 +6,7 @@ Opening up the City's data ties in directly with each of our Strategic Goals and
 
 * Provide High Quality Public Service
 * Work in partnership with all our communities to achieve safe and livable neighborhoods.
-* Create and sustain a resilient, economically prosperous city.
+* Create and sustain a resilient, economically prosperous City.
 
 For additional background and history of the Open Data Program in the City, please refer to the following: [http://bit.ly/sdodpres](http://bit.ly/sdodpres).
 
@@ -62,7 +62,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
 * By creating the City's first ever Data Inventory, we were able to:
     * Collect base level attributes about the City's data. (Goal 4)
     * Create a base knowledge of information at the City's disposal. (Goals 2, 4, 5)
-    * Collect base level attributes about the city's data. (Goal 4)
+    * Collect base level attributes about the City's data. (Goal 4)
     * Establish a competent group of information coordinators across the departments (All Goals)
     * Identify individuals currently working with specific sets of data. (Goal 2) 
     * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
