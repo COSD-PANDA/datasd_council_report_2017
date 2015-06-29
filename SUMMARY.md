@@ -5,7 +5,7 @@
 * [Inventory Findings](main/inventory_findings.md)
 * [Lessons learned](main/lessons_learned.md)
 * [Next Steps](main/next_steps.md)
-* [Prioritization](attachments/prioritization.md)
+* [Prioritization](main/prioritization.md)
 * [Community Involvement](main/community.md)
 * [Acknowledgements](main/stars.md)
 * [Attachments](attachments/prioritization.md)
