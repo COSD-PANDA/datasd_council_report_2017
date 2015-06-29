@@ -1,4 +1,4 @@
-# Next Steps
+# Next Steps.
 
 ## Perform a thorough analysis of inventory data.
 Since the inventory is manually generated, we need considerable cleaning of the data in order to correct duplicative and inconsistent data entry.  In addition, we have yet to merge information from additional sources to validate, and possibly supplement, today's inventory. Finally, there are risks that our data may expose PII or cybersecurity vulnerabilities. After we have verified the inventory data and taken steps to mitigate these potential vulnerabilities, we will post it for public review and to assist in the identification of high value datasets for prioritization and release.

@@ -1,4 +1,4 @@
-# Outstanding Departments
+# Outstanding Departments.
 This is not an easy process and different from what most City staff do day-to-day.  All the departments did an amazing job on the inventory (please see the [Attachment](../attachments/info_coordinators.html) for all the coordinators who participated, but there are some departments (and coordinators) that deserve special recognition.  
 
 They provided constructive feedback and exceptional assistance, helping to shape the inventory process.  This is not based on the number of datasets each submitted, but rather on their active involvement in the process.
@@ -34,7 +34,7 @@ In no particular order:
     - Kris McFadden
     - Hassan Yousef
 
-# Additional Acknowledgements
+# Additional Acknowledgements.
 * Joy Bonaguro (CDO of San Francisco)
     - Joy is a pleasure to collaborate with and was instrumental in helping plan the basics of the inventory process.
 * Allen Gunn 

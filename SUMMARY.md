@@ -1,4 +1,4 @@
-# Summary
+# Summary.
 * [About This Report](README.md)
 * [Executive Summary](main/exec_summary.md)
 * [Inventory Process](main/process_overview.md)

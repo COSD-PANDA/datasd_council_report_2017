@@ -1,4 +1,4 @@
-# Executive Summary
+# Executive Summary.
 
 The City of San Diego is committed to the principles of open, accessible, efficient, and transparent government, as well the use of technology to help put those principles into practice.  Mayor Faulconer created the Performance & Analytics Department on July 1, 2014.  Its purpose is to focus on citywide efficiency, accountability, and transparency initiatives.  On December 16, 2014, the Council passed the City's Open Data Policy with his strong support.
 
@@ -12,7 +12,7 @@ For additional background and history of the Open Data Program in the City, plea
 
 The overarching vision for the program is to get the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
 
-## Background
+## Background.
 The City collects, produces, and stores an enormous amount of data.  A few examples include:
 
 * Crime data
@@ -33,7 +33,7 @@ Properly enhanced and managed, the data has the potential to:
 The City is committed to guiding this potential towards reality. 
 
 
-## Benefits of Open Data
+## Benefits of Open Data.
 
 1. Allow taxpayers to benefit from a more **efficient**, agile government that is capable of being responsive to them and able to deliver more with the same level of resources.
 2. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
@@ -43,7 +43,7 @@ The City is committed to guiding this potential towards reality.
 
 
 
-## Open Data Program Goals
+## Open Data Program Goals.
 1. Increase data literacy within the City and with those who interact with the City.
     * There are various levels of understanding of what are data, metadata, Open Data, etc.
 2. Manage data like an asset, formalizing existing oversight and ownership.

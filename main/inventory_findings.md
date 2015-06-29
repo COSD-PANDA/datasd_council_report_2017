@@ -1,12 +1,12 @@
-# Inventory Findings
+# Inventory Findings.
 
 The Data Inventory we compiled is the first Data Inventory in the history of the City.  It is a living document and will continue to evolve.  Since this first ever inventory is manually generated, it will require cleaning, as there are a number of values that do not fit into the validation criteria (for example: a coordinator inputting "publicly available" instead of "public" in the data classification field).  In addition, we still need to validate and merge information from non-human sources.  Finally, before release, we must mitigate data that may expose PII or cybersecurity vulnerabilities.  After we have verified the inventory data, we will post a list of datasets for public review.
 
 
-## Submissions By Department
+## Submissions By Department.
 Below is a list of submissions by department.  Departments vary in size, number of employees, budget, and nature of workload, so we expected a wide diversity in these figures. They do not indicate the quality of any department's participation in the process.  As we proceed with the program, the inventory will become more robust and these numbers will grow more accurate. 
 
-##### Submissions Per Department
+##### Submissions Per Department.
 
 |dept                                           | numDatasets|
 |:----------------------------------------------|-----------:|
@@ -48,21 +48,21 @@ Below is a list of submissions by department.  Departments vary in size, number 
 |**Total**                                      |    **2048**|
 
 
-##### Submissions By Branch
+##### Submissions By Branch.
 ![data submissions](assets/chart/databybranchg.png) 
 
 
-##### Insights
+##### Insights.
 The City has a substantial amount of data, and information coordinators worked hard to educate Performance and Analytics about the data.  
 
-## Public Dataset Analysis
+## Public Dataset Analysis.
 As part of the inventory process, we asked departments to identify datasets they consider to be already public, and if they are already publishing them.  Because this information is preliminary and still needs to be validated, below is a general citywide aggregated overview of department-reported information about public datasets.
 
 ##### Citywide Publication of Reported Public Datasets 
 
 ![public datasets](assets/chart/pubdsg.png)
 
-##### Insights
+##### Insights.
 Departments already consider nearly half of the reported datasets to be public but are not yet publishing them. There are others that they do publish, but not in a central, organized location and in an open format. As we prioritize public datasets for release, we envision these to be among the low-hanging fruit to consider for publication in the Open Data portal.  Some examples include:
 
 * Capital Improvement Projects (PW).
@@ -70,14 +70,14 @@ Departments already consider nearly half of the reported datasets to be public b
 * Event Calendars (Parks & Special Events).
 * Parking Meter Data (Treasurer).
 
-## Update Frequency
+## Update Frequency.
 As a result of the inventory process, we also obtained a general overview of how frequently departments update datasets.  Although this information has yet to be verified (and thus is presented in aggregated form below), dataset update frequency offers another criteria we will consider when identifying public datasets for release.  Uploading datasets to the portal that are frequently updated would require automated processes that may require additional resources.
 
-##### Frequency of Updates of Reported Public Datasets
+##### Frequency of Updates of Reported Public Datasets.
 ![update-ds](assets/chart/pubdsc.png) 
 
 
-##### Insights
+##### Insights.
 Public datasets updated less frequently represent other low-hanging fruit, because they may not warrant a need for an automated process to publish data.  Examples of datasets already published, with low update frequency:
 * Fire Hydrants (PUD)
 * Storm Water Runoff Report (TSW)
