@@ -29,15 +29,15 @@ These visitors were brought to San Diego by the San Diego Diplomacy Council in c
 The delegation consisted of:
 
 * Ms. Gordana DUVNJAK
-    * Political Journalist, MPM Media Print Macedonia, Utrinski Vesnik daily newspaper
+  * Political Journalist, MPM Media Print Macedonia, Utrinski Vesnik daily newspaper
 * Ms. Ana JANEVSKA DELEVA
-    * Executive Director, Transparency Macedonia
+  * Executive Director, Transparency Macedonia
 * Mr. Goran KITANOVSKI
-    * Chief Inspector, Anti-Corruption Sector, Department for Suppressing Organized and Serious Crime, Ministry of Interior
+  * Chief Inspector, Anti-Corruption Sector, Department for Suppressing Organized and Serious Crime, Ministry of Interior
 * Ms. Neda KORUNOVSKA AVRAMOVSKA
-    * President, Reactor-Research in Action
+  * President, Reactor-Research in Action
 * Mr. Naum PANOSKI
-    * Public Prosecutor, Public Prosecution Office for Fighting Organized Crime and Corruption
+  * Public Prosecutor, Public Prosecution Office for Fighting Organized Crime and Corruption
 
 They were interested in exploring how the City's Open Data program as well as other transparency iniatives work in favor of countering corruption and helping econominc development.  We were glad to share with them the work we have been doing and the plans and ideas we had in Open Data and transparency in general.
 
