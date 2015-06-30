@@ -4,6 +4,10 @@ img {
   width: 75% !important;
 }
 
+img.fullwidth {
+  width: 100% !important;
+}
+
 .col.img {
   width: 100% !important;
 }

@@ -6,7 +6,7 @@ The Open Data Policy calls for us to release high-value datasets to the public. 
 ### Personas
 In our thinking about Open Data, we identified several high-level personas that would naturally care about what is released.  These personas will be part of our evaluation on what constitutes datasets that are scheduled for release.
 
-<img src="http://mrm-random.s3.amazonaws.com/dz/Open_Data_Stakeholders_-_Pub%20(2).png" alt="Personas" width="100%"/>
+<img class="fullwidth" src="http://mrm-random.s3.amazonaws.com/dz/Open_Data_Stakeholders_-_Pub%20(2).png" alt="Personas" width="100%"/>
 
 In order to prioritize, we plan to measure a dataset on the following overarching factors:
 
