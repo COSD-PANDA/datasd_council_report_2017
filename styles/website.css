@@ -28,6 +28,7 @@ h1 {
   display: block;
   float:left;
   margin: 1% 0 1% 1.6%;
+  padding:1%;
 }
 .col:first-child { margin-left: 0; }
 

@@ -39,12 +39,11 @@ Consequently, we emphasized the following:
 Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 3-hour meetings were the only large meetings held during the inventory process.
 
 ### Inventory Process 
-We broke the inventory down into three steps, giving coordinators one month to complete each step.  
+We broke the inventory down into three steps, giving coordinators one month to complete each step.  We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 
 ![Inv One Pager](http://take.ms/U11fa)
 
-We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
-
+<div class="break"></div>
 
 #### Step 1
 For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
@@ -70,20 +69,31 @@ Because each department has its own culture and style of communication, we provi
 
 #### Step 3
 In Step 3, we collected information needed to get a basic understanding of datasets, in order to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
-* Brief description of data   
-* Frequency of data change    
-* Format  
-* Existing publication    
-* Link to existing publication    
-* Priority/value  
-* Data Classification (Public / Protected / Sensitive) 
-* Data Quality Concerns   
-* PRA frequency   
-* Comments / Extra Info
+
+<div class="section group">
+    <div class="col span_1_of_2">
+        <ul>
+            <li>Brief description of data   </li>
+            <li>Frequency of data change    </li>
+            <li>Format  </li>
+            <li>Existing publication    </li>
+            <li>Link to existing publication    </li>
+        </ul>
+    </div>
+    <div class="col span_1_of_2">
+        <ul>
+            <li>Priority/value  </li>
+            <li>Data Classification (Public / Protected / Sensitive) </li>
+            <li>Data Quality Concerns   </li>
+            <li>PRA frequency   </li>
+            <li>Comments / Extra Info</li>
+        </ul>
+    </div>
+</div>
 
 Please review the [Core Inventory, Step 3 - Dataset Attribute Definitions in the Attachments Section](../attachments/core_inventory/definitions.html) for the definitions of the fields above.
 
-
+<div class="break"></div>
 
 ### Technology
 #### Inventory Sheets
@@ -157,6 +167,8 @@ In addition to the benefit of receiving continuous feedback from City staff, we 
       In order to gauge the usefulness of the guidelines, it was important to know how many people spent a significant amount of time reading the guidelines, and how many people returned.
     </div>
 </div>
+
+<div class="break"></div>
 
 #### Compiling
 R Script handles inventory data compilation and reporting across the department spreadsheets. R Script pulls summary inventory data from all spreadsheets, aggregates and then cleans the data.  In order for the inventory to be effective, it must be continuously updated, and these tools allow us to do so now and in the future.

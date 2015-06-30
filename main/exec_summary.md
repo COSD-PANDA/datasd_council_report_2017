@@ -18,8 +18,7 @@ The City collects, produces, and stores an enormous amount of data.  A few examp
 * Crime data
 * Parking meter data
 * Traffic counts
-* Street paving
-* Mapping data
+* Street paving activity
 
 The data currently reside in a range of isolated and non-integrated data repositories, in multiple incompatible formats, and are managed by non-interoperable platforms.  The data have the potential to drive deeper understanding of civic activity and policy, drive transparency and accountability, and make the City a more efficient and data-driven leader on the global civic landscape.
 
@@ -34,7 +33,6 @@ The City is committed to guiding this potential towards reality.
 
 
 ## Benefits of Open Data
-
 1. Allow taxpayers to benefit from a more **efficient**, agile government that is capable of being responsive to them and able to deliver more with the same level of resources.
 2. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
 3. **Empower** consumers of City data-based applications to have the most up-to-date, accurate and relevant information at their fingertips.
@@ -54,6 +52,8 @@ The City is committed to guiding this potential towards reality.
     * Understanding what data we have is crucial to both Open Data and data management.  We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.  
 5. Support increased use of data in decision making, as well as innovations in Open Data use.
     * We have a talented City workforce that makes data-driven decisions every day.  In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
+
+<div class="break"></div>
 
 ## Where we are today
 In the last 6 months, we have made significant progress on all 5 of our goals:
