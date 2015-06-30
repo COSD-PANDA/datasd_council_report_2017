@@ -21,7 +21,7 @@ In order to ensure that it works well with the Open Data initiative, we were hea
 ## Meetings with Foreign Delegations
 As the City moves along its Open Data program, we are beginning to receive global recognition for our thoughtful and insightful approaches to Open Data.
 
-So far, we have met with delegations from the Republic of Macedonia and the Phillipines to discuss Mayor Faulconer's advances in Open Data and Open Government.
+So far, we have met with delegations from the Republic of Macedonia and the Philippines to discuss Mayor Faulconer's advances in Open Data and Open Government.
 
 These visitors were brought to San Diego by the San Diego Diplomacy Council in conjunction with the International Visitor Leadership Program, the premier professional exchange program of the U.S. Department of State. Through short-term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts.
 
@@ -43,8 +43,8 @@ As citizens of a newer European country (formerly a part of Yugoslavia) the Mace
 
 ![Macedonians](http://mrm-random.s3.amazonaws.com/dz/2015-01-27%2016.28.38.jpg)
 
-#### Meeting with Phillipines Delegation
-The Phillipines Delegation arrived with the following specific objectives:
+#### Meeting with Philippines Delegation
+The Philippines Delegation arrived with the following specific objectives:
 
 * Enable national and local leaders to acknowledge their accountability to the office they serve as well as to the citizenry that elected them;
 * Enhance civic engagement that will contribute to political, economic, and social development;
@@ -71,5 +71,5 @@ The delegation consisted of:
 
 We presented the promise and progress of the inventory process, our plans for identifying high value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines.
 
-![Phillipines](http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg)
+![Philippines](http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg)
 
