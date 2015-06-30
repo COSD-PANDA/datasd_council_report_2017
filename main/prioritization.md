@@ -1,5 +1,5 @@
 # Prioritization
-The Open Data Policy calls for us to release high value datasets to the public.  High value is a subjective term, highly relative to the standpoint of the person making the judgment.  Therefore, to have a solid determination of "high value", we need to understand who it is that may be making the judgment:
+The Open Data Policy calls for us to release high-value datasets to the public.  High-value is a subjective term, highly relative to the standpoint of the person making the judgment.  Therefore, to have a solid determination of high-value, we need to understand who it is that may be making the judgment:
 
 
 ## Components of Prioritization

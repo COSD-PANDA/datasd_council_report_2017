@@ -69,7 +69,7 @@ The delegation consisted of:
 * Mr. Nelson VICTORINO
     * Chief of Staff, Office of Senator Grace Poe, Philippine Senate
 
-We presented the promise and progress of the inventory process, our plans for identifying high value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines.
+We presented the promise and progress of the inventory process, our plans for identifying high-value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines.
 
 ![Philippines](http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg)
 
