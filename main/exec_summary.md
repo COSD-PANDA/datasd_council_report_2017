@@ -39,14 +39,14 @@ The City is committed to guiding this potential towards reality.
 2. **Empower** people to build applications that assist residents, start businesses around those applications, and contribute to the overall **economic development** of the City.
 3. **Empower** consumers of City data-based applications to have the most up-to-date, accurate and relevant information at their fingertips.
 4. Allow City employees to be more **efficient** and innovative by allowing them to get data from other departments more quickly and in an easily consumable format.
-5. Be recognized globally as a leader in the space.
+5. Be recognized globally as a city government that reflects and supports the innovation of our surrounding community.
 
 
 
 ## Open Data Program Goals
 1. Increase data literacy within the City and with those who interact with the City.
     * There are various levels of understanding of what are data, metadata, Open Data, etc.
-2. Manage data like an asset, formalizing existing oversight and ownership.
+2. Manage data as an asset, formalizing existing oversight and ownership.
     * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
 3. Release data to the public via a strategic and predictable process.
     * Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
@@ -67,7 +67,7 @@ In the last 6 months, we have made significant progress on all 5 of our goals:
     * Identify individuals currently working with specific sets of data. (Goal 2) 
     * Begin to establish a common body of knowledge in the City about what data are. (Goal 1 and 5).
     * Understand which of the City's software systems are authoritative for various pieces of information. (Goal 2, 4, 5)
-+ Consistent with the policy, a draft version of the Technical Guidelines is ready, and is currently going through internal review before formalization. (All Goals)
++ Consistent with the policy, a draft version of the Technical Guidelines is under review prior to release. (All Goals)
 + We are enhancing our engagement with the civic hacking community and other interested stakeholders. For example, the City participated in the National Day of Civic Hacking by co-hosting three events on June 5th and 6th.  (Goal 5)
 
 ## Next Steps
