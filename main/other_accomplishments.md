@@ -21,11 +21,11 @@ In order to ensure that it works well with the Open Data initiative, we were hea
 ## Meetings with Foreign Delegations
 As the City moves along its Open Data program, we are beginning to receive global recognition for our thoughtful and insightful approaches to Open Data.
 
-So far, we have met with delegations from Macedonia and the Phillipines to discuss Mayor Faulconer's advances in Open Data and Open Government.
+So far, we have met with delegations from the Republic of Macedonia and the Phillipines to discuss Mayor Faulconer's advances in Open Data and Open Government.
 
-These visitors were brought to San Diego by the San Diego Diplomacy Council in conjunction with the International Visitor Leadership Program, the premier professional exchange program of the U.S. Department of State. Through short- term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts.
+These visitors were brought to San Diego by the San Diego Diplomacy Council in conjunction with the International Visitor Leadership Program, the premier professional exchange program of the U.S. Department of State. Through short-term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts.
 
-#### Meeting with the Macedonian Delegation
+#### Meeting with the Delegation from the Republic of Macedonia
 The delegation consisted of:
 
 * Ms. Gordana DUVNJAK
@@ -39,15 +39,15 @@ The delegation consisted of:
 * Mr. Naum PANOSKI
   * Public Prosecutor, Public Prosecution Office for Fighting Organized Crime and Corruption
 
-They were interested in exploring how the City's Open Data program as well as other transparency iniatives work in favor of countering corruption and helping econominc development.  We were glad to share with them the work we have been doing and the plans and ideas we had in Open Data and transparency in general.
+As citizens of a newer European country (formerly a part of Yugoslavia) the Macedonian visitors were interested in how an Open Data program and other transparency initiatives could help advance economic development and prevent corruption.  We presented the benefits of Open Data and how proactively releasing public information can build trust with the community and reduce workload on City staff.
 
 ![Macedonians](http://mrm-random.s3.amazonaws.com/dz/2015-01-27%2016.28.38.jpg)
 
 #### Meeting with Phillipines Delegation
-The visit of the Phillipines Delegation had some specific objectives:
+The Phillipines Delegation arrived with the following specific objectives:
 
 * Enable national and local leaders to acknowledge their accountability to the office they serve as well as to the citizenry that elected them;
-* Enhance civic engagement that will contribute political, economic, and social development;
+* Enhance civic engagement that will contribute to political, economic, and social development;
 * Promote broad-based participation in the democratic process;
 * Establish and promote transparency and accountability in government to eliminate the culture
 of corruption;
@@ -69,7 +69,7 @@ The delegation consisted of:
 * Mr. Nelson VICTORINO
     * Chief of Staff, Office of Senator Grace Poe, Philippine Senate
 
-We were very excited to share with them the work we have been doing with the inventory, trying to understand what data we have in the City and our plans for releasing the data.  We made contacts with several of the participants and plan on staying in touch and working together.
+We presented the promise and progress of the inventory process, our plans for identifying high value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines.
 
 ![Phillipines](http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg)
 
