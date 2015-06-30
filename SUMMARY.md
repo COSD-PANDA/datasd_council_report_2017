@@ -14,4 +14,3 @@
         + [Step 2 - Dataset Brainstorm Guide](attachments/core_inventory/brainstorm_guide.md)
         + [Step 3 - Dataset Attribute Definitions](attachments/core_inventory/definitions.md)
 * [Other Accomplishments](main/other_accomplishments.md)
-* [GLOSSARY](glossary.md)
