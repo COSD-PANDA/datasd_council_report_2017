@@ -23,3 +23,13 @@ A geographic information system (GIS) is a system designed to capture, store, ma
 
 # System of Record
 The software system that is the authoritative datasource for a given data element or piece of information.
+
+# Git
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+# GitBook
+The toolchain (GitBook) is a tool for building beautiful books using Git and Markdown. It can generate your book in many formats: PDF, ePub, mobi or as a website.
+
+# Open Source
+Open source software is software that can be freely used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under licenses that comply with the [Open Source Definition](http://opensource.org/definition).
+
