@@ -97,11 +97,22 @@ Through the use of technology in the inventory process, we were able to facilita
 
 
 #### Reporting
-To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard:
-![CDO Dashboard](http://take.ms/BGPG1).  
-
-However, department coordinators did not need the same level of depth, so we provided them a simplified interface: 
-![deptdash](http://take.ms/2FCWc)
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/BGPG1" alt="CDO Dashboard"/>
+    </div>
+    <div class="col span_1_of_2">
+        To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard.
+    </div>
+</div>
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/2FCWc" alt="Department Dashboard"/>
+    </div>
+    <div class="col span_1_of_2">
+        However, department coordinators did not need the same level of depth, so we provided them a simplified interface.
+    </div>
+</div>
 
 #### Dissemination of information
 One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook, which is an open source publishing work-flow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to redistribute them to coordinators.
@@ -109,21 +120,42 @@ One of our main goals was to make online resources available to all coordinators
 In addition to the benefit of receiving continuous feedback from City staff, we also analyzed how the staff used the documents.  By continuously tracking our documentation's effectiveness, we issued targeted clarifications and improved internal communication around Open Data.  For example, earlier versions of the inventory had separate examples for each step.  We noticed that many coordinators went to see the examples, but left those pages quickly, which suggests that they did not find them useful.  When we changed to a single example that covered the entire inventory, we instantly observed people staying on pages longer and getting more use from the examples.
 
 
-######Monitoring the navigation flow of users:
-We saw how people navigated through the inventory: which pages led them to other pages. Based on the feedback, we made several decisions on how to lay out the guidelines.
-![gaflow](http://take.ms/0Hi0H)
+#####Monitoring the navigation flow of users:
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/0Hi0H" alt="GA Flow"/>
+    </div>
+    <div class="col span_1_of_2">
+        We saw how people navigated through the inventory: which pages led them to other pages. Based on the feedback, we made several decisions on how to lay out the guidelines.
+    </div>
+</div>
 
-######Tracking various metrics to gauge user behavior and adjust accordingly:
-We tracked:
-* Pages where the most people exited the guidelines.
-* Viewed pages of the guidelines.
-* Ratio of how many people left the site after viewing only one page.
-* Pageviews, users and returning users.
-![gadash](http://take.ms/5Kg8v)
+#####Tracking various metrics to gauge user behavior and adjust accordingly:
+<div class="section group">
+    <div class="col span_1_of_2">
+        We tracked:
+        <ul>
+            <li>Pages where the most people exited the guidelines.</li>
+            <li>Viewed pages of the guidelines.</li>
+            <li>Ratio of how many people left the site after viewing only one page.</li>
+            <li>Pageviews, users and returning users.</li>
+        </ul>
+    </div>
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/5Kg8v" alt="GA Dash"/>
+    </div>
+</div>
 
-######Tracking pageviews per session and returning users
-In order to gauge the usefulness of the guidelines, it was important to know how many people spent a significant amount of time reading the guidelines, and how many people returned to said guidelines.
-![gashot](http://take.ms/xpqQr)
+
+#####Tracking pageviews per session and returning users
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/xpqQr" alt="GA Dash 2"/>
+    </div>
+    <div class="col span_1_of_2">
+      In order to gauge the usefulness of the guidelines, it was important to know how many people spent a significant amount of time reading the guidelines, and how many people returned.
+    </div>
+</div>
 
 #### Compiling
 R Script handles inventory data compilation and reporting across the department spreadsheets. R Script pulls summary inventory data from all spreadsheets, aggregates and then cleans the data.  In order for the inventory to be effective, it must be continuously updated, and these tools allow us to do so now and in the future.
