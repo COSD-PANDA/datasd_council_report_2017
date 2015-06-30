@@ -4,4 +4,4 @@ node_modules
 *.sublime-*
 *Ulysses*
 cover.png
-test.pdf
+*.pdf
