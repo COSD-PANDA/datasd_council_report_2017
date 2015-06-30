@@ -10,7 +10,7 @@ Opening up the City's data ties in directly with each of our Strategic Goals and
 
 For additional background and history of the Open Data Program in the City, please refer to the following: [http://bit.ly/sdodpres](http://bit.ly/sdodpres).
 
-The overarching vision for the program is to get the right people, with the right skills, involved at the right time, in the right way, using the right data, to help make the right decision and create the right solution.
+The guiding principle for the program is to get the proper stakeholders with the right skills, involved in a timely manner, equipped with the appropriate technology and accurate data to facilitate good decisions and innovative solutions for our residents.
 
 ## Background
 The City collects, produces, and stores an enormous amount of data.  A few examples include:
