@@ -1,4 +1,5 @@
-#Glossary
+# A Glossary
+We are committed to writing all our documents in plain and readeable language.  There are some terms used throughout this report that may be unfamiliar or industry-specific.  They are defined below, along with locations in the document where they are mentioned.
 
 # Open Format
 Data in an open format means in a convenient and modifiable form, such that there are no unnecessary technological obstacles to its use.  Specifically, data should be machine-readable, available in bulk, and provided in a format with a freely available published specification which places no restrictions, monetary or otherwise, upon its use ([http://opendefinition.org/ofd/](http://opendefinition.org/ofd/)). 
