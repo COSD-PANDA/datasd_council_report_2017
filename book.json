@@ -25,6 +25,6 @@
         "right": 30
       },
       "chapterMark": "none",
-      "pageBreaksBefore": "//*[contains(concat(' ', normalize-space(@class), ' '), ' break ')]",
+      "pageBreaksBefore": "//*[contains(concat(' ', normalize-space(@class), ' '), ' break ')]"
     }
 }

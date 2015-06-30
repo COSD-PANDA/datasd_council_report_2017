@@ -46,11 +46,6 @@ We broke the inventory down into three steps, giving coordinators one month to c
 We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 
 
-
-<div class="break"></div>
-
-
-
 #### Step 1
 For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
 
