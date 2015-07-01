@@ -46,9 +46,9 @@ Based on the preceding components of prioritization, we have derived an initial 
 | Data governance structure | Does a minimum viable level of data governance structure exist for this dataset? | Quality |
 | Data frequency of change | If the data get updated often, releasing it without ETL will render it irrelevant, and building ETLs may require investment of time and money. | Quality |
 | ETL Required? | A 3-level indicator of whether ETL is required - 1=yes, 2=yes,but can delay, 3 = no | Quality |
-| Do this data contain potential PII (Personally Identifiable Information), or PCI (Payment Card Industry) information? | If these data contains PII or PCI information, it will need special handling making it harder to release | Security |
-| Do these data contain information detrimental to the City's security if released or information that is business sensitive? | If these data does contain such information, it will need special handling making it harder to release | Security |
-| Do these data contain information that is public but only under specific terms? | If these data does contain such information, it will need special handling making it harder to release | Security |
+| Do this data contain potential PII (Personally Identifiable Information), or PCI (Payment Card Industry) information? | If these data contains PII or PCI information, they will need special handling making it harder to release | Security |
+| Do these data contain information detrimental to the City's security if released or information that is business sensitive? | If these data contain such information, they will need special handling making it harder to release | Security |
+| Do these data contain information that is public but only under specific terms? | If these data contain such information, they will need special handling making it harder to release | Security |
 | Data extraction complexity | If it's hard to extract data from a given system, it may result in a lower prioritization | Readiness |
 | Metadata Availability | Metadata Availability | Readiness |
 | Do these data support a performance indicator? | If these data support a published performance indicator for the department, that will cause a higher level of prioritization | Value |

@@ -1,4 +1,4 @@
-# A Glossary
+# About The Glossary
 We are committed to writing all our documents in plain and readeable language.  There are some terms used throughout this report that may be unfamiliar or industry-specific.  They are defined below, along with locations in the document where they are mentioned.
 
 # Open Format

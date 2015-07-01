@@ -8,6 +8,8 @@ Notably, our OpenGov launch took less than 4 weeks, making it the fastest large 
 
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
+<div class="break"></div>
+
 ### City Clerk
 <div class="section group">
     <div class="col span_1_of_2">
@@ -35,19 +37,25 @@ So far, we have met with delegations from the Republic of Macedonia and the Phil
 
 These visitors were brought to San Diego by the San Diego Diplomacy Council in conjunction with the International Visitor Leadership Program, the premier professional exchange program of the U.S. Department of State. Through short-term visits to the United States, current and emerging foreign leaders in a variety of fields experience this country firsthand and cultivate lasting relationships with their American counterparts.
 
+<div class="break"></div>
+
 #### Meeting with the Delegation from the Republic of Macedonia
 The delegation consisted of:
 
-* Ms. Gordana DUVNJAK
-  * Political Journalist, MPM Media Print Macedonia, Utrinski Vesnik daily newspaper
-* Ms. Ana JANEVSKA DELEVA
-  * Executive Director, Transparency Macedonia
-* Mr. Goran KITANOVSKI
-  * Chief Inspector, Anti-Corruption Sector, Department for Suppressing Organized and Serious Crime, Ministry of Interior
-* Ms. Neda KORUNOVSKA AVRAMOVSKA
-  * President, Reactor-Research in Action
-* Mr. Naum PANOSKI
-  * Public Prosecutor, Public Prosecution Office for Fighting Organized Crime and Corruption
+<strong>Ms. Gordana DUVNJAK</strong>    
+Political Journalist, MPM Media Print Macedonia, Utrinski Vesnik daily newspaper
+
+<strong>Ms. Ana JANEVSKA DELEVA</strong>    
+Executive Director, Transparency Macedonia
+
+<strong>Mr. Goran KITANOVSKI</strong>    
+Chief Inspector, Anti-Corruption Sector, Department for Suppressing Organized and Serious Crime, Ministry of Interior
+
+<strong>Ms. Neda KORUNOVSKA AVRAMOVSKA</strong>    
+President, Reactor-Research in Action
+
+<strong>Mr. Naum PANOSKI</strong>    
+Public Prosecutor, Public Prosecution Office for Fighting Organized Crime and Corruption
 
 <div class="section group">
     <div class="col span_1_of_2">
@@ -58,6 +66,7 @@ The delegation consisted of:
     </div>
 </div>
 
+<div class="break"></div>
 
 #### Meeting with Philippines Delegation
 The Philippines Delegation arrived with the following specific objectives:
@@ -70,26 +79,33 @@ of corruption;
 * Promote respect for the rule of law and human rights in all sectors of society.
 
 The delegation consisted of:
-* Mr. Dexter ANDO
-    * Special Investigator, Commission on Human Rights, Region IX, Zamboanga City
-* Mr. Sherwin Prose CASTANEDA
-    * Assistant Director, Bureau of Import Service, Department of Trade and Industry
-* Mr. Marco Dominic DE LOS REYES
-    * Senior Personnel Specialist, Civil Service Commission
-* Ms. Norenna PENONES
-    * Deputy Chief, Regional Intelligence Unit, Philippine National Police Intelligence Group
-* Ms. Kathryn Roja RAYMUNDO
-    * Senior Staff Writer, Center for Media Freedom and Responsibility
-* Mr. Archemides SIGUAN
-    * Immigration Officer, Ninoy Aquino International Airport, Bureau of Immigration, Department of Justice
-* Mr. Nelson VICTORINO
-    * Chief of Staff, Office of Senator Grace Poe, Philippine Senate
+
+<strong>Mr. Dexter ANDO</strong>    
+Special Investigator, Commission on Human Rights, Region IX, Zamboanga City
+
+<strong>Mr. Sherwin Prose CASTANEDA</strong>    
+Assistant Director, Bureau of Import Service, Department of Trade and Industry
+
+<strong>Mr. Marco Dominic DE LOS REYES</strong>    
+Senior Personnel Specialist, Civil Service Commission
+
+<strong>Ms. Norenna PENONES</strong>    
+Deputy Chief, Regional Intelligence Unit, Philippine National Police Intelligence Group
+
+<strong>Ms. Kathryn Roja RAYMUNDO</strong>    
+Senior Staff Writer, Center for Media Freedom and Responsibility
+
+<strong>Mr. Archemides SIGUAN</strong>    
+Immigration Officer, Ninoy Aquino International Airport, Bureau of Immigration, Department of Justice
+
+<strong>Mr. Nelson VICTORINO</strong>    
+Chief of Staff, Office of Senator Grace Poe, Philippine Senate
 
 <div class="section group">
     <div class="col span_1_of_2">
        We presented the promise and progress of the inventory process, our plans for identifying high-value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines. 
     </div>
     <div class="col span_1_of_2">
-        <img src="http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg" alt="Philippines Delegation"/>
+        <img class="pdf-height-90pct" src="http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg" alt="Philippines Delegation"/>
     </div>
 </div>

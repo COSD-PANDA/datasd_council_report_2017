@@ -6,6 +6,10 @@
   height: 100px !important;
 }
 
+img.pdf-height-90pct {
+  width: 90% !important;
+}
+
 
 h1 {
   text-decoration: underline;
@@ -26,7 +30,7 @@ img.fullwidth {
 .sig-img {
   border-bottom: 2px solid black;
   margin-bottom:10px;
-  height:95px;
+  height:125px;
 }
 
 .sig .col {

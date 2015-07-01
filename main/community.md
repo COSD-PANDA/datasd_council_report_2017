@@ -14,16 +14,20 @@ They work with other interested stakeholders to increase membership and civic en
 
 In order to build proper context between the community and the City, the following City employees have presented at Open San Diego, upon our request:
 
-* Jonathan Behnke (CIO)
-    - Jonathan had an informative presentation and discussion with the group about the City's IT infrastructure, forward plans and roadmap.
-* Scott Daeschner (GIS Manager)
-    - Scott did a commendable job describing the ecosystem of GIS (mapping) information within the City, as well as the Region.
-* Maksim Pecherskiy (CDO)
-    - Maksim discussed how to use Git and Github, as well as about his experience working with the local brigade in Puerto Rico.
-* DeeDee Alari, Jonathan Carey, Mary Davis (City Treasurer)
-    - DeeDee, Jonathan and Mary talked to the group about the City's Smart Meter program, and what data the meters collect and generate. It proved to be a lively discussion about parking, meters, their purpose and placement.
-* Almis Udrys (Director, Performance & Analytics)
-    - Almis has appeared before Open San Diego in the years leading up to the adoption of the Open Data Policy to provide updates on the City's efforts in this space.
+<strong>Jonathan Behnke (CIO)</strong>   
+Jonathan had an informative presentation and discussion with the group about the City's IT infrastructure, forward plans and roadmap.
+
+<strong>Scott Daeschner (GIS Manager)</strong>   
+Scott did a commendable job describing the ecosystem of GIS (mapping) information within the City, as well as the Region.
+
+<strong>Maksim Pecherskiy (CDO)</strong>    
+Maksim discussed how to use Git and Github, as well as about his experience working with the local brigade in Puerto Rico.
+
+<strong>DeeDee Alari, Jonathan Carey, Mary Davis (City Treasurer)</strong>   
+DeeDee, Jonathan and Mary talked to the group about the City's Smart Meter program, and what data the meters collect and generate. It proved to be a lively discussion about parking, meters, their purpose and placement.
+
+<strong>Almis Udrys (Director, Performance & Analytics)</strong>   
+Almis has appeared before Open San Diego in the years leading up to the adoption of the Open Data Policy to provide updates on the City's efforts in this space.
 
 <div class="section group">
     <div class="col span_1_of_2">
