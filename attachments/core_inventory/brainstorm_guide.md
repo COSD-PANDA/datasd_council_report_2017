@@ -51,7 +51,7 @@ If the Excel file contains multiple sheets, each sheet that contains "original",
 This one is tricky as Access DBs can be small or huge.  If you think the entire database makes sense to expose as a dataset because the tables are just not relevant without each other, feel free to put that in as a dataset.  If you have stored queries that you already run against the database, those are prime dataset examples.  Don't forget to try Some of the Other Brainstorming Methods Above.
 
 #### GIS Server
-You will have to use your judgement here, but this should still be pretty simple.  Ideally, this would be every layer that your department owns or contributes to.  Don't forget to try Some of the Other Brainstorming Methods Above.
+You will have to use your judgment here, but this should still be pretty simple.  Ideally, this would be every layer that your department owns or contributes to.  Don't forget to try Some of the Other Brainstorming Methods Above.
 
 #### Website / Web Based Application
 Let's use our excellent OpenDSD as an example here.  When you visit [OpenDSD](http://www.sandiego.gov/development-services/opendsd), you see several options presented to you.  

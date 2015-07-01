@@ -18,7 +18,7 @@ We designed technical guidelines to operate as a living document, and we will co
 <div class="break"></div>
 
 #### Identify high-value datasets and prioritize data for release
-After the inventory data are cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [next section](./prioritization.md) section.  Furthermore, as we leverage Open Data for creation and future upgrading of the citywide performance dashboard, datasets supporting those indicators will be prioritized higher for release.
+After the inventory data are cleaned and analyzed, we will prioritize data based on the plan outlined in the technical guidelines for release. While it may be subject to revision, it is included in this report in the [next section](./prioritization.md).  Furthermore, as we leverage Open Data for creation and future upgrading of the citywide performance dashboard, datasets supporting those indicators will be prioritized higher for release.
 
 #### Review and potentially update Open Data Policy
 Since the Policy calls for a yearly review of itself, we will be reviewing the Open Data Policy before the end of the calendar year.

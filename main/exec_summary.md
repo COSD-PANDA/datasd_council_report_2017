@@ -42,16 +42,20 @@ The City is committed to guiding this potential towards reality.
 
 
 ## Open Data Program Goals
-1. Increase data literacy within the City and with those who interact with the City.
-    * There are various levels of understanding of what are data, metadata, Open Data, etc.
-2. Manage data as an asset, formalizing existing oversight and ownership.
-    * Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
-3. Release data to the public via a strategic and predictable process.
-    * Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
-4. Ensure that data are well described and catalogued.
-    * Understanding what data we have is crucial to both Open Data and data management.  We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.  
-5. Support increased use of data in decision making, as well as innovations in Open Data use.
-    * We have a talented City workforce that makes data-driven decisions every day.  In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
+##### 1. Increase data literacy within the City and with those who interact with the City.
+There are various levels of understanding of what are data, metadata, Open Data, etc.
+
+##### 2. Manage data as an asset, formalizing existing oversight and ownership.
+Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
+
+##### 3. Release data to the public via a strategic and predictable process.
+Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
+
+##### 4. Ensure that data are well described and catalogued.
+Understanding what data we have is crucial to both Open Data and data management.  We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.  
+
+##### 5. Support increased use of data in decision making, as well as innovations in Open Data use.
+We have a talented City workforce that makes data-driven decisions every day.  In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
 
 <div class="break"></div>
 
