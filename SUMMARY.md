@@ -3,7 +3,7 @@
 * [Executive Summary](main/exec_summary.md)
 * [Inventory Process](main/process_overview.md)
 * [Inventory Findings](main/inventory_findings.md)
-* [Lessons learned](main/lessons_learned.md)
+* [Lessons Learned](main/lessons_learned.md)
 * [Next Steps](main/next_steps.md)
 * [Prioritization](main/prioritization.md)
 * [Community Involvement](main/community.md)

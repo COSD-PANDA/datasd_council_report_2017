@@ -8,6 +8,8 @@ In our thinking about Open Data, we identified several high-level personas that 
 
 <img class="fullwidth" src="http://mrm-random.s3.amazonaws.com/dz/Open_Data_Stakeholders_-_Pub%20(2).png" alt="Personas" width="100%"/>
 
+<div class="break"></div>
+
 In order to prioritize, we plan to measure a dataset on the following overarching factors:
 
 ### Value

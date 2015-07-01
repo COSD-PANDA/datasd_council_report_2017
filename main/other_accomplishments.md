@@ -1,5 +1,5 @@
 # Other Accomplishments
-## OpenGov
+### OpenGov
 In April 2015, the City launched a public-facing budget tool, OpenGov, that to our knowledge is among the most transparent budget visualizations in the country.  
 
 ![OpenGov](http://take.ms/WSg3A)
@@ -8,17 +8,27 @@ Notably, our OpenGov launch took less than 4 weeks, making it the fastest large 
 
 The tool is accessible at [https://budget.sandiego.gov](https://budget.sandiego.gov).  
 
-## City Clerk
-Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help keep track of Records Disposition Schedules. 
+### City Clerk
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://take.ms/2u2QS" alt="RDS Dashboard"/>
+    </div>
+    <div class="col span_1_of_2">
+       Although not live yet, we repurposed the coordinator dashboard code for the City Clerk to help keep track of Records Disposition Schedules. 
+    </div>
+</div>
 
-![cdash](http://take.ms/2u2QS)
+### City of San Diego Website Redesign
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/designsdphoto.jpg" alt="MKF Website Redesign"/>
+    </div>
+    <div class="col span_1_of_2">
+       In order to ensure that it works well with the Open Data initiative, we were heavily involved in the earlier stages, and will continue to be involved in the later stages, of the City of San Diego's Website Redesign project.
+    </div>
+</div>
 
-## City of San Diego Website Redesign
-In order to ensure that it works well with the Open Data initiative, we were heavily involved in the earlier stages, and will continue to be involved in the later stages, of the City of San Diego's Website Redesign project.
-
-![MKF](http://www.sandiego.gov/mayor/graphics/article/designsdphoto.jpg)
-
-## Meetings with Foreign Delegations
+### Meetings with Foreign Delegations
 As the City moves along its Open Data program, we are beginning to receive global recognition for our thoughtful and insightful approaches to Open Data.
 
 So far, we have met with delegations from the Republic of Macedonia and the Philippines to discuss Mayor Faulconer's advances in Open Data and Open Government.
@@ -39,9 +49,15 @@ The delegation consisted of:
 * Mr. Naum PANOSKI
   * Public Prosecutor, Public Prosecution Office for Fighting Organized Crime and Corruption
 
-As citizens of a newer European country (formerly a part of Yugoslavia) the Macedonian visitors were interested in how an Open Data program and other transparency initiatives could help advance economic development and prevent corruption.  We presented the benefits of Open Data and how proactively releasing public information can build trust with the community and reduce workload on City staff.
+<div class="section group">
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/2015-01-27%2016.28.38.jpg" alt="Republic of Macedonia Delegation"/>
+    </div>
+    <div class="col span_1_of_2">
+       As citizens of a newer European country (formerly a part of Yugoslavia) the Macedonian visitors were interested in how an Open Data program and other transparency initiatives could help advance economic development and prevent corruption.  We presented the benefits of Open Data and how proactively releasing public information can build trust with the community and reduce workload on City staff.
+    </div>
+</div>
 
-![Macedonians](http://mrm-random.s3.amazonaws.com/dz/2015-01-27%2016.28.38.jpg)
 
 #### Meeting with Philippines Delegation
 The Philippines Delegation arrived with the following specific objectives:
@@ -69,7 +85,11 @@ The delegation consisted of:
 * Mr. Nelson VICTORINO
     * Chief of Staff, Office of Senator Grace Poe, Philippine Senate
 
-We presented the promise and progress of the inventory process, our plans for identifying high-value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines.
-
-![Philippines](http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg)
-
+<div class="section group">
+    <div class="col span_1_of_2">
+       We presented the promise and progress of the inventory process, our plans for identifying high-value data sets, and how we will release the data.  The participants expressed an interest in reviewing our protocols and keeping in touch as the dialogue around freedom of information continues in the Philippines. 
+    </div>
+    <div class="col span_1_of_2">
+        <img src="http://mrm-random.s3.amazonaws.com/dz/FB_IMG_1435173663587.jpg" alt="Philippines Delegation"/>
+    </div>
+</div>

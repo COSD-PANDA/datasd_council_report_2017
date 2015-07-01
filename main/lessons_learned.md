@@ -5,7 +5,7 @@
 * The City currently leverages multiple technologies for maintaining and controlling data that we are looking forward to leveraging.
 * The City is beginning new projects that will encompass data integration and multiple IT changes.  It will be important for us to make sure that we're integrating with current and ongoing iniatives.
 
-# Some Feedback Received from Information Coordinators
+### Some Feedback Received from Information Coordinators
 * "My department should select metrics more targeted towards measuring our performance."
 * "My department needs to be more explicit in our data collection methodologies."
 * "My department needs to do more work that targets effects we can measure. "
