@@ -41,7 +41,7 @@ Performance & Analytics conducted two kickoff meetings with the same content to 
 ### Inventory Process 
 We broke the inventory down into three steps, giving coordinators one month to complete each step.  We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
 
-![Inv One Pager](http://take.ms/U11fa)
+![Inv One Pager](http://take.ms/eLbw7)
 
 <div class="break"></div>
 
