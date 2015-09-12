@@ -9,8 +9,6 @@ The purpose of the Data Inventory is to get a bird's eye view of data throughout
 * Identify people currently working with and managing data.
 * Understand which of the City's software systems are authoritative for various pieces of information.
 * Identify critical data and be able to prioritize it for release or internal access.
-* Understand which of the City's software systems are authoritative for various pieces of information.
-
 
 ## Process Overview
 
