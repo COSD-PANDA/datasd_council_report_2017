@@ -8,9 +8,7 @@
 * [Portal Metrics](portal-metrics.md)
 * [Next Steps](main/next_steps.md)
 * [Lessons Learned](main/lessons_learned.md)
-* Portal Launch
-* [Prioritization](main/prioritization.md)
 * [Community Involvement](main/community.md)
 * [Acknowledgements](main/stars.md)
-* [Portal Metrics](portal-metrics.md)
+* [Technical Guidelines](technical-guidelines.md)
 
