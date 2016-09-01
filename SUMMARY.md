@@ -3,7 +3,7 @@
 * [About This Report](README.md)
 * [Executive Summary](main/exec_summary.md)
 * [Prioritization](main/process_overview.md)
-* [Inventory Findings](main/inventory_findings.md)
+* [Data release process](main/inventory_findings.md)
 * [Lessons Learned](main/lessons_learned.md)
 * [Next Steps](main/next_steps.md)
 * [Prioritization](main/prioritization.md)
