@@ -1,70 +1,72 @@
-# Community Involvement
+# Community involvement and other accomplishments
 
-#### Purpose
-Community outreach and engagement is critical for any Open Data effort to be successful.  The local Code for America brigade, Open San Diego, largely drives engagement with the community purely as a volunteer group.  It is important for us to work closely with them as they are an active amplifier of our efforts. 
+The Data & Analytics team has been busy with much more during the past fiscal year than just the Open Data Portal launch. We continue to be active with important local groups such as Open San Diego. Below is an overview of some of our additional activities.
 
-#### Open San Diego
-Open San Diego was a staunch advocate for adopting the Open Data Policy and hiring a Chief Data Officer.  In the past six months, [Open San Diego](http://opensandiego.org/) under the leadership of Xavier Leonard, has accelerated its activities.  It is now a group that we partner with on a regular basis.  It has several [ongoing projects](https://github.com/opensandiego), such as:
+##Events
 
-* A code enforcement notification application, leveraging City data,
-* A street sweeping notification application, leveraging City data,
-* A parks finder application, leveraging City data.
+###Code Day at the Library
 
-They work with other interested stakeholders to increase membership and civic engagement with data.
+CodeDay is a nationwide event where student programmers, artists, musicians, actors, and everyone else can get together and build apps & games for 24 hours. We were the first city ever to host CodeDay in a library. Special thanks go to our Library Department for sharing the beautiful Central Library for this event.
 
-In order to build proper context between the community and the City, the following City employees have presented at Open San Diego, upon our request:
+###Ocean Discovery Institute Visit
 
-<strong>Jonathan Behnke (CIO)</strong>   
-Jonathan had an informative presentation and discussion with the group about the City's IT infrastructure, forward plans and roadmap.
+Ocean Discovery Institute uses ocean science to empower young people from underserved urban communities to transform their lives, their community, and our world as scientific and conservation leaders. We partnered with IT, economic development and the Mayor’s office to have these young ocean leaders come in, meet the Mayor, and learn what their City is doing with data.
 
-<strong>Scott Daeschner (GIS Manager)</strong>   
-Scott did a commendable job describing the ecosystem of GIS (mapping) information within the City, as well as the Region.
+###Smart City Hackathon
 
-<strong>Maksim Pecherskiy (CDO)</strong>    
-Maksim discussed how to use Git and Github, as well as about his experience working with the local brigade in Puerto Rico.
+Through a partnership with the Silent Intelligence and UCSD, and our Economic Development Department, we helped put together a hackathon to help the City deliver on its Climate Action Plan. We met with the winners to see how to help support their project.
 
-<strong>DeeDee Alari, Jonathan Carey, Mary Davis (City Treasurer)</strong>   
-DeeDee, Jonathan and Mary talked to the group about the City's Smart Meter program, and what data the meters collect and generate. It proved to be a lively discussion about parking, meters, their purpose and placement.
+##Performance Dashboard
 
-<strong>Almis Udrys (Director, Performance & Analytics)</strong>   
-Almis has appeared before Open San Diego in the years leading up to the adoption of the Open Data Policy to provide updates on the City's efforts in this space.
+Performance & Analytics is a small but effective group, in part because we all have expertise to lend to various efforts by the Department. One of these efforts was the creation of the City’s first Performance Dashboard at [performance.sandiego.gov](http://performance.sandiego.gov/). Other cities might hire someone to build a public-facing dashboard, but building one in-house means that we have ultimate control over the content and design and the flexibility to make future updates and changes at a minimal cost. The Data & Analytics team built the website and all visualizations on the Performance Dashboard.
 
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img class="pdf-height-150" src="http://mrm-random.s3.amazonaws.com/dz/2015-05-19%2018.03.23.jpg" alt="city treasurer"/>
-    </div>
-    <div class="col span_1_of_2">
-        <img class="pdf-height-150" src="http://mrm-random.s3.amazonaws.com/dz/highres_435356287.jpeg" alt="IT presentation"/>
-    </div>
-</div>
+##Harvard Civic Analytics Network
 
-These appearances enhance the relationship between the City and the civic hacking community.  In addition, other City employees have become regular attendees of Open San Diego Meetings and are actively working on civic hacking projects.
+The Civic Analytics Network, a project of Harvard’s Ash Center for Democratic Governance & Innovation, will collaborate on shared projects that advance the use of data visualization and predictive analytics in solving important urban problems related to economic opportunity, poverty reduction, and addressing the root causes of social problems. As a result of our leadership in open data, the City of San Diego was invited to be one of the inaugural cities to participate in this network.
 
+##Georgetown Invitation to Panel on Open Source Software in government
 
-##### National Day of Civic Hacking
-Open San Diego coordinated 3 simultaneous events on June 5 and 6, 2015 for the [National Day of Civic Hacking](http://hackforchange.org/events/code-for-san-diego-national-day-event/), in which many software developers and other community members got involved.  
+We were invited to a panel at Georgetown University to advise governments and large non-profit foundations on how to procure, build, and use open-source software in government.
 
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img class="pdf-height-150" src="http://mrm-random.s3.amazonaws.com/dz/NVp6Byiw2AB7R59fSpmA1w5F6cSjYqxuNtHqxNsr1rQ.jpg" alt="ndoch2"/>
-    </div>
-    <div class="col span_1_of_2">
-        <img class="pdf-height-150" src="http://mrm-random.s3.amazonaws.com/dz/CemANb4rDHMV_1PBT7KeJpdXK9PUMB9CxtK_HYXFyFw.jpg" alt="ndoch3"/>
-    </div>
-</div>
+##White House Police Data Initiative
 
+The City of San Diego Police Department committed to participating in the [White House Police Data Initiative](https://www.whitehouse.gov/blog/2015/05/18/launching-police-data-initiative). Chief Guaderrama, Chris Haley and Maksim Pecherskiy went to the convening at the White House. We committed to releasing three datasets. One of them is already on the portal, and the other two require creation (community events) and some technical cleanup (vehicle stops).
 
-Team members from 18F, a top notch team of designers, developers and product specialists embedded in the federal General Services Administration, had representatives at the event.  The City was [recognized on a national stage](https://18f.gsa.gov/2015/06/11/18f-at-national-civic-hacking-day/).
+##Speaking engagements and consulting with other cities and organizations
 
+We have provided a number of other cities and organizations with advice on open data and transparency. This list includes, but is not limited to the following:
 
-#### CyberTech 
-On May 30 and 31, CyberTech, a global cybersecurity and Internet of Things network ecosystem, in partnership with the City and AT&T, hosted a hackathon to build applications of the City's already Open Data. 
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img class="pdf-height-100" src="http://take.ms/2UTlb" alt="gary tweet"/>
-    </div>
-    <div class="col span_1_of_2">
-        <img class="pdf-height-100" src="http://take.ms/t0m4n" alt="ndoch3"/>
-    </div>
-</div>
+* Carlsbad
+
+* Encinitas
+
+* San Francisco
+
+* Kansas City
+
+Andrell Bower and Almis Udrys presented to a delegation from the West Sumbawa Regency of Indonesia about the Performance & Analytics Department, and particularly Open Data, when the group visited City Hall in December 2015.
+
+##Society for Professional Journalists Sunshine Award
+
+On March 9, the Society for Professional Journalists awarded Maksim Pecherskiy with the 2015 Sunshine Award https://www.youtube.com/watch?v=6BGw2Msv2Wgin recognition of his contributions to the City’s online budget interactive, publication of an inventory of City data and laying the groundwork for the open data portal.
+
+##Code for America Talk
+
+Maksim and Almis had the opportunity to do a lightning talk about the government talent pipeline. We went through an overview of the process of Maksim getting hired at the city of San Diego, which was an interesting process indeed.
+
+[Watch the video](https://www.youtube.com/watch?v=6BGw2Msv2Wg).
+
+##Tableau training
+
+Tableau is a piece of analytics software that aims to “help people see and understand data.”[1] Performance & Analytics purchased Tableau licenses and hosted a 2-day training that included data geeks from other City departments, including Fire-Rescue, City Treasurer, Communications, and Public Utilities. We used Tableau to produce the visualizations for the City’s first Performance Dashboard and are identifying other opportunities for using this visualization tool throughout the City. We continue to offer support to other departments for getting licenses and using Tableau.
+
+##NextRequest
+
+A working group including Maksim Pecherskiy and Almis Udrys convened to figure out how to make the City’s process for responding to Public Records Act Requests more efficient, resulting in the online PRA tool NextRequest, found at [sandiego.nextrequest.com](https://sandiego.nextrequest.com/). Our team helped procure the product and get it ready for launch and participated in a kick-off training for City staff.
+
+NextRequest helps staff keep their response efforts coordinated and gives the public the opportunity to track the status of their request in real-time. The tool also helps reduce the amount of time staff spends responding to duplicate requests because it publishes responsive records in a publicly searchable database. If a user is filling out a request for a document that was already released, the system will offer a notification directing him or her to the document. This online system also gives us an opportunity to collect some data about the number of requests the City receives and the average amount of time it takes to respond.
+
+________________
+
+[1] Tableau Mission. Accessed July 2016. http://www.tableau.com/about/mission
 
