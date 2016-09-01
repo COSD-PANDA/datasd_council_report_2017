@@ -13,7 +13,6 @@ Extract Transform Load
 ##Fuzzy joins
 Special joins that can match two strings even when they are not exactly equal but are close. For example, we would like to match the query 'inglourios basterds' with the real movie title 'Inglourious Basterds'.  There are several techniques for doing this, and they are all time-consuming.
 
-
 ## GIS
 A geographic information system (GIS) is a system designed to capture, store, manipulate, analyze, manage, and present all types of spatial or geographical data.
 
@@ -37,9 +36,6 @@ Group of San Diego civic-stakeholders who meet regularly to share knowledge and 
 
 ## Open Source
 Open source software is software that can be freely used, changed, and shared (in modified or unmodified form) by anyone. Open source software is made by many people, and distributed under licenses that comply with the [Open Source Definition](http://opensource.org/definition).
-
-## Portal
-A web application providing access, information and sometimes visualization of data.
 
 ##Relational database
 This type of database organizes data among various tables that can be related together by unique keys that are assigned to rows.
