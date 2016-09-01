@@ -11,5 +11,5 @@
 * [Technical Guidelines](technical-guidelines.md)
 * [Community Involvement](main/community.md)
 * [Acknowledgements](acknowledgements.md)
-* Glossary
+* [Glossary](glossary.md)
 
