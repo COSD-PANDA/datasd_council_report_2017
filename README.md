@@ -1,15 +1,11 @@
 # City of San Diego
 ## About this Report
 
-Sections 2.4 and 2.5 of the City of San Diego (City) Open Data Policy require the Chief Data Officer to provide an annual written report to the Mayor and Council regarding the implementation of the Open Data Program.  This report is available [online](http://tiny.cc/odreport) or as a [PDF](http://tiny.cc/odreportpdf), and is the first City report to be written using Git and GitBook, an Open Source book format and publishing toolchain.
+This second annual report on the progress of the Open Data Policy is focused on achievement of a major milestone: the launch of the Open Data Portal. The portal was the result of nearly two years of hard work by the Data & Analytics team, the larger Performance & Analytics Department, and the information coordinators and data stewards throughout the City who provided critical support to our efforts. The City of San Diego has greatly improved transparency and efficiency in these two short years and is in position to become a leader in data-enabled government.
 
-This inaugural 2015 report on Open Data Program Implementation contains the findings from the City's first Data Inventory including an overview of the process, the results, and next steps.  In addition, we discuss the progress the program has made in community involvement and recognition.  It will be provided to the Mayor and Council annually to keep them updated on the program.
+The portal is just one example of how the Open Data Policy has instigated change across the City. Our Police Department committed to releasing data as part of the White House Police Data Initiative. Our Public Records Act Request process became more efficient with the launch of an online tool, NextRequest. The City published its first public-facing performance dashboard featuring more than 30 metrics. Employees in every department have approached us with ideas about how they can use data to improve how the City does business. Making data available on the portal will empower employees to continue to innovate.
 
-The inventory process was well received, with 100% of invited departments participating.  In our initial run, we identified over 2,000 datasets.  However, some of these datasets may not make it into the Open Data portal, expected to be launched by July 1, 2016, for a variety of reasons we describe in the report including the need to process and prioritize the data for public release, which we will begin during the first half of FY 16.  
-
-The City is well on its way towards achieving the goals of the Open Data Policy.  In addition, we are on track to build a robust data management program--one that ensures the data we publish and maintain is of high quality and up-to-date.  
-
-This is not an easy effort and it would not have been possible without the vision of Mayor Faulconer and the City Council, as well as the support of the City's Chief Operating Officer Scott Chadwick, the Department of IT, and the City's management team.  Through a collaborative approach, we have put together what may be the largest and most comprehensive Data Inventory effort of any government in this region.  We look forward to continuing to work together on implementing the Open Data program and allowing the City to reflect and support the innovation of our surrounding community.
+We will be expanding our mission in the near future to include using analytics to solve real City problems and offering a broader data education program. We look forward to helping the City and the larger community realize more of the benefits of open data.
 
 <div class="section group sig">
     <div class="col span_1_of_2">
