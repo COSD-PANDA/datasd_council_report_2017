@@ -26,5 +26,5 @@ We will be expanding our mission in the near future to include using analytics t
         Chief Data Officer
       </div>
     </div>
-
+</div>
 </div>
