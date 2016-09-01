@@ -1,183 +1,77 @@
-# Inventory Process
+# Prioritization
 
-## Purpose
-The purpose of the Data Inventory is to get a bird's eye view of data throughout our City departments that will assist stakeholders in identifying datasets they consider high value for publication.  However, we deliberately designed the inventory process to do much more, as follows:
+Prioritization is the process we used for deciding in which order to publish our high-value public datasets to the portal. Our inventory included 136 datasets to choose from, and 44 of those were on the portal at launch. This chapter describes how we built our inventory and how we prioritized the results.
 
-* Establish a base level inventory of the data the City has at its disposal.
-* Create and collect a base level of attributes describing our City's data.
-* Establish a competent group of information coordinators across the departments.
-* Identify people currently working with and managing data.
-* Understand which of the City's software systems are authoritative for various pieces of information.
-* Identify critical data and be able to prioritize it for release or internal access.
+It is important to note that our inventory and portal prioritization processes are fluid. Although we describe the various steps below sequentially, some steps can occur, and did occur, concurrently, depending on the data, as we became more comfortable with our process.
 
-## Process Overview
+##Living inventory
 
-The first part of the inventory was to identify information coordinators from each of the 35 departments/programs we engaged.  Most departments assigned a single point of contact to work with the Chief Data Officer.  However, several larger departments chose to assign multiple coordinators to represent certain divisions.  We sought out information coordinators that are knowledgeable in the business level--of how the department operates, and how users make decisions based on that knowledge.  In total, we worked with 65 coordinators.
+The Open Data Policy places great emphasis on publishing an inventory of high-value public datasets and ensuring all datasets in the inventory are available on a public portal by 2020. This inventory is published at datasd.org, the official information site for the City’s Data & Analytics program. 115 high-value public datasets were included in the initial publication of the inventory on February 29, 2016. Today, our inventory contains 136 datasets.
 
-We designed the inventory process mindful of the following realities:
+As we improve our methods for locating and accessing data across the City, the inventory will grow. Initially, we used three major sources for the inventory: the raw results from the first City-wide manual survey conducted in 2015; our discovery meetings with information coordinators and data stewards about their data sources; and reports, web pages and conversations with City employees. In the future, we will be working to automate methods for finding data.
 
-* The information coordinators' time must be used as efficiently as possible, as this process is not their primary responsibility.
-* Coordinators may not have a high level of technical knowledge.
-* Execution time frame is only three months.
-* Coordinators do not have the same base level of understanding of what is "data".
+###The manual dataset survey
 
-Consequently, we emphasized the following:
+During the six months leading up to the last Open Data Policy implementation update, the City’s newly hired Chief Data Officer designed and conducted a first-ever manual survey of City data. This massive effort involved the contributions of 65 information coordinators in 35 departments and programs.
 
-* Minimize large in-person meetings, but be available for small face-to-face meetings, maintaining preference for online collaboration.
-* Provide all the necessary information to everyone all the time. 
-* Continuously collect feedback, and be flexible enough to adjust the process.
-* Automate repeatable tasks and allow technology to increase execution velocity.
-* Technology or the CDO (Chief Data Officer) must not be a bottleneck to any of the coordinators.
-* Process must be as efficient as possible to minimize rework and increase accuracy. 
-* Break down large chunks of work into smaller ones.  Operate in short spurts, but allow for full-scope completion all at once.
-* Create infrastructure for future growth and maintenance.
-* Track progress. 
+The survey accomplished a number of objectives:
 
-### Kickoff
-Performance & Analytics conducted two kickoff meetings with the same content to field preliminary questions, engage as many coordinators as possible, and introduce the process.  These 3-hour meetings were the only large meetings held during the inventory process.
+* Acquire a base-level understanding of the data the City has at its disposal
 
-### Inventory Process 
-We broke the inventory down into three steps, giving coordinators one month to complete each step.  We gave each department a spreadsheet to fill out with all steps and explanations built into the sheet.  
+* Create and collect basic attributes describing this data
 
-![Inv One Pager](http://take.ms/eLbw7)
+* Establish a competent group of information coordinators across the departments
 
-<div class="break"></div>
+* Identify people currently working with and managing data as well as their experience and knowledge of data tools and best practices
 
-#### Step 1
-For Step 1, we asked coordinators to identify any authoritative datasources their department uses.  We identified a datasource as any system that stores the primary version of data.  For example:
+* Understand which of the City’s software systems are authoritative for various sets of information
 
-* Information Systems (such as public facing applications sandiego.gov or internally used applications like SAP)
-* Databases (such as Microsoft Access and Business Warehouse)
-* Excel Spreadsheets on Shared Drives or Personal Desktops
-* Access Databases on Shared Drives or Personal Desktops
-* 3rd Party Vendors and data hosted on vendor systems (such as Survey Monkey or Google Analytics).
+* Identify critical data and be able to prioritize it for release or internal access
 
-For a further description of what we provided as datasource definitions, please see [Core Inventory, Step 1 - Datasources in the Attachments Section](../attachments/core_inventory/datasources.html).
+Preliminary returns from the survey did not immediately become the official inventory of high value public datasets. The purpose was much broader, as outlined above, and only functioned as a starting point for the creation of the official inventory. For more background on the inventory effort, see the first Open Data Implementation update report published July 1, 2015.
 
-In addition to identifying datasources, we asked coordinators to identify:
+###Making sense out of the survey submissions
 
-* The person that is responsible for the technical management of the system (IT Subject Matter Expert).
-* The person that has the business level knowledge and understanding of what data are stored within the system (Business Subject Matter Expert).
-* Any potential technical changes (replacements, upgrades) the system might experience in the future.
+No one person in the City is familiar with the specialized knowledge of all 65 information coordinators who contributed to the survey. Our team faced a big task in reviewing and understanding each submission, especially because submissions varied in their completeness, and some were described in language that is not meaningful to anyone outside of the department that uses it every day.
 
-#### Step 2
-In Step 2, coordinators identified potential datasets within the datasources from Step 1.  We designed this exercise to explore what kind of data are stored within the datasources.
-Because each department has its own culture and style of communication, we provided a brainstorm guide to allow coordinators to come up with datasets in as many ways as possible.  The brainstorm guide can be found in [Core Inventory, Step 2 - Dataset Brainstorm Guide in the Attachments Section](../attachments/core_inventory/brainstorm_guide.html).
+Additionally, many entries did not meet the definition of dataset. We cast a wide net for potential datasets because we preferred to evaluate whether something were a dataset rather than miss a potential dataset. We have the ability to revisit information we obtained during our survey for further analysis and consideration, but much of what was submitted did not meet the criteria for inclusion in the official inventory.
 
+###Public versus private
 
-#### Step 3
-In Step 3, we collected information needed to get a basic understanding of datasets, in order to ultimately assist the City in prioritizing them for release.  We asked about the following indicators:
+The most important criteria for whether we include a dataset in the inventory, or ultimately the portal, is whether it meets the definition of “public.” The Open Data Policy identifies several circumstances under which a dataset is not public and thus generally not subject to the open data policy. These include exemptions under federal, state or local law, rule or regulation; information that describes employees or the internal deliberative processes of the City; proprietary software, computer code and applications; and data that exists in a location that is assigned to a single City employee or a single City-owned or City-controlled computing device. Datasets that meet at least one of these criteria are not subject to inclusion in the inventory or the portal.
 
-<div class="section group">
-    <div class="col span_1_of_2">
-        <ul>
-            <li>Brief description of data   </li>
-            <li>Frequency of data change    </li>
-            <li>Format  </li>
-            <li>Existing publication    </li>
-            <li>Link to existing publication    </li>
-        </ul>
-    </div>
-    <div class="col span_1_of_2">
-        <ul>
-            <li>Priority/value  </li>
-            <li>Data Classification (Public / Protected / Sensitive) </li>
-            <li>Data Quality Concerns   </li>
-            <li>PRA frequency   </li>
-            <li>Comments / Extra Info</li>
-        </ul>
-    </div>
-</div>
+###Determining Value
 
-Please review the [Core Inventory, Step 3 - Dataset Attribute Definitions in the Attachments Section](../attachments/core_inventory/definitions.html) for the definitions of the fields above.
+Another criteria for determining which datasets are subject to publication is whether a public dataset is high-value. One single person cannot judge the ultimate value of a dataset, so as we review potential datasets for value, we take into consideration the point-of-views of several personas: a software developer, a community activist, a resident, the Mayor and Council members, a department director and a City staff person, such as a traffic engineer. Considering these personas, a dataset might be the basis for a web application; it could drive decisions about policy or operations; or it could satisfy curiosity about major issues facing residents.
 
-<div class="break"></div>
+Another way we determine value is to look at how often the public requests the data. If a highly requested dataset is available on an Open Data Portal, City staff will spend less time filling requests for that dataset. At the time of our initial inventory, the City was not centrally evaluating California Public Records Act (CPRA) requests for the purposes of the open data program. As a result, we asked information coordinators to flag datasets frequently requested under the CPRA. To further increase our understanding of datasets requested under the CPRA, and inform our inventory and publication efforts, Performance & Analytics has worked with the Human Resources Department on an online public record request tool at sandiego.nextrequest.com. Going forward, not only will this tool help the public efficiently request and search public records, but it will also allow us to better identify frequently requested datasets to add to our inventory, our portal, or both.
 
-### Technology
-#### Inventory Sheets
-Working closely with the Department of Information Technology, we took advantage of technology to complete the inventory in the required timeframe.
+The final factor helping us determine value of datasets, particularly for our initial portal launch, is the voting option we offered to everyone - the public, City employees and decision-makers - at datasd.org. Users can page through the inventory and submit a vote for each dataset that they are interested in accessing on the Open Data Portal. The vote results helped determine which datasets were published first. We will continue providing this option, but we will also include in the inventory datasets we did not initially consider high-value so the public has an opportunity to shape our idea of what is and is not high-value.
 
-Through the use of technology in the inventory process, we were able to facilitate the following:
-* Automate creation of spreadsheets per department.
-* Maintain centralized access to all sheets while giving coordinators access to their own.
-* Increase our ability to adjust quickly to feedback by writing code that made changes to all the department spreadsheets at once.
-* Allow coordinators to edit their inventory documents simultaneously in real time, which prevents wasting time on merging changes between document versions.
-* Aggregate and track progress for all departments in one location.
+##Prioritizing the inventory
 
+Once we had identified our initial inventory of high-value public datasets, we screened the list using the various factors below in order to decide what we could publish to portal first. The inventory process generated basic information related to these factors, but a thorough review required gathering additional information from information coordinators, data stewards, department directors, the City’s legal team and the City’s Chief Information Security Officer.
 
-#### Reporting
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img src="http://take.ms/BGPG1" alt="CDO Dashboard"/>
-    </div>
-    <div class="col span_1_of_2">
-        To facilitate continuous reporting and track progress for all departments simultaneously, we built a central dashboard.
-    </div>
-</div>
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img src="http://take.ms/2FCWc" alt="Department Dashboard"/>
-    </div>
-    <div class="col span_1_of_2">
-        However, department coordinators did not need the same level of depth, so we provided them a simplified interface.
-    </div>
-</div>
+###Security
 
-#### Dissemination of information
-One of our main goals was to make online resources available to all coordinators all the time.  For disseminating the information, we chose to use a technology called GitBook, which is an open source publishing work-flow system.  It also allowed us to continuously incorporate feedback and update the instructions without having to redistribute them to coordinators.
+If a dataset has the potential to expose the City or residents to security risks, we will not include it in the inventory or the portal. City attorneys and the City’s Chief Security Officer weigh in on this decision.
 
-In addition to the benefit of receiving continuous feedback from City staff, we also analyzed how the staff used the documents.  By continuously tracking our documentation's effectiveness, we issued targeted clarifications and improved internal communication around Open Data.  For example, earlier versions of the inventory had separate examples for each step.  We noticed that many coordinators went to see the examples, but left those pages quickly, which suggests that they did not find them useful.  When we changed to a single example that covered the entire inventory, we instantly observed people staying on pages longer and getting more use from the examples.
+The City is also committed to protecting any private information about employees and residents. If a dataset includes private information that would need to be removed or aggregated before publication, it may appear in the inventory but could take longer to publish to the portal to allow for extra work and processing time.
 
+###Quality
 
-#####Monitoring the navigation flow of users:
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img src="http://take.ms/0Hi0H" alt="GA Flow"/>
-    </div>
-    <div class="col span_1_of_2">
-        We saw how people navigated through the inventory: which pages led them to other pages. Based on the feedback, we made several decisions on how to lay out the guidelines.
-    </div>
-</div>
+Information coordinators were asked to flag datasets for which quality might be a concern. If we determined that the quality could improve, for example by removing older data, the dataset may appear in the inventory, but take longer to publish to the portal. When possible, we offer advice and help to improve data collection methods.
 
-#####Tracking various metrics to gauge user behavior and adjust accordingly:
-<div class="section group">
-    <div class="col span_1_of_2">
-        We tracked:
-        <ul>
-            <li>Pages where the most people exited the guidelines.</li>
-            <li>Viewed pages of the guidelines.</li>
-            <li>Ratio of how many people left the site after viewing only one page.</li>
-            <li>Pageviews, users and returning users.</li>
-        </ul>
-    </div>
-    <div class="col span_1_of_2">
-        <img src="http://take.ms/5Kg8v" alt="GA Dash"/>
-    </div>
-</div>
+###Readiness
 
+We have high standards for the data that goes on the portal. Readiness refers to the amount of work it would take to get the dataset onto the Open Data Portal using no human intervention. Several characteristics factor into this, so extracting a dataset from a primary source and delivering it to the portal could be a very involved process.
 
-#####Tracking pageviews per session and returning users
-<div class="section group">
-    <div class="col span_1_of_2">
-        <img src="http://take.ms/xpqQr" alt="GA Dash 2"/>
-    </div>
-    <div class="col span_1_of_2">
-      In order to gauge the usefulness of the guidelines, it was important to know how many people spent a significant amount of time reading the guidelines, and how many people returned.
-    </div>
-</div>
+If a dataset is already published somewhere on the City website and can be downloaded in a machine-readable format, we work with the coordinators to connect directly to the source system and move that data onto the portal, which eases the burden of publishing the dataset. Often, data is extracted and manipulated by hand before online publication, and we want to take that time-sucking process off the data owner’s hands. Many datasets need an automated process for connecting, extracting, cleaning and uploading to the portal. In that case, they simply are not readily available, which means that they may appear on the inventory but will take longer to publish to the portal
 
-<div class="break"></div>
+##Results
 
-#### Compiling
-R Script handles inventory data compilation and reporting across the department spreadsheets. R Script pulls summary inventory data from all spreadsheets, aggregates and then cleans the data.  In order for the inventory to be effective, it must be continuously updated, and these tools allow us to do so now and in the future.
+The 44 datasets at the top of the list after prioritization were published to the portal at launch, and several more are at some stage in the publication process. By 2020, all high-value public datasets must either be published to the portal or listed in a compliance plan along with the reasons they could not be published and timelines for eventual publication.
 
-#### Additional Sources
-In addition to the manually generated inventory, we are working with the Department of IT to take advantage of available technological data collection methods.  We will rely on the following sources to verify and augment the inventory data over the coming year:
-
-* List of GIS (Geographic Information Systems) Data
-* List of Business Warehouse Reports
-* List of Data provided by CGI (the application support sourcing vendor)
-* Automated scanning of sandiego.gov for potential datasets
 
 
 
