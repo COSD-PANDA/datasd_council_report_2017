@@ -12,5 +12,5 @@
 * [Prioritization](main/prioritization.md)
 * [Community Involvement](main/community.md)
 * [Acknowledgements](main/stars.md)
-* Portal Metrics
+* [Portal Metrics](portal-metrics.md)
 
