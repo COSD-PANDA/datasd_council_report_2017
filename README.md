@@ -10,7 +10,7 @@ We will be expanding our mission in the near future to include using analytics t
 <div class="section group sig">
     <div class="col span_1_of_2">
       <div class="sig-img">
-        <img src="http://mrm-random.s3.amazonaws.com/dz/e-signature_AUdrys.jpg" width="50%"/>
+        <img src="http://mrm-screen.s3.amazonaws.com/e-signature_AUdrys.jpg"/>
       </div>
       <div class="sig-sub">
         Almis Udrys, <br/>
@@ -19,7 +19,7 @@ We will be expanding our mission in the near future to include using analytics t
     </div>
     <div class="col span_1_of_2">
       <div class="sig-img">
-        <img src="http://mrm-random.s3.amazonaws.com/dz/Image-1-1.jpg"/>
+        <img src="http://mrm-screen.s3.amazonaws.com/Image-1-1-1.jpg"/>
       </div>
       <div class="sig-sub">
         Maksim Pecherskiy, <br/>
