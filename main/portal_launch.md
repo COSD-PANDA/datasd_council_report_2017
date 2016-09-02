@@ -16,7 +16,7 @@ Our kick-off meeting with the vendor occurred March 28. We met our project manag
 
 An early version of the portal website was available for us to start working with on April 26. We received a short training over the phone on how to use it, and then we were free to start staging datasets and adding other content.
 
-We staged 44 datasets, solicited final feedback and made all requested changes to them between April 26 and our soft launch on June 22. For more information about the full data release process, please see Chapter 4, but here is an overview of staging a dataset:
+We staged 44 datasets, solicited final feedback and made all requested changes to them between April 26 and our soft launch on June 22. For more information about the full data release process, please see [Chapter 4](data_release.md), but here is an overview of staging a dataset:
 
 * Uploading a sample that we had refined previously with our information coordinators
 
@@ -120,7 +120,7 @@ Data stories illustrate what is possible with Open Data. The stories we publishe
 ##Publicizing the launch
 
 
-The portal was publicly available on June 22 at [data.sandiego.gov](http://data.sandiego.gov/). Mayor Kevin L. Faulconer’s office issued a press release announcing the launch on July 6. Chief Data Officer Maksim Pecherskiy, Council President Sherri Lightner and Council Member Mark Kersey also appeared on multiple morning news programs to promote the portal. For information about the portal’s status since launch, see Chapter 6.
+The portal was publicly available on June 22 at [data.sandiego.gov](http://data.sandiego.gov/). Mayor Kevin L. Faulconer’s office issued a press release announcing the launch on July 6. Chief Data Officer Maksim Pecherskiy, Council President Sherri Lightner and Council Member Mark Kersey also appeared on multiple morning news programs to promote the portal. For information about the portal’s status since launch, see [Chapter 6](portal_metrics.md).
 
 
 ________________
