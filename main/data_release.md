@@ -63,9 +63,11 @@ We met with a PD data steward to discuss how to best release the calls for servi
 
 This process was significantly more complex and required more work than extracting directly from a database. Building the process for direct extraction would have taken about 12 hours once we knew which query to run, but the workaround we built took about two weeks. Still, that was shorter than the amount of time a rigorous background check would have taken.
 
-The police department also chose to filter out certain types of incidents from the data.  We made sure to state that data is not complete explicitly on the portal, and are hoping to further work out with PD a middle ground, where we can roll incident descriptions up to a more anonymized, standard.  
+The police department also chose to filter out certain types of incidents from the data.  We made sure to state that data is not complete explicitly on the portal, and are hoping to further work out with PD a middle ground, where we can roll incident descriptions up to a more anonymized, standard.
 
-We learned an important lesson with this dataset that will be added to our technical guidelines. The way this process worked, we had no input on the query that extracted the data directly from the CAD replication database, so we did not know which call codes were excluded, or how the addresses were abstracted.  Additionally, not having seen the query PD was using to extract data brought up a number of questions that made us feel as if we could not properly describe or understand the data. However, they have been great to work with and shared the query with us when we asked.  
+We learned an important lesson with this dataset that will be added to our technical guidelines. The way this process worked, we had no input on the query that extracted the data directly from the CAD replication database, so we did not know which call codes were excluded, or how the addresses were abstracted.  Additionally, not having seen the query PD was using to extract data brought up a number of questions that made us feel as if we could not properly describe or understand the data. However, they have been great to work with and shared the query with us when we asked.
+
+As part of the Police Data Iniative, we'll be working further with the Police Departments to release additional datasets such as community events and vehicle stop incidents.
 
 ### Machine traffic counts
 
