@@ -48,41 +48,41 @@ Although 44 data sets are on the portal, we are still completing the connections
 
 For our full list of next steps, see [Chapter 7](main/next_steps). Below are some of our major areas of work in the near future.
 
-1.Continue data release
+###Continue data release
 
 Our data inventory currently has hundreds of high-quality datasets, and we expect it to grow as we automate ways to find data across the City. We have until 2020 to publish on the portal all high-value public datasets. If a dataset cannot be published, a full explanation will be included in our compliance plan.
 
-2. Maintain portal stability
+###Maintain portal stability
 
 Technology breaks, databases change, and servers go down. We will be building ways to monitor our technology and receive alerts when we need to act.
 
-3. Launch a data help desk
+###Launch a data help desk
 
 Increasing data literacy and promoting use of data internally are major goals of our program. We will launch a data help desk where City employees can request hands-on assistance using and analyzing data.
 
-4. Increase our scope to include analytics and technological problem-solving
+###Increase our scope to include analytics and technological problem-solving
 
 A data scientist will be joining our team this fiscal year to apply knowledge of statistics and technology to solve real City problems. We have heard from employees in every department about ideas they have for using data to improve services and make decisions. We have also heard that people need help using technology to better manage data.
 
 ##Program goals
 
-1. Increase data literacy within the City and with those who interact with the City
+###Increase data literacy within the City and with those who interact with the City
 
 There are various levels of understanding of what are data, metadata, Open Data, etc.
 
-2. Manage data as an asset, formalizing existing oversight and ownership
+###Manage data as an asset, formalizing existing oversight and ownership
 
 Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
 
-3. Release data to the public via a strategic and predictable process
+###Release data to the public via a strategic and predictable process
 
 Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information (PII), and ensuring that we describe and release data in a way that meets Open Format specifications.
 
-4. Ensure that data are well described and catalogued
+###Ensure that data are well described and catalogued
 
 Understanding what data we have is crucial to both Open Data and data management. We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.
 
-5. Support increased use of data in decision making, as well as innovations in Open Data use.
+###Support increased use of data in decision making, as well as innovations in Open Data use.
 
 We have a talented City workforce that makes data-driven decisions every day. In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
 
