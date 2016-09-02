@@ -10,7 +10,7 @@ We will be expanding our mission in the near future to include using analytics t
 <div class="section group sig">
     <div class="col span_1_of_2">
       <div class="sig-img">
-        <img src="http://mrm-random.s3.amazonaws.com/dz/e-signature_AUdrys.jpg"/>
+        <img src="http://mrm-random.s3.amazonaws.com/dz/e-signature_AUdrys.jpg" width="50%"/>
       </div>
       <div class="sig-sub">
         Almis Udrys, <br/>
