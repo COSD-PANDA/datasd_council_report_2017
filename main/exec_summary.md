@@ -26,7 +26,7 @@ For nearly all datasets, the first step in data release was a discovery meeting 
 
 As we finalized data samples, we had to decide how pieces of content would be organized according to the DCAT schema. With DCAT, a “dataset” is a container that contains downloadable files, or “resources.” On each dataset page on the portal, you will find multiple resources. At the minimum, we have one resource for the most granular level of data and one resource that contains the data dictionary. Other datasets also include resources for different aggregations of data, or for data that had to be broken up into different years.
 
-For more information about the data release process, see [Chapter 4](main/inventory_findings.md). For more information about DCAT and how our catalog is organized, see Chapter 5.
+For more information about the data release process, see [Chapter 4](main/process_overview.md). For more information about DCAT and how our catalog is organized, see [Chapter 5](main/portal-launch.md).
 
 ##Standing up the portal
 
@@ -46,7 +46,7 @@ Although 44 data sets are on the portal, we are still completing the connections
 
 ##Next steps
 
-For our full list of next steps, see Chapter 7. Below are some of our major areas of work in the near future.
+For our full list of next steps, see [Chapter 7](main/next_steps). Below are some of our major areas of work in the near future.
 
 1.Continue data release
 
