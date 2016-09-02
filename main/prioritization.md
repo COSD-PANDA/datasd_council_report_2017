@@ -1,56 +1,78 @@
 # Prioritization
-The Open Data Policy calls for us to release high-value datasets to the public.  High-value is a subjective term, highly relative to the standpoint of the person making the judgment.  Therefore, to have a solid determination of high-value, we need to understand who it is that may be making the judgment:
+
+Prioritization is the process we used for deciding in which order to publish our high-value public datasets to the portal. Our inventory included 136 datasets to choose from, and 44 of those were on the portal at launch. This chapter describes how we built our inventory and how we prioritized the results.
+
+It is important to note that our inventory and portal prioritization processes are fluid. Although we describe the various steps below sequentially, some steps can occur, and did occur, concurrently, depending on the data, as we became more comfortable with our process.
+
+##Living inventory
+
+The Open Data Policy places great emphasis on publishing an inventory of high-value public datasets and ensuring all datasets in the inventory are available on a public portal by 2020. This inventory is published at datasd.org, the official information site for the City’s Data & Analytics program. 115 high-value public datasets were included in the initial publication of the inventory on February 29, 2016. Today, our inventory contains 136 datasets.
+
+As we improve our methods for locating and accessing data across the City, the inventory will grow. Initially, we used three major sources for the inventory: the raw results from the first City-wide manual survey conducted in 2015; our discovery meetings with information coordinators and data stewards about their data sources; and reports, web pages and conversations with City employees. In the future, we will be working to automate methods for finding data.
+
+###The manual dataset survey
+
+During the six months leading up to the last Open Data Policy implementation update, the City’s newly hired Chief Data Officer designed and conducted a first-ever manual survey of City data. This massive effort involved the contributions of 65 information coordinators in 35 departments and programs.
+
+The survey accomplished a number of objectives:
+
+* Acquire a base-level understanding of the data the City has at its disposal
+
+* Create and collect basic attributes describing this data
+
+* Establish a competent group of information coordinators across the departments
+
+* Identify people currently working with and managing data as well as their experience and knowledge of data tools and best practices
+
+* Understand which of the City’s software systems are authoritative for various sets of information
+
+* Identify critical data and be able to prioritize it for release or internal access
+
+Preliminary returns from the survey did not immediately become the official inventory of high value public datasets. The purpose was much broader, as outlined above, and only functioned as a starting point for the creation of the official inventory. For more background on the inventory effort, see the first Open Data Implementation update report published July 1, 2015.
+
+###Making sense out of the survey submissions
+
+No one person in the City is familiar with the specialized knowledge of all 65 information coordinators who contributed to the survey. Our team faced a big task in reviewing and understanding each submission, especially because submissions varied in their completeness, and some were described in language that is not meaningful to anyone outside of the department that uses it every day.
+
+Additionally, many entries did not meet the definition of dataset. We cast a wide net for potential datasets because we preferred to evaluate whether something were a dataset rather than miss a potential dataset. We have the ability to revisit information we obtained during our survey for further analysis and consideration, but much of what was submitted did not meet the criteria for inclusion in the official inventory.
+
+###Public versus private
+
+The most important criteria for whether we include a dataset in the inventory, or ultimately the portal, is whether it meets the definition of “public.” The Open Data Policy identifies several circumstances under which a dataset is not public and thus generally not subject to the open data policy. These include exemptions under federal, state or local law, rule or regulation; information that describes employees or the internal deliberative processes of the City; proprietary software, computer code and applications; and data that exists in a location that is assigned to a single City employee or a single City-owned or City-controlled computing device. Datasets that meet at least one of these criteria are not subject to inclusion in the inventory or the portal.
+
+###Determining Value
+
+Another criteria for determining which datasets are subject to publication is whether a public dataset is high-value. One single person cannot judge the ultimate value of a dataset, so as we review potential datasets for value, we take into consideration the point-of-views of several personas: a software developer, a community activist, a resident, the Mayor and Council members, a department director and a City staff person, such as a traffic engineer. Considering these personas, a dataset might be the basis for a web application; it could drive decisions about policy or operations; or it could satisfy curiosity about major issues facing residents.
+
+Another way we determine value is to look at how often the public requests the data. If a highly requested dataset is available on an Open Data Portal, City staff will spend less time filling requests for that dataset. At the time of our initial inventory, the City was not centrally evaluating California Public Records Act (CPRA) requests for the purposes of the open data program. As a result, we asked information coordinators to flag datasets frequently requested under the CPRA. To further increase our understanding of datasets requested under the CPRA, and inform our inventory and publication efforts, Performance & Analytics has worked with the Human Resources Department on an online public record request tool at sandiego.nextrequest.com. Going forward, not only will this tool help the public efficiently request and search public records, but it will also allow us to better identify frequently requested datasets to add to our inventory, our portal, or both.
+
+The final factor helping us determine value of datasets, particularly for our initial portal launch, is the voting option we offered to everyone - the public, City employees and decision-makers - at datasd.org. Users can page through the inventory and submit a vote for each dataset that they are interested in accessing on the Open Data Portal. The vote results helped determine which datasets were published first. We will continue providing this option, but we will also include in the inventory datasets we did not initially consider high-value so the public has an opportunity to shape our idea of what is and is not high-value.
+
+##Prioritizing the inventory
+
+Once we had identified our initial inventory of high-value public datasets, we screened the list using the various factors below in order to decide what we could publish to portal first. The inventory process generated basic information related to these factors, but a thorough review required gathering additional information from information coordinators, data stewards, department directors, the City’s legal team and the City’s Chief Information Security Officer.
+
+###Security
+
+If a dataset has the potential to expose the City or residents to security risks, we will not include it in the inventory or the portal. City attorneys and the City’s Chief Security Officer weigh in on this decision.
+
+The City is also committed to protecting any private information about employees and residents. If a dataset includes private information that would need to be removed or aggregated before publication, it may appear in the inventory but could take longer to publish to the portal to allow for extra work and processing time.
+
+###Quality
+
+Information coordinators were asked to flag datasets for which quality might be a concern. If we determined that the quality could improve, for example by removing older data, the dataset may appear in the inventory, but take longer to publish to the portal. When possible, we offer advice and help to improve data collection methods.
+
+###Readiness
+
+We have high standards for the data that goes on the portal. Readiness refers to the amount of work it would take to get the dataset onto the Open Data Portal using no human intervention. Several characteristics factor into this, so extracting a dataset from a primary source and delivering it to the portal could be a very involved process.
+
+If a dataset is already published somewhere on the City website and can be downloaded in a machine-readable format, we work with the coordinators to connect directly to the source system and move that data onto the portal, which eases the burden of publishing the dataset. Often, data is extracted and manipulated by hand before online publication, and we want to take that time-sucking process off the data owner’s hands. Many datasets need an automated process for connecting, extracting, cleaning and uploading to the portal. In that case, they simply are not readily available, which means that they may appear on the inventory but will take longer to publish to the portal
+
+##Results
+
+The 44 datasets at the top of the list after prioritization were published to the portal at launch, and several more are at some stage in the publication process. By 2020, all high-value public datasets must either be published to the portal or listed in a compliance plan along with the reasons they could not be published and timelines for eventual publication.
 
 
-## Components of Prioritization
-### Personas
-In our thinking about Open Data, we identified several high-level personas that would naturally care about what is released.  These personas will be part of our evaluation on what constitutes datasets that are scheduled for release.
 
-<img class="fullwidth" src="http://mrm-random.s3.amazonaws.com/dz/Open_Data_Stakeholders_-_Pub%20(2).png" alt="Personas" width="100%"/>
-
-<div class="break"></div>
-
-In order to prioritize, we plan to measure a dataset on the following overarching factors:
-
-### Value
-The value of a dataset is gauged by demand from various stakeholders; whether this dataset will increase transparency, accountability or internal efficiency; or create economic opportunity.
-
-### Security
-The City will place the highest priority on protecting data that exposes the City to security risks or the public's private information from release.
-
-### Quality
-Low-quality data (i.e. missing fields, erroneous entry, manually updated) could receive a lower prioritization, since it may need some extra work.
-
-### Readiness
-Readiness gauges the amount of work required to convert the data to an open format, and whether data are already routinely published.
-
-## Prioritization Matrix
-Based on the preceding components of prioritization, we have derived an initial prioritization matrix that will be revised as necessary following a legal and technical review: 
-
-
-| **Field Name** | **Field Description** | **Prioritization Category** |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
-| Dataset | Dataset Identifier | Meta |
-| Mayor Demand / Council Demand | Is there demand from the Mayor / Council for this dataset? | Value |
-| Interdepartmental demand | Can releasing these data positively influence workflows / performance across City silos? | Value |
-| Departmental demand | Does the department desire that these data be released? | Value |
-| Dataset included in Open Data Census | The Open Data Census contains some of the more highly requested datasets across the country and is a good indicator for demand (http://sdgo.io/1IzdOom) | Value |
-| There is an application built ready to use these data. | If there is an application built on sample data that we can deliver to residents or other users quickly and provide impact. | Value |
-| There is a known, constant stream of PRAs for these data | If releasing these data will alleviate some PRA work from departments. | Value |
-| Resident Demand | Percentage of surveyed residents who want these data released | Value |
-| # Of Defined Personas Affected Positively | Based on our persona definitions, which of the personas are likely to use these data? (http://sdgo.io/1HeIOiK) | Value |
-| Is this data already being published? | Are these data already being published, but not in a central, organized location and in open format? | Readiness |
-| Coordinator Value Assignment | Did the Coordinator mark these data as high / med or low priority | Value |
-| Data Sensitivity Assignment | Are these data public, protected or sensitive | Security |
-| Data Quality Concerns | Are there concerns about data quality? | Quality |
-| Data governance structure | Does a minimum viable level of data governance structure exist for this dataset? | Quality |
-| Data frequency of change | If the data get updated often, releasing it without ETL will render it irrelevant, and building ETLs may require investment of time and money. | Quality |
-| ETL Required? | A 3-level indicator of whether ETL is required - 1=yes, 2=yes,but can delay, 3 = no | Quality |
-| Do this data contain potential PII (Personally Identifiable Information), or PCI (Payment Card Industry) information? | If these data contains PII or PCI information, they will need special handling making it harder to release | Security |
-| Do these data contain information detrimental to the City's security if released or information that is business sensitive? | If these data contain such information, they will need special handling making it harder to release | Security |
-| Do these data contain information that is public but only under specific terms? | If these data contain such information, they will need special handling making it harder to release | Security |
-| Data extraction complexity | If it's hard to extract data from a given system, it may result in a lower prioritization | Readiness |
-| Metadata Availability | Metadata Availability | Readiness |
-| Do these data support a performance indicator? | If these data support a published performance indicator for the department, that will cause a higher level of prioritization | Value |
 
 

@@ -48,7 +48,7 @@ Andrell Bower and Almis Udrys presented to a delegation from the West Sumbawa Re
 
 ##Society for Professional Journalists Sunshine Award
 
-On March 9, the Society for Professional Journalists awarded Maksim Pecherskiy with the 2015 Sunshine Award https://www.youtube.com/watch?v=6BGw2Msv2Wgin recognition of his contributions to the City’s online budget interactive, publication of an inventory of City data and laying the groundwork for the open data portal.
+On March 9, the Society for Professional Journalists awarded Maksim Pecherskiy with the [2016 Sunshine Award](https://spjsandiego.org/2016/03/09/announcing-the-2016-sunshine-award-plus-wall-and-window-nominees/) in recognition of his contributions to the City’s online budget interactive, publication of an inventory of City data and laying the groundwork for the open data portal.
 
 ##Code for America Talk
 
