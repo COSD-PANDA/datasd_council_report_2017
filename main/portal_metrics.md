@@ -1,1 +1,1 @@
-![Various numbers for portal traffic](https://dl.dropboxusercontent.com/u/2969030/report-metrics-01.png)
+![Various numbers for portal traffic](assets/report-metrics-01.png)

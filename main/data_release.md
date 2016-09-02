@@ -6,7 +6,7 @@ With prioritization complete, and 115 high-value public datasets to start with, 
 
 A flexible process guided our actions. Here is a general overview:
 
-![Data publication process](https://dl.dropboxusercontent.com/u/2969030/process.png)
+![Data publication process](assets/process.png)
 
 For the majority of datasets, we started with a meeting with the information coordinator who suggested the dataset to the inventory and, when possible, any data stewards and subject matter experts needed. The purpose of the meeting was to find out everything we could about the data and also establish a relationship with whomever was responsible for maintaining and updating the data. In some cases, the data is stored in systems a third-party maintains on a contractual basis for the City, and getting the cooperation of contractors and vendors was key.
 

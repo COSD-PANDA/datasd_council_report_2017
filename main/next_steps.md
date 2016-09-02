@@ -6,7 +6,7 @@ The near future of the program will include continual data releases along with a
 
 ###Enhance our automation
 
-We have many of the pieces in place to automate updates to the portal, including direct connections to the databases and files where the original data is managed. Now, we need to finish writing code that runs itself on a daily, weekly or monthly basis, depending on the update schedule for each dataset. More information about automation of data updates can be found in Chapter 4.
+We have many of the pieces in place to automate updates to the portal, including direct connections to the databases and files where the original data is managed. Now, we need to finish writing code that runs itself on a daily, weekly or monthly basis, depending on the update schedule for each dataset. More information about automation of data updates can be found in [Chapter 4](data_release.md).
 
 ###Maintain stability
 
@@ -36,7 +36,7 @@ Here are some ways we will track whether people are using the portal while promo
 
 * Solicit feedback about the portal through a submission form available on the portal homepage
 
-* Work with UCSD to create a better pipeline of data.sandiego.gov users
+* Work with UCSD to create a better pipeline of [data.sandiego.gov](http://data.sandiego.gov/) users
 
 * Take advantage of opportunities where we can work with the library in order to engage our local community with using data.
 

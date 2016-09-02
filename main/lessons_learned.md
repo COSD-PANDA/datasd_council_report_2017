@@ -8,7 +8,7 @@ City staff recognize the benefits of opening up data, but they want to make sure
 
 ##City staff will be some of the biggest users of open data
 
-Many, many of our internal partners throughout the City have approached us with ideas for analyzing and displaying their data beyond just offering a download to the public. The Data Stories published on the portal at launch were just the tip of the iceberg of ideas. City employees also were a significant portion of people who voted on the inventory at datasd.org.
+Many, many of our internal partners throughout the City have approached us with ideas for analyzing and displaying their data beyond just offering a download to the public. The Data Stories published on the portal at launch were just the tip of the iceberg of ideas. City employees also were a significant portion of people who voted on the inventory at [datasd.org](http://www.datasd.org/inventory/).
 
 ##City staff need help using technology to improve their data collection and management processes
 

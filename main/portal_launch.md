@@ -10,7 +10,7 @@ Another important aspect of DKAN is that it complies with the federal DCAT schem
 
 ##Setting up the portal
 
-Once procurement was completed, we had to get the portal ready. Customizing the site according to the City’s style guide, designing and populating the front page and extra content, identifying and working bugs out with the vendor, and loading all datasets took about three months. We had to juggle this work alongside our tasks for the data release process described in Chapter 4.
+Once procurement was completed, we had to get the portal ready. Customizing the site according to the City’s style guide, designing and populating the front page and extra content, identifying and working bugs out with the vendor, and loading all datasets took about three months. We had to juggle this work alongside our tasks for the data release process described in [Chapter 4](data_release.md).
 
 Our kick-off meeting with the vendor occurred March 28. We met our project manager, set our timeline and discussed our strategy for automating data updates. We set a weekly appointment for a quick check-in meeting, and got set up on a project management tool that we used to report bugs and ask questions. Following the meeting, we sent our project manager all the things his team would need to design our portal: our new City style guide, an image of San Diego to use on the homepage, and various logos.
 
@@ -28,7 +28,7 @@ We staged 44 datasets, solicited final feedback and made all requested changes t
 
 The portal also needed content other than datasets. DKAN provides the ability to create and embed visualizations into Data Stories. Portal users can get and analyze City data on their own, but some users may not have the technical skills or the background knowledge and context to create visualizations. The Data Stories pair visualizations with explanatory narrative, which is useful for datasets that need explanation. Creating data stories also shows people what’s possible with open data.
 
-The homepage of the portal website was an opportunity for us to capture people’s interest and engage them in our program. Key items are directly at the top: a search bar, popular tags, a map from one of our data stories, and links to the Open Data informational site datasd.org and the Performance & Analytics Department. Just below, we have helpful extra content organized by type of user: New visitors, hackers, City employees, and residents. This section was something extra we designed outside of the portal and used a creative workaround to include. Anyone might find a link in any category useful, but we wanted to prominently place the information each type of person might want to see first. Further down the page, we’ve got a few different ways people can interact with us, a set of previews for our Data Stories, and a set of icons representing our major topics. Topics are also available in a dropdown link at the top of the page.
+The homepage of the portal website was an opportunity for us to capture people’s interest and engage them in our program. Key items are directly at the top: a search bar, popular tags, a map from one of our data stories, and links to the Open Data informational site [datasd.org](http://www.datasd.org/) and the Performance & Analytics Department. Just below, we have helpful extra content organized by type of user: New visitors, hackers, City employees, and residents. This section was something extra we designed outside of the portal and used a creative workaround to include. Anyone might find a link in any category useful, but we wanted to prominently place the information each type of person might want to see first. Further down the page, we’ve got a few different ways people can interact with us, a set of previews for our Data Stories, and a set of icons representing our major topics. Topics are also available in a dropdown link at the top of the page.
 
 We had to then create the content for all of the features on the homepage, including: a tutorial on how to use the portal, forms for people to use to submit projects they’ve created with open data and to get help with using data internally, an email list, and a form to submit feedback on the portal, plus four Data Stories, three of which were developed with the help and input of other City departments: one on street sweeping, another on parking meters, one on solar permits, and the last one on water quality.
 
@@ -60,7 +60,7 @@ ETL can be performed with a variety of tools and programming languages, but Safe
 
 ######Screenshot of an ETL job in SafeFME
 
- ![Screenshot of an ETL job in SafeFME](https://dl.dropboxusercontent.com/u/2969030/main.png)
+ ![Screenshot of an ETL job in SafeFME](assets/main.png)
 
 FME handles some tasks really well, such as extracting from a database using a query, aggregating or filtering the data, and moving it off to the destination. However, for other tasks, like downloading files according to a pattern from an FTP, advanced data merging or deduplicating, and creating backups of files when we can’t guarantee the stability of the source, we used lower-level programming languages such as R and Python. Our strategy is to choose the option with the least possible complexity, which is why we use FME for most tasks, but that same strategy often dictates that we use the best possible tool for the job.
 
@@ -90,10 +90,11 @@ shapefile | A shapefile is a proprietary format for geographic data. When the ge
 .json | JSON stores data values as attribute-value pairs that are collected together into an object. Each row is an object, and the object contains an attribute for the column along with the corresponding data point as the value.
 
 ######Illustration of the DKAN hierarchy
-![DKAN hierarchy](https://dl.dropboxusercontent.com/u/2969030/DKAN-structure%20copy.png)
+![DKAN hierarchy](assets/DKAN-structure.png)
 
 Each dataset we created had to include metadata -- or data about that dataset. Below is a list of metadata values that are available:
-
+
+
 * Publisher: The publishing department
 * Modified Date: The date of the last change to the dataset. This field is automatically populated.
 * Release Date: The date the dataset was first created. This field is automatically populated.
@@ -107,17 +108,20 @@ Each dataset we created had to include metadata -- or data about that dataset. B
 ##Writing data stories
 
 
-Data stories illustrate what is possible with Open Data. The stories we published showcase data that is either being used internally by City staff or externally by application developers.
+Data stories illustrate what is possible with Open Data. The stories we published showcase data that is either being used internally by City staff or externally by application developers.
+
 
 * Jonathan Carey in the City Treasurer department created a map of parking meters. Users can hover over a meter point to get total number of transactions for 2015 and the total amount of revenue for 2015.
 * Cody Hooven, Sustainability Program Manager in the Economic Development Department, wanted a map of permits for solar installations. CDO Maksim Pecherskiy crunched the data and mapped it for Cody’s story.
 * The Environmental Monitoring and Technical Services Division of the Public Utilities Department wanted people to have access to the most recent test results at drinking water sampling site. Open Data Program Coordinator Andrell Bower helped create the map for this data story.
 * Parking and parking tickets are such a popular topic for developers of mobile apps and the people who voted on the City’s data inventory, that the Open Data team wanted to take a look at street sweeping. This data story is a collection of maps that looks at the different kinds of sweeping schedules that exist in different areas of the City.
-
+
+
 ##Publicizing the launch
 
 
-The portal was publicly available on June 22 at data.sandiego.gov. Mayor Kevin L. Faulconer’s office issued a press release announcing the launch on July 6. Chief Data Officer Maksim Pecherskiy, Council President Sherri Lightner and Council Member Mark Kersey also appeared on multiple morning news programs to promote the portal. For information about the portal’s status since launch, see Chapter 6.
+The portal was publicly available on June 22 at [data.sandiego.gov](http://data.sandiego.gov/). Mayor Kevin L. Faulconer’s office issued a press release announcing the launch on July 6. Chief Data Officer Maksim Pecherskiy, Council President Sherri Lightner and Council Member Mark Kersey also appeared on multiple morning news programs to promote the portal. For information about the portal’s status since launch, see Chapter 6.
 
-________________
+
+________________
 [1] Data Catalog Vocabulary. W3C Recommendation 16 January 2014. https://www.w3.org/TR/vocab-dcat/
