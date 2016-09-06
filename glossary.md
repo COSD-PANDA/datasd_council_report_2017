@@ -16,7 +16,7 @@ Extract Transform Load;  An automated process for moving data from one location 
 
 ## Fuzzy joins
 
-Special joins that can match two strings even when they are not exactly equal but are close. For example, we would like to match the query 'inglourios basterds' with the real movie title 'Inglourious Basterds'.  There are several techniques for doing this, and they are all time-consuming.
+Special joins that can match two strings even when they are not exactly equal but are close. For example, we would like to match the query 'mad max fury road' with the real movie title 'Mad Max: Fury Road'.  There are several techniques for doing this, and they are all time-consuming.
 
 ## GIS
 

@@ -113,7 +113,7 @@ Data stories illustrate what is possible with Open Data. The stories we publishe
 
 * Jonathan Carey in the City Treasurer department created a map of parking meters. Users can hover over a meter point to get total number of transactions for 2015 and the total amount of revenue for 2015.
 * Cody Hooven, Sustainability Program Manager in the Economic Development Department, wanted a map of permits for solar installations. CDO Maksim Pecherskiy crunched the data and mapped it for Cody’s story.
-* The Environmental Monitoring and Technical Services Division of the Public Utilities Department wanted people to have access to the most recent test results at drinking water sampling site. Open Data Program Coordinator Andrell Bower helped create the map for this data story.
+* The Environmental Monitoring and Technical Services Division of the Public Utilities Department wanted people to have access to the most recent test results at drinking water sampling sites. Data & Analytics Program Coordinator Andrell Bower helped create the map for this data story.
 * Parking and parking tickets are such a popular topic for developers of mobile apps and the people who voted on the City’s data inventory, that the Open Data team wanted to take a look at street sweeping. This data story is a collection of maps that looks at the different kinds of sweeping schedules that exist in different areas of the City.
 
 

@@ -46,6 +46,8 @@ We have provided a number of other cities and organizations with advice on open 
 
 Andrell Bower and Almis Udrys presented to a delegation from the West Sumbawa Regency of Indonesia about the Performance & Analytics Department, and particularly Open Data, when the group visited City Hall in December 2015.
 
+Almis Udrys also presented to a delegation from North Africa and the Middle East and gave a talk about how San Diego is fostering a culture of data at a Smart Cities Summit in Austin, Texas.
+
 ##Society for Professional Journalists Sunshine Award
 
 On March 9, the Society for Professional Journalists awarded Maksim Pecherskiy with the [2016 Sunshine Award](https://spjsandiego.org/2016/03/09/announcing-the-2016-sunshine-award-plus-wall-and-window-nominees/) in recognition of his contributions to the City’s online budget interactive, publication of an inventory of City data and laying the groundwork for the open data portal.

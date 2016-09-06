@@ -1,6 +1,6 @@
 # Next Steps
 
-The near future of the program will include continual data releases along with an expansion of our mission to emphasize analytics and technical solutions to improve data use and management techniques. The portal launch was a significant milestone for our team, but we knew all along it was really just the beginning. As we juggled our data release process with the work of choosing, procuring and setting up the portal, some of the automation work had to be pushed to our backlog. And to keep up with the publication timeline of the Open Data Policy, we must also be constantly looking ahead at what datasets we will publish next and what datasets need to be added to our inventory.
+The near future of the program will include continual data releases along with an expansion of our services to emphasize analytics and technical solutions to improve data use and management techniques. The portal launch was a significant milestone for our team, but we knew all along it was really just the beginning. As we juggled our data release process with the work of choosing, procuring and setting up the portal, some of the automation work had to be pushed to our backlog. And to keep up with the publication timeline of the Open Data Policy, we must also be constantly looking ahead at what datasets we will publish next and what datasets need to be added to our inventory.
 
 ##The portal after launch
 
@@ -20,7 +20,7 @@ Our current official inventory includes over one hundred high-value, public data
 
 We want people to access and view City data with ease. For some users, downloading a .csv and performing their own analyses will be too difficult. We plan to build more data visualizations and publish them as Data Stories for those users. Another way we can help those users is by providing aggregations of data along with the full dataset. Additionally, other users who want to view geographic data might not have the correct software for viewing Shapefiles, so we want to add map previews for those datasets. Full datasets will always be available for download, but we also need to cater to the less tech-savvy, but engaged, citizen.
 
-###Measure impact and engaging with the community
+###Measure impact and engage with the community
 
 Here are some ways we will track whether people are using the portal while promoting portal use among different groups of users:
 
@@ -34,9 +34,9 @@ Here are some ways we will track whether people are using the portal while promo
 
 * Measure the internal impact of the portal through Amazon S3 analytics. Amazon S3 is a cloud storage solution that we are using as part of our publication pipeline. It will allow us to understand how City employees are accessing and using the data in the portal.
 
-* Solicit feedback about the portal through a submission form available on the portal homepage
+* Solicit feedback about the portal through a submission form available on the portal homepage.
 
-* Work with UCSD to create a better pipeline of [data.sandiego.gov](http://data.sandiego.gov/) users
+* Work with UCSD to enhance the pipeline of [data.sandiego.gov](http://data.sandiego.gov/) users
 
 * Take advantage of opportunities where we can work with the library in order to engage our local community with using data.
 

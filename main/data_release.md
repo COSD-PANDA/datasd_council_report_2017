@@ -65,9 +65,9 @@ This process was significantly more complex and required more work than extracti
 
 The police department also chose to filter out certain types of incidents from the data.  We made sure to state that data is not complete explicitly on the portal, and are hoping to further work out with PD a middle ground, where we can roll incident descriptions up to a more anonymized, standard.
 
-We learned an important lesson with this dataset that will be added to our technical guidelines. The way this process worked, we had no input on the query that extracted the data directly from the CAD replication database, so we did not know which call codes were excluded, or how the addresses were abstracted.  Additionally, not having seen the query PD was using to extract data brought up a number of questions that made us feel as if we could not properly describe or understand the data. However, they have been great to work with and shared the query with us when we asked.
+We learned an important lesson with this dataset that has informed our technical guidelines in the area of participating in and understanding all queries for data going onto our portal. PD extracted the data for this dataset themselves directly from the CAD replication database. They filtered certain call codes and abstracted addresses to protect sensitive information. We realized later that we did not have first-hand knowledge of which call codes were excluded or how the addresses were abstracted. As a result, we felt less comfortable with our ability to fully understand or properly describe the data. We were able to review the query when we asked, and we added a note to the dataset on the portal.
 
-As part of the Police Data Iniative, we'll be working further with the Police Departments to release additional datasets such as community events and vehicle stop incidents.
+As part of the Police Data Initiative, we'll be working further with the Police Departments to release additional datasets such as community events and vehicle stop incidents.
 
 ### Machine traffic counts
 

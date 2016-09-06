@@ -1,6 +1,6 @@
 #Technical Guidelines overview
 
-This is a high-level overview of the technical guidelines and standards we use for the data on the portal. 
+We use the following technical guidelines and standards for the data on the portal. 
 
 
 ##Data Quality
@@ -45,8 +45,8 @@ Data Documentation
 
 * To the extent possible, data released on the portal will not be filtered, except to exclude irrelevant, inaccurate or test data as needed.
 * All steps will be taken to perform aggregation to preserve anonymity and reduce mosaic effect before filtering is considered.
-* If filtering is considered, we first make the justification by comparing to datasets of similar type published by other cities cities.
-* If filtering does take place, it will be clearly noted on the portal in dataset documentation what filters were applied.
+* If filtering is considered, we first make the justification by comparing to datasets of similar type published by other cities.
+* If filtering does take place, it will be clearly noted on the portal in dataset documentation the filters there were applied.
 * Any decisions about data filtering must include the Chief Data Officer.
 
 ##ETL

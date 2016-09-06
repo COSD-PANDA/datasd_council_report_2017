@@ -58,9 +58,9 @@ Technology breaks, databases change, and servers go down. We will be building wa
 
 ###Launch a data help desk
 
-Increasing data literacy and promoting use of data internally are major goals of our program. We will launch a data help desk where City employees can request hands-on assistance using and analyzing data.
+Increasing data literacy and promoting use of data internally are major goals of our program. We are developing a plan to launch a data help desk where City employees can request hands-on assistance using and analyzing data.
 
-###Increase our scope to include analytics and technological problem-solving
+###Expand our service offerings to include analytics and technological problem-solving
 
 A data scientist will be joining our team this fiscal year to apply knowledge of statistics and technology to solve real City problems. We have heard from employees in every department about ideas they have for using data to improve services and make decisions. We have also heard that people need help using technology to better manage data.
 
