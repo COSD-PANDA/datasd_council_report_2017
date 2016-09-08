@@ -82,9 +82,9 @@ Data releases must account for a multitude of factors including communications w
 
 Understanding what data we have is crucial to both Open Data and data management. We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.
 
-### Support increased use of data in decision making, as well as innovations in Open Data use.
+### Support increased use of data in decision making, as well as innovations in Open Data use
 
-We have a talented City workforce that makes data-driven decisions every day. In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
+The City of San Diego is a talented workforce that makes data-driven decisions every day. In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
 
 ---
 
