@@ -18,7 +18,7 @@ Our current official inventory includes over one hundred high-value, public data
 
 ###Increase portal usability
 
-We want people to access and view City data with ease. For some users, downloading a .csv and performing their own analyses will be too difficult. We plan to build more data visualizations and publish them as Data Stories for those users. Another way we can help those users is by providing aggregations of data along with the full dataset. Additionally, other users who want to view geographic data might not have the correct software for viewing Shapefiles, so we want to add map previews for those datasets. Full datasets will always be available for download, but we also need to cater to the less tech-savvy, but engaged, citizen.
+We want people to access and view City data with ease. For some users, downloading a .csv and performing their own analyses will be too difficult. We plan to build more data visualizations and publish them as Data Stories for those users. Another way we can help those users is by providing aggregations of data along with the full dataset. Additionally, other users who want to view geographic data might not have the correct software for viewing Shapefiles, so we want to add map previews for those datasets. Full datasets will always be available for download, but the City also needs to cater to the less tech-savvy, but engaged, citizen.
 
 ###Measure impact and engage with the community
 
@@ -44,7 +44,7 @@ Here are some ways we will track whether people are using the portal while promo
 
 ###Launch a data help desk
 
-At a minimum, we want City staff and the public to have a way to ask questions about the data we have released on the portal. This is possible through a link we placed on the portal homepage that opens a form a person can fill out to ask questions or request help. Our ultimate vision is to have a data help desk, where City staff can get hands-on help with using data, and the public can view tutorials and ask technical questions.
+At a minimum, we want other City staff and the public to have a way to ask questions about the data the City has released on the portal. This is possible through a link we placed on the portal homepage that opens a form a person can fill out to ask questions or request help. Our ultimate vision is to have a data help desk, where City staff can get hands-on help with using data, and the public can view tutorials and ask technical questions.
 
 ###Implement an automated solution to keeping the data inventory up-to-date
 

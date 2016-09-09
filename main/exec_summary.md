@@ -14,13 +14,13 @@ Once we had established the beginnings of a high-value public inventory, we had 
 
 ## Portal launch
 
-An open data portal is really just a website containing a catalog of City data. After considering which portal product to use from among multiple vendors, we chose DKAN. DKAN is an open-source Drupal website that conforms to federal DCAT schemas. DKAN has an intuitive user interface, and it also offers extra features such as a customizable pages, data stories and charting capabilities.
+An open data portal is really just a website containing a catalog of City data. After considering which portal product to use from among multiple vendors, the City chose DKAN. DKAN is an open-source Drupal website that conforms to federal DCAT schemas. DKAN has an intuitive user interface, and it also offers extra features such as a customizable pages, data stories and charting capabilities.
 
 Launching the portal required us to simultaneously manage three main efforts: conducting a data release process for all 44 datasets; standing up the portal; and building automation for data updates.
 
 ## Data release process
 
-We realized quickly that a flexible data release process was necessary. We had certain things we had to standardize, but we also wanted to avoid imposing a rigid, disruptive requirement on City staff working with us to release data. Departments and City staff determine their own methods for working with their data, and some data is managed by people with varying technological expertise. We also set a standard for our team that, before putting any data on the portal, we would have to understand the data enough to be able to answer questions about it. In this way, we were able to secure buy-in from staff who might have been concerned about an inundation of questions about their data, which could have been disruptive to their official day jobs.
+We realized quickly that a flexible data release process was necessary. We had certain things we had to standardize, but we also wanted to avoid imposing a rigid, disruptive requirement on other City staff working with us to release data. Departments and City staff determine their own methods for working with their data, and some data is managed by people with varying technological expertise. We also set a standard for our team that, before putting any data on the portal, we would have to understand the data enough to be able to answer questions about it. In this way, we were able to secure buy-in from staff who might have been concerned about an inundation of questions about their data, which could have been disruptive to their official day jobs.
 
 For nearly all datasets, the first step in data release was a discovery meeting with the data steward. Here, we were able to ask questions and learn about any caveats or special circumstances with the data. We also established a contact who would provide us feedback for later steps of the process and help us write a title and description and data dictionary. We were able to plan how we would connect to the data source for automatic updates. By the end of the process, we had a sample of the data formatted exactly how it should be published on the portal, text describing the data, metadata values, and a plan for automation.
 
@@ -30,11 +30,11 @@ For more information about the data release process, see [Chapter 4](data_releas
 
 ## Standing up the portal
 
-Buying a portal from DKAN meant acquiring a basic structure, but that structure needed to be filled in with content. In addition to building the entire catalog, we customized the site with colors from our style guide, our new City logo and an image of San Diego on the homepage.
+Buying a portal from DKAN meant acquiring a basic structure, but that structure needed to be filled in with content. In addition to building the entire catalog, we customized the site with colors from the City's style guide, our new City logo and an image of San Diego on the homepage.
 
-We wanted a portal that would cater to many types of users, including people who might be interested in their government but not have the technical skill to download and analyze large datasets. So, we spent time crafting content beyond the data catalog that would make the portal relevant to a wider audience. We added a tutorial for the portal under a “Get started” link, and we built a section into the homepage with links for different types of users and various ways for people to get in touch and give us feedback.
+The City wanted a portal that would cater to many types of users, including people who might be interested in their government but not have the technical skill to download and analyze large datasets. So, we spent time crafting content beyond the data catalog that would make the portal relevant to a wider audience. We added a tutorial for the portal under a “Get started” link, and we built a section into the homepage with links for different types of users and various ways for people to get in touch and give us feedback.
 
-Another type of content we made use of is data stories. This feature of the portal allows us to tell stories with City data. This is particularly useful when a dataset needs to be put into context, or when we can personalize data by putting it on a map and allowing users to search for their address. We worked with City staff to build data stories that would also be useful internally. At launch, we had four data stories related to street sweeping, solar permits, water quality, and parking meters.
+Another type of content we made use of is data stories. This feature of the portal allows us to tell stories with City data. This is particularly useful when a dataset needs to be put into context, or when we can personalize data by putting it on a map and allowing users to search for their address. We worked with other City staff to build data stories that would also be useful internally. At launch, we had four data stories related to street sweeping, solar permits, water quality, and parking meters.
 
 ## Building automation
 
@@ -50,7 +50,7 @@ For our full list of next steps, see [Chapter 7](next_steps.md). Below are some 
 
 ### Continue data release
 
-Our data inventory currently has hundreds of high-quality datasets, and we expect it to grow as we automate ways to find data across the City. We have until 2020 to publish on the portal all high-value public datasets. If a dataset cannot be published, a full explanation will be included in our compliance plan.
+Our data inventory currently has hundreds of high-quality datasets, and we expect it to grow as we automate ways to find data across the City. The City has until 2020 to publish on the portal all high-value public datasets. If a dataset cannot be published, a full explanation will be included in our compliance plan.
 
 ### Maintain portal stability
 
@@ -58,11 +58,11 @@ Technology breaks, databases change, and servers go down. We will be building wa
 
 ### Launch a data help desk
 
-Increasing data literacy and promoting use of data internally are major goals of our program. We are developing a plan to launch a data help desk where City employees can request hands-on assistance using and analyzing data.
+Increasing data literacy and promoting use of data internally are major goals of our program. We are developing a plan to launch a data help desk where other City employees can request hands-on assistance using and analyzing data.
 
 ### Expand our service offerings to include analytics and technological problem-solving
 
-A data scientist will be joining our team this fiscal year to apply knowledge of statistics and technology to solve real City problems. We have heard from employees in every department about ideas they have for using data to improve services and make decisions. We have also heard that people need help using technology to better manage data.
+A data scientist will be joining our team this fiscal year to apply knowledge of statistics and technology to solve real City problems. We have heard from other employees in every department about ideas they have for using data to improve services and make decisions. We have also heard that people need help using technology to better manage data.
 
 ## Program goals
 
@@ -76,7 +76,7 @@ Take existing data management and responsibility structures, build on them and f
 
 ### Release data to the public via a strategic and predictable process
 
-Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information \(PII\), and ensuring that we describe and release data in a way that meets Open Format specifications.
+Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information \(PII\), and ensuring that the City describes and releases data in a way that meets Open Format specifications.
 
 ### Ensure that data are well described and catalogued
 

@@ -20,11 +20,11 @@ Some of the questions we addressed through these meetings were:
 
 * Are there any plans to change where the data is stored or make updates to underlying technologies?
 
-* What is the time period covered in the data? How far back can we rely on the quality of the data?
+* What is the time period covered in the data? How far back can the City rely on the quality of the data?
 
 * What does each field mean, and what are the possible values for each field?
 
-* Are there any special notes, circumstances or caveats we need to explain for users?
+* Are there any special notes, circumstances or caveats the City needs to explain for users?
 
 * How can we connect to the source system to build an automated extraction pipeline?
 
@@ -75,7 +75,7 @@ The Transportation Engineering Operations Division of the Transportation and Sto
 
 Through our meeting with the subject matter experts, we learned that the City contracts with a vendor to perform the traffic count by laying a hose on the street. The vendor then extracts data from the hose and creates a pdf report to send to the City via email. Staff in the division have been entering some key pieces of information from the pdf into a spreadsheet that keeps track of all traffic counts. A recent effort in the division to check and clean the data allowed us to use data all the way back to 2000.
 
-The meeting also revealed opportunities for better technology to improve how this data is managed and made available internally and externally. If someone wants more details about a particular traffic count than what is published through the tracking spreadsheet, a division staff person must find the full pdf that was sent via email. These pdfs are stored on a shared drive. If we could store them in the cloud, we could link the pdfs to the records in the dataset that is currently published on the portal. With the pdfs so readily available, we could save staff time spent responding to requests for the pdfs. This is something we hope to implement in the future.
+The meeting also revealed opportunities for better technology to improve how this data is managed and made available internally and externally. If someone wants more details about a particular traffic count than what is published through the tracking spreadsheet, a division staff person must find the full pdf that was sent via email. These pdfs are stored on a shared drive. If the City could store them in the cloud, we could link the pdfs to the records in the dataset that is currently published on the portal. With the pdfs so readily available, we could save staff time spent responding to requests for the pdfs. This is something we hope to implement in the future.
 
 Because the dataset is a spreadsheet in a shared drive, we were easily able to connect live to the datasource through our ETL tool and transform it for the portal. Division staff wrote a title and description and provided us with a data dictionary. Once all of those pieces were in place, this dataset was ready for the launch of the portal.
 
