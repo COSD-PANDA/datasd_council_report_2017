@@ -1,1 +1,0 @@
-![Various numbers for portal traffic](assets/report-metrics-01.png)

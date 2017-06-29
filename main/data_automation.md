@@ -1,0 +1,33 @@
+The Open Data policy aimed to make City data more accessible by publishing it on an Open Data Portal. Doing so allows residents and City staff to get access to data without having to make a formal request. However, the Open Data Policy identified other goals, including making the City more transparent and publicly accountable and creating opportunities to improve City operations and quality of life through innovative, data-driven solutions. To achieve these goals, the data on the portal must be reliable and timely. This is where automation comes in.
+
+Automated data extraction guarantees the data is transformed exactly the same way every time and is initiated on a regular schedule, as often as daily in some cases. Asking our colleagues throughout the City to be responsible for manually updating data unnecessarily adds to their workload and subjects the data to the risk of human error. Additionally, the data automation system the Data & Analytics team built can send alerts and supports prediction and other advanced analytics we hope to undertake in the future. The Data team’s philosophy has always been to let machines do what they do best - updating data, running reports over and over, and keeping track of things - and humans do what they do best - making those fuzzy decisions that only brains can make.
+
+### The initial approach to automation
+
+To get ready for the launch of the portal last year, Data & Analytics used a piece of software, SafeFME, for most [ETL](https://datasd.gitbooks.io/open-data-implementation-update-2016/content/glossary.html#etl) work. ETL - or Extract, Transform, Load - describes the three phases of getting data from one or more sources and sending it to another place. SafeFME came with the portal product we had purchased from a vendor and had an easy-to-use graphical interface. The data team could avoid writing code most of the time, which significantly sped up the process for the initial portal launch. FME handled some tasks really well, but for other tasks, like downloading files according to a pattern from an FTP site, we had to use other methods. The software also lacked two important parts of automation: scheduling and seamless upload to the cloud storage for the portal.
+
+When it came time to tackle the scheduling aspect of automation, the Data & Analytics team realized it needed a flexible and extensible solution that could scale across the entire City, and so it made sense to take another approach.
+
+### Poseidon automation
+
+Data & Analytics turned to an open source project called [Airflow](https://github.com/apache/incubator-airflow/). Airflow has become the tool of choice for Spotify, IFTTT, Lyft, AirBnB and many others. Airflow has several advantages:
+
+* Built in Python - so it’s extensible with any of thousands of Python open-source packages, like pandas, numpy and scikit-learn
+* Modular - new connections to different data sources, from a shared drive to a relational database, are easy to write
+* Open source with a strong community - so there’s plenty of support and continuous updates
+Scalable - as the City needs to do more and more, Airflow easily scales
+
+The City’s implementation of Airflow is nicknamed Poseidon. The basic idea of Poseidon is this:
+
+* Get data from a source (database, spreadsheet, map, website)
+* Do some cool nerdy stuff to it (geocode it, aggregate it, clean it)
+* Upload it (put it on the cloud that is backing our portal and a variety of other applications)
+* Run it on a schedule (once every 5 minutes, OR once every day, OR on every odd day of the month at 3:02 PM)
+
+Data & Analytics is now doing this for all dataset updates, which was a massive project over the last fiscal year. With dataset updates automated, everything built on top of our data, including StreetsSD and other visualizations, are also automatically updated. Each dataset page displays the date that particular dataset was last updated.
+
+### Alerting
+
+The diagram above illustrates dependent pieces that run in a defined cycle. By flipping out and redefining some of those pieces, you get this:
+
+Automated data is starting to get more interesting. Because of Poseidon’s flexibility, and the fact that it boils down to just a bunch of coordinated tasks, Performance & Analytics envisions a future where City staff can request and receive notifications, alerts based on thresholds, and all kinds of other real-time operational information that is only possible because of automation.

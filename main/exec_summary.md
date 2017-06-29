@@ -1,92 +1,60 @@
 # Executive Summary
 
-With the launch of the Open Data Portal at [data.sandiego.gov](http://data.sandiego.gov/), the City became the first government of any level in the entire region to create a portal that, consistent with its Open Data Policy, makes “City data available online using open standards.”\[1\] Before, City data was closed, hard to find, and misunderstood. Opening up the City's data ties in directly with each of our Strategic Goals and allows us to monitor our progress in achieving them. The policy’s goal is for all high-value public datasets to be published on our portal. 44 datasets were available at launch, and many more are at some stage of the publication process.
+Continuing to release public datasets on [data.sandiego.gov](https://data.sandiego.gov/) according to the [Open Data Policy](http://dockets.sandiego.gov/sirepub/cache/2/lznmgpnp4dggwqnashrwgedx/75784606132017103702934.PDF) is a major focus of the Performance & Analytics Department. But fulfilling the Open Data Policy is just part of a larger mission of helping people inside and outside of the City get and use data. 
 
-The Data & Analytics team has also spent the past fiscal year making progress on other goals of the Open Data Program and working within the community to promote City data and innovative, data-based strategies for making San Diego a better place to live, work, and do business.
+Toward that larger mission, P&A’s Data & Analytics team has, in the last fiscal year, initiated a data science practice, hired the City’s first Data Science Program Coordinator, built a custom Open Data Portal, built technology that will eventually allow management to receive updates on key metrics, and continued community outreach. Below are summaries of our major areas of work during the past year.
 
-This report describes the creation of a public data inventory, the launch of the open data portal, lessons learned and next steps, and our work in the community. Below are summaries of our major areas of work during the past year.
+## Data releases
 
-## The inventory and prioritization
+The Open Data Policy mandates that all high value public datasets in the City’s inventory be released by 2020. 44 datasets were released with the launch of the Open Data Portal in Fiscal Year 2016. 30 more datasets were added during Fiscal Year 2017. Through FY 2017 the City has released 46 percent of the datasets in the inventory, which exceeds a goal of 27 percent set as a P&A Key Performance Indicator in [Volume II of the City’s FY 2018 Budget](https://www.sandiego.gov/sites/default/files/fy18pb_v2performanceanalytics.pdf).
 
-Before putting any data onto a portal, we needed to determine which high-value, public datasets the City had. We began that process in Fiscal Year 2016 with a manual survey of datasets the Chief Data Officer conducted with the help of information coordinators in each department and program. The results of that survey, along with our own work discovering data across the City, contributed to the public inventory published at [datasd.org](http://www.datasd.org/inventory/). The inventory is a living document. As we continue to evaluate data we discover, we will add more public datasets.
+The inventory is not static; Performance & Analytics staff work with colleagues in departments across the City on projects to improve processes, gather survey data, increase efficiency, track performance, and improve data collection and management. As new [high-value public datasets](https://datasd.gitbooks.io/open-data-implementation-update-2016/content/main/prioritization.html) are discovered during this work, they are evaluated and added to the list. The inventory originally included 136 datasets and has grown to 155.
 
-Once we had established the beginnings of a high-value public inventory, we had to consider the quality, security and readiness of each dataset as part of our prioritization process. The inventory gave us 136 public datasets to work with, and prioritization identified the first 44 that were published at the launch of the open data portal.
+Each dataset on the inventory has a target fiscal year for release. This schedule is part of the inventory, which [exists as a downloadable dataset](https://data.sandiego.gov/datasets/data-inventory/) on the Open Data Portal.
 
-## Portal launch
+## Data Science program
 
-An open data portal is really just a website containing a catalog of City data. After considering which portal product to use from among multiple vendors, the City chose DKAN. DKAN is an open-source Drupal website that conforms to federal DCAT schemas. DKAN has an intuitive user interface, and it also offers extra features such as a customizable pages, data stories and charting capabilities.
+Performance & Analytics hired a Data Science Program Coordinator and has started a Data Science Program. The Data & Analytics team has begun to engage with City departments to create data-driven solutions to challenges they face.  Arnaud Vedy, P&A’s data scientist, has already helped Development Services Department, Environmental Services Department, City Treasurer, Risk Management, and the Get it Done program.
 
-Launching the portal required us to simultaneously manage three main efforts: conducting a data release process for all 44 datasets; standing up the portal; and building automation for data updates.
+## Custom Open Data Portal
 
-## Data release process
+When the Open Data Portal first launched, the City purchased a portal product from a vendor. That portal product, called DKAN, had many advantages, including that it was easy to get up-and-running so we could launch the Open Data Portal as quickly as possible.
 
-We realized quickly that a flexible data release process was necessary. We had certain things we had to standardize, but we also wanted to avoid imposing a rigid, disruptive requirement on other City staff working with us to release data. Departments and City staff determine their own methods for working with their data, and some data is managed by people with varying technological expertise. We also set a standard for our team that, before putting any data on the portal, we would have to understand the data enough to be able to answer questions about it. In this way, we were able to secure buy-in from staff who might have been concerned about an inundation of questions about their data, which could have been disruptive to their official day jobs.
+The desire to have more control over the portal as well as save the City money led the Data & Analytics team to build a custom Open Data Portal in Fiscal Year 2017.
 
-For nearly all datasets, the first step in data release was a discovery meeting with the data steward. Here, we were able to ask questions and learn about any caveats or special circumstances with the data. We also established a contact who would provide us feedback for later steps of the process and help us write a title and description and data dictionary. We were able to plan how we would connect to the data source for automatic updates. By the end of the process, we had a sample of the data formatted exactly how it should be published on the portal, text describing the data, metadata values, and a plan for automation.
+## Completing our automation pipeline
 
-As we finalized data samples, we had to decide how pieces of content would be organized according to the DCAT schema. With DCAT, a “dataset” is a container that contains downloadable files, or “resources.” On each dataset page on the portal, you will find multiple resources. At the minimum, we have one resource for the most granular level of data and one resource that contains the data dictionary. Other datasets also include resources for different aggregations of data, or for data that had to be broken up into different years.
+Automation is a crucial component of the City’s Data & Analytics program. This is because data should be timely and reliable, and no City staff should be responsible for remembering to run a report on a daily, weekly, or monthly schedule and manually upload it to a data portal. Much of the automation pipeline for publishing City data on the Open Data Portal was in place when the portal launched last Fiscal Year, including our connections to City data sources and a tool that transformed the data for publication.
 
-For more information about the data release process, see [Chapter 4](data_release.md). For more information about DCAT and how our catalog is organized, see [Chapter 5](portal_launch.md).
+In Fiscal Year 2017, the Data & Analytics team focused on automation, specifically the scheduling component that allows data updates to run on a dedicated server on a specific schedule without any human involvement. When the first portal was launched, the City relied on a proprietary software to transform data for publication, but this year has transitioned to a scheduling component written in the Python programming language that works well with the new custom data portal.
 
-## Standing up the portal
-
-Buying a portal from DKAN meant acquiring a basic structure, but that structure needed to be filled in with content. In addition to building the entire catalog, we customized the site with colors from the City's style guide, our new City logo and an image of San Diego on the homepage.
-
-The City wanted a portal that would cater to many types of users, including people who might be interested in their government but not have the technical skill to download and analyze large datasets. So, we spent time crafting content beyond the data catalog that would make the portal relevant to a wider audience. We added a tutorial for the portal under a “Get started” link, and we built a section into the homepage with links for different types of users and various ways for people to get in touch and give us feedback.
-
-Another type of content we made use of is data stories. This feature of the portal allows us to tell stories with City data. This is particularly useful when a dataset needs to be put into context, or when we can personalize data by putting it on a map and allowing users to search for their address. We worked with other City staff to build data stories that would also be useful internally. At launch, we had four data stories related to street sweeping, solar permits, water quality, and parking meters.
-
-## Building automation
-
-Automating updates is the only reliable way to ensure timely and consistent updates. Extract, Transform and Load \(ETL\) is a three-phase process that controls how we connect to the data, or extract it, how we get it ready for publication, or transform it, and finally how we get it onto the portal, or load it. It wouldn’t make sense to rely on computer processes to extract and transform data, but then have a person upload it.
-
-Getting connections to City data sources was time-consuming, but we were able to get them in most cases. Many of our datasets come from relational databases or spreadsheets stored on shared drives, and we were able to get the appropriate credentials and permissions. In a few cases, the data we wanted was stored in systems maintained by a vendor with whom the City contracts. We worked with these vendors to create regular automatic extracts from their databases and store them in a place we can access over the internet.
-
-Although 44 data sets are on the portal, we are still completing the connections between our transformed datasets and the portal. We also need to write scheduling code that will initiate ETL at different frequencies depending on the dataset.
 
 ## Next steps
 
-For our full list of next steps, see [Chapter 7](next_steps.md). Below are some of our major areas of work in the near future.
+Besides releasing additional data, the Data & Analytics team has the following objectives for Fiscal Year 2018:
 
-### Continue data release
+### Continue to improve the custom Open Data Portal
 
-Our data inventory currently has hundreds of high-quality datasets, and we expect it to grow as we automate ways to find data across the City. The City has until 2020 to publish on the portal all high-value public datasets. If a dataset cannot be published, a full explanation will be included in our compliance plan.
+The Data & Analytics team tracks how people use the portal and collects feedback on the design and functionality. Because the portal was built in-house, the team can maintain a list of improvements and bugs in a Github repository and make fixes without the additional costs that would come with asking a vendor to make changes.
 
-### Maintain portal stability
+Some of the improvements on the list include:
+* Expanding data preview options beyond the simple rows-and-columns view that is currently available on each dataset page to include maps and charts where applicable
+* Giving users the ability to create a chart on a dataset page without having to download the data, and offering summary metrics about the data at the top of the dataset page
+* Reorganizing geospatial data from a generic category of “GIS” (Geographic Information Systems) to other topical categories that will be more relevant
+* Adding a page with portal and dataset usage numbers
 
-Technology breaks, databases change, and servers go down. We will be building ways to monitor our technology and receive alerts when we need to act.
+### Increase data portal users
 
-### Launch a data help desk
+The data portal has three target user groups: technologists, city employees, and residents. The City knows from usage numbers that people are visiting the portal and downloading data, but the Data & Analytics team is always looking for ways to increase usage. Strategies for getting more users include making the portal easier to navigate, adding features that increase relevance for each user group, and continuing to promote the portal and all the great data it contains in as many different forums as possible.
 
-Increasing data literacy and promoting use of data internally are major goals of our program. We are developing a plan to launch a data help desk where other City employees can request hands-on assistance using and analyzing data.
+Since the portal launched in June 2016, datasets have been downloaded 140,000 times for a total of 1.2 terabytes of data downloaded.
 
-### Expand our service offerings to include analytics and technological problem-solving
+### Develop data microservices and APIs
 
-A data scientist will be joining our team this fiscal year to apply knowledge of statistics and technology to solve real City problems. We have heard from other employees in every department about ideas they have for using data to improve services and make decisions. We have also heard that people need help using technology to better manage data.
+Offering portal users granular data (i.e. all requests for service made through the pilot Get it Done program) helps citizens and City staff take a deep dive into the data to find solutions and improve life in San Diego.
 
-## Program goals
+Now that the data portal features many granular, automatically updated datasets, Data & Analytics can add value by delivering data in custom formats to different users. For example, staff in a City Council office might like to know how many potholes were reported to Get it Done in the district and get those numbers delivered via email.
 
-### Increase data literacy within the City and with those who interact with the City
+### Continue developing the data science program
 
-There are various levels of understanding of what are data, metadata, Open Data, etc.
-
-### Manage data as an asset, formalizing existing oversight and ownership
-
-Take existing data management and responsibility structures, build on them and formalize them to create a robust data management program that would prevent data duplication and rework, as well as ensure sustainability of Open Data release.
-
-### Release data to the public via a strategic and predictable process
-
-Data releases must account for a multitude of factors including communications with stakeholders, data integrity, personally identifiable information \(PII\), and ensuring that the City describes and releases data in a way that meets Open Format specifications.
-
-### Ensure that data are well described and catalogued
-
-Understanding what data we have is crucial to both Open Data and data management. We worked with departments to create an initial inventory, and now we need to provide processes for how it can stay current.
-
-### Support increased use of data in decision making, as well as innovations in Open Data use
-
-The City of San Diego is a talented workforce that makes data-driven decisions every day. In addition, fostering and expanding interest in government data from residents and other users is crucial to delivering the benefits of an Open Data program.
-
----
-
-\[1\] City of San Diego Open Data Policy: Purpose
-
+Data & Analytics will work with City departments to uncover and solve challenges. The team would also like to strengthen connections with the higher education community and create a partnership that puts our data in front of data science students.
