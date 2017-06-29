@@ -1,11 +1,13 @@
 # City of San Diego
 ## About this Report
 
-This second annual report on the progress of the Open Data Policy is focused on achievement of a major milestone: the launch of the Open Data Portal. The portal was the result of nearly two years of hard work by the Data & Analytics team, the larger Performance & Analytics Department, and the information coordinators and data stewards throughout the City who provided critical support to our efforts. The City of San Diego has greatly improved transparency and efficiency in these two short years and is in position to become a leader in data-enabled government.
+The third annual report on the Open Data Program is focused on iteration and growth.  The City launched the first iteration of the Open Data portal just a short year ago.  Since then, Data & Analytics team within the Performance & Analytics Department (P&A) built a new and improved custom portal that saves both time and money, designed and implemented an internal data automation system, hired a data scientist, and completed a variety of projects.
 
-The portal is just one example of how the Open Data Policy has instigated change across the City. Our Police Department committed to releasing data as part of the White House Police Data Initiative. Our Public Records Act Request process became more efficient with the launch of an online tool, NextRequest. The City published its first public-facing performance dashboard featuring more than 30 metrics. Employees in every department have approached us with ideas about how they can use data to improve how the City does business. Making data available on the portal will empower employees to continue to innovate.
+Last year we wrote that the City of San Diego is in position to become a leader in data-enabled government. Today, cities across the country look to our program to help them understand how they can automate data and decrease portal costs.
 
-We will be expanding our services in the near future to include using analytics to solve real City problems and are exploring our capacity to offer a broader data education program. We look forward to helping the City and the larger community realize more of the benefits of open data.
+The portal and automation are just two examples of how the Open Data Policy has facilitated change across the City. The Police Department committed to releasing data as part of the White House Police Data Initiative, and has released multiple datasets through the portal. Staff from each department have approached us with ideas about how they can use data to improve how the City does business and delivers services to our residents. As a positive conclusion to the Fiscal Year, City employee Brian Olson placed first in a San Diego Startup Week Hackathon, with a project that used data from the portal.
+
+We’re just getting started. In FY 18 we will be expanding our analytics services, building more products, releasing more data, and making it available in more formats to increase the number of people of all skillsets who can use our data. If you want to follow what we’re up to, check out [https://data.sandiego.gov/stories/](https://data.sandiego.gov/stories/) for the latest!
 
 <div class="section group sig">
     <div class="col span_1_of_2">
