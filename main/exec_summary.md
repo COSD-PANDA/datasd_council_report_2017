@@ -23,9 +23,7 @@ When the Open Data Portal first launched, the City purchased a portal product fr
 The desire to have more control over the portal as well as save the City money led the Data & Analytics team to build a custom Open Data Portal in Fiscal Year 2017.
 
 
-
-
-
+<div style="page-break-after: always;"></div>
 
 
 ## Completing our automation pipeline
