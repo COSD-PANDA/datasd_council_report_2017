@@ -12,6 +12,10 @@ A portal created in-house that worked perfectly with the automation process was 
 
 ![New Portal](https://data.sandiego.gov/assets/img/stories/new-portal.jpg)
 
+
+<div style="page-break-after: always;"></div>
+
+
 ### Blog
 
 A data story is a concept the previous data portal introduced. These stories put City data into maps and charts and allow City staff to write accompanying text that provides context. A data story is a good way to provide ideas on what’s possible with data or to show overall trends to people who may not want to spend time downloading and analyzing a large dataset.

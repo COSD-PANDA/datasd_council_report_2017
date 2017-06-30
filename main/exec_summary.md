@@ -53,6 +53,8 @@ The data portal has three target user groups: technologists, city employees, and
 
 Since the portal launched in June 2016, datasets have been downloaded 140,000 times for a total of 1.2 terabytes of data downloaded.
 
+<div style="page-break-after: always;"></div>
+
 ### Develop data microservices and APIs
 
 Offering portal users granular data \(i.e. all requests for service made through the pilot Get it Done program\) helps citizens and City staff take a deep dive into the data to find solutions and improve life in San Diego.
