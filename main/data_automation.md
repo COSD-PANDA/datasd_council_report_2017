@@ -10,6 +10,10 @@ To get ready for the launch of the portal last year, Data & Analytics used a pie
 
 When it came time to tackle the scheduling aspect of automation, the Data & Analytics team realized it needed a flexible and extensible solution that could scale across the entire City, and so it made sense to take another approach.
 
+
+<div style="page-break-after: always;"></div>
+
+
 ### Poseidon automation
 
 Data & Analytics turned to an open source project called [Airflow](https://github.com/apache/incubator-airflow/). Airflow has become the tool of choice for Spotify, IFTTT, Lyft, AirBnB and many others. The City of San Diego is the first government organization to successfully deploy Airflow into production. Airflow has several advantages:
