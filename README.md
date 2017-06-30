@@ -1,7 +1,7 @@
 # City of San Diego
 ## About this Report
 
-The third annual report on the Open Data Program is focused on iteration and growth.  The City launched the first iteration of the Open Data portal just a short year ago.  Since then, Data & Analytics team within the Performance & Analytics Department (P&A) built a new and improved custom portal that saves both time and money, designed and implemented an internal data automation system, hired a data scientist, and completed a variety of projects.
+The third annual report on the Open Data Program is focused on iteration and growth.  The City launched the first iteration of the Open Data portal just a short year ago.  Since then, the Data & Analytics team within the Performance & Analytics Department (P&A) built a new and improved custom portal that saves both time and money, designed and implemented an internal data automation system, hired a data scientist, and completed a variety of projects.
 
 Last year we wrote that the City of San Diego is in position to become a leader in data-enabled government. Today, cities across the country look to our program to help them understand how they can automate data and decrease portal costs.
 
