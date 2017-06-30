@@ -11,7 +11,7 @@
     "plugins" : ["ga" ],
     "pluginsConfig": {
       "ga": {
-        "token": "UA-57709205-12"
+        "token": "UA-57709205-13"
       }
     },
     "gitbook": ">=2.0.0",
