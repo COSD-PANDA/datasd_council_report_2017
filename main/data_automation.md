@@ -28,6 +28,10 @@ The City’s implementation of Airflow is nicknamed Poseidon. The basic idea of 
 * Upload it \(put it on the cloud that is backing our portal and a variety of other applications\)
 * Run it on a schedule \(once every 5 minutes, OR once every day, OR on every odd day of the month at 3:02 PM\)
 
+
+<div style="page-break-after: always;"></div>
+
+
 Here's an example DAG \(Directed Acyclic Graph, or a set of task that has to be run in a non-linear sequence\):
 
 ![DSD Dag](https://data.sandiego.gov/assets/img/stories/airflow-dsd-approvals.jpg)
@@ -39,7 +43,7 @@ This DAG does the following:
 * Since the files are separated into completed, applied, and issued, perform the following operations on each of the files:
   * Traverse the resulting file, hitting the API endpoint for each approval, to collect more information for it.
   * Process the incoming information for each approval
-  * Merge with the existing base data 
+  * Merge with the existing base data
   * Upload the file
   * Extract solar data subset
   * Upload solar subset
