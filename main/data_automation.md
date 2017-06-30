@@ -10,24 +10,46 @@ When it came time to tackle the scheduling aspect of automation, the Data & Anal
 
 ### Poseidon automation
 
-Data & Analytics turned to an open source project called [Airflow](https://github.com/apache/incubator-airflow/). Airflow has become the tool of choice for Spotify, IFTTT, Lyft, AirBnB and many others. Airflow has several advantages:
+Data & Analytics turned to an open source project called [Airflow](https://github.com/apache/incubator-airflow/). Airflow has become the tool of choice for Spotify, IFTTT, Lyft, AirBnB and many others. The City of San Diego is the first government organization to successfully deploy Airflow into production. Airflow has several advantages:
 
-* Built in Python - so it’s extensible with any of thousands of Python open-source packages, like pandas, numpy and scikit-learn
-* Modular - new connections to different data sources, from a shared drive to a relational database, are easy to write
+* Built in Python - so it’s extensible with any of thousands of Python open-source packages, like pandas, numpy and scikit-learn. More importantly, we can use this extensibility to be able to connect to the wide variety of different systems scattered across the City.
+* Modular - new connections to different data sources, from a shared drive to a relational database, are easy to write. For example, when we need a connector to a system running technology X, there’s already a lot of started code to create the connector to that type of system.  This also lets us quickly pinpoint and fix bugs and failure points without compromising overall system stability.
 * Open source with a strong community - so there’s plenty of support and continuous updates
 Scalable - as the City needs to do more and more, Airflow easily scales
 
 The City’s implementation of Airflow is nicknamed Poseidon. The basic idea of Poseidon is this:
+
+![Automation Chart](https://data.sandiego.gov/assets/img/stories/simple_etl.jpg)
 
 * Get data from a source (database, spreadsheet, map, website)
 * Do some cool nerdy stuff to it (geocode it, aggregate it, clean it)
 * Upload it (put it on the cloud that is backing our portal and a variety of other applications)
 * Run it on a schedule (once every 5 minutes, OR once every day, OR on every odd day of the month at 3:02 PM)
 
+Here's an example DAG (Directed Acyclic Graph, or a set of task that has to be run in a non-linear sequence):
+
+![DSD Dag](https://data.sandiego.gov/assets/img/stories/airflow-dsd-approvals.jpg)
+
+This DAG does the following:
+* Get the latest DSD Approvals in Zip form
+* Unzip them
+* Since the files are separated into completed, applied, and issued, perform the following operations on each of the files:
+    * Traverse the resulting file, hitting the API endpoint for each approval, to collect more information for it.
+    * Process the incoming information for each approval
+    * Merge with the existing base data 
+    * Upload the file
+    * Extract solar data subset
+    * Upload solar subset
+    * Update the metadata on the portal
+
+This is a massively time consuming task if done manually.  However, now, it runs every day without us having to think about it.  And it runs correctly every time - we know because we get an email from the system in case there are errors or warning.
+
 Data & Analytics is now doing this for all dataset updates, which was a massive project over the last fiscal year. With dataset updates automated, everything built on top of our data, including StreetsSD and other visualizations, are also automatically updated. Each dataset page displays the date that particular dataset was last updated.
 
 ### Alerting
 
 The diagram above illustrates dependent pieces that run in a defined cycle. By flipping out and redefining some of those pieces, you get this:
+
+![Alerting Chart](https://data.sandiego.gov/assets/img/stories/adv_flow_diagram.jpg)
 
 Automated data is starting to get more interesting. Because of Poseidon’s flexibility, and the fact that it boils down to just a bunch of coordinated tasks, Performance & Analytics envisions a future where City staff can request and receive notifications, alerts based on thresholds, and all kinds of other real-time operational information that is only possible because of automation.

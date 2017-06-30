@@ -6,7 +6,9 @@ The Data & Analytics team built an alternative process for updating data that re
 
 A portal created in-house that worked perfectly with the automation process was the obvious solution, especially because the data team had the technical skill to create what is essentially just a website. All this website needs to become a data portal is a page with a list of datasets - the catalog - and individual pages for each dataset that contain links to download the data. P&A also wanted more control over the design and functionality of the portal, but adding functionality and features to a vendor product would end up costing taxpayers money that could be better spent.
 
-## New features
+## New portal, new features
+
+![New Portal](https://data.sandiego.gov/assets/img/stories/new-portal.jpg)
 
 ### Blog
 
@@ -31,3 +33,4 @@ Some of the improvements on the list include:
 * Giving users the ability to create a chart on a dataset page without having to download the data, and offering summary metrics about the data at the top of the dataset page
 * Reorganizing geospatial data from a generic category of “GIS” (Geographic Information Systems) to other topical categories that will be more relevant
 * Adding a page with portal and dataset usage numbers
+
