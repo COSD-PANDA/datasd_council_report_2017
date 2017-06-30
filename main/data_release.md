@@ -1,4 +1,4 @@
-
+# Data Releases
 
 The Performance & Analytics Department maintains an inventory of high-value, public datasets to release on the Open Data Portal over the first 5 years of the policy. Learn more about how P&A created and is maintaining this inventory in [The Fiscal Year 2016 Annual Update](https://datasd.gitbooks.io/open-data-implementation-update-2016/content/main/prioritization.html). Review the inventory [here](https://data.sandiego.gov/datasets/data-inventory/). The 2016 update also contains information about how P&A determines the publication schedule for every dataset in the inventory.
 
