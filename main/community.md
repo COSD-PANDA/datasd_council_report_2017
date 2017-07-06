@@ -1,23 +1,23 @@
 ## Helping people get and use data
 
-Part of the success of an Open Data program can be measured by whether people, both inside and outside of the City, are using the data. Data & Analytics staff participates in community events to promote the Open Data Portal and the Data & Analytics program as well as teach people how to use the portal to download and analyze data.
+Part of the success of an Open Data program can be evaluated by whether people, both inside and outside of the City, are using the data. City staff participates in community events to promote the Open Data Portal and teach people how to use the portal to download and analyze data.
 
 ### Public speaking
 
 #### ODI camping trip
-Chief Data Officer Maksim Pecherskiy was invited join the Ocean Discovery Institute on a trip to Mexico to talk to high schoolers about why data matters.
+Chief Data Officer Maksim Pecherskiy was invited to join the Ocean Discovery Institute on a trip to Mexico to talk to high schoolers about why data matters.
 
 #### Strata
 Pecherskiy spoke on a panel at the Strata Data Conference about how the City used [Alation](https://alation.com/product/), a cataloging tool that can help City staff share knowledge about databases with each other, to help build the City’s [StreetsSD](http://streets.sandiego.gov/) map of street repair projects.
 
 #### Forbes Smart City conference
-A panel called “Hacking the City” at the Forbes Digital Revolution Summit featured CDO Maksim Pecherskiy along with the CIO of San Francisco and a director at 1776 Startup Incubator. The panel addressed how data analytics and Smart City technologies are changing cities.
+A panel called “Hacking the City” at the Forbes Digital Revolution Summit featured Pecherskiy along with the CIO of San Francisco and a director at 1776 Startup Incubator. The panel addressed how data analytics and Smart City technologies are changing cities.
 
 #### UCSD data science lecture
-Pecherskiy spoke to data science students about what the Data & Analytics team does within the City of San Diego.
+Pecherskiy spoke to data science students about the budding analytics practice in the City of San Diego.
 
 #### Presentation to Dutch healthcare executives
-A group of about 40 executives in the Dutch healthcare industry visited the City after attending an Exponential Medicine Conference. This group heard a presentation about the Performance & Analytics Department in general, with a special focus on the City’s Data & Analytics work.
+A group of about 40 executives in the Dutch healthcare industry visited the City after attending an Exponential Medicine Conference. This group heard a presentation about the Performance & Analytics Department in general, with a special focus on the City’s use of data.
 
 #### Smart Cities Connect Conference & Expo
 Data Scientist Arnaud Vedy participated in a panel about how to leverage the work of open data users to enrich the understanding of datasets by adding metadata.
@@ -26,7 +26,7 @@ Data Scientist Arnaud Vedy participated in a panel about how to leverage the wor
 P&A Director Almis Udrys spoke at two state association meetings, focusing the presentation on how the City operationalizes the buzzwords of efficiency, transparency, and accountability through efforts like the open data program.
 
 #### Open Source Governance
-Udrys also spoke on a panel in Sacramento about the City’s approaches to open data and transparency.
+Udrys also spoke on a panel in Sacramento about the City’s model approaches to open data and transparency.
 
 #### Award ceremony for StreetsSD
 The American Public Works Association gave an Honor Award to the StreetsSD interactive map.
@@ -46,16 +46,16 @@ The City was recognized by Governing Institute with a 3rd place national ranking
 City Data Scientist Arnaud Vedy offers a monthly workshop to teach community members techniques for analyzing data. So far, workshops have focused on using [Lidar](http://oceanservice.noaa.gov/facts/lidar.html) data and on performing a spatial join on two datasets to determine number of businesses in the El Cajon Business Improvement District and put the results on a web map.
 
 #### Alation customer advisory board
-[Alation](https://alation.com/product/) is a cataloging tool that can help City staff share knowledge about databases with each other. This tool helped the Data & Analytics team automate data extraction for street repair projects that are featured on the City’s [StreetsSD](http://streets.sandiego.gov/) map. Chief Data Officer Maksim Pecherskiy participated as an advisor at an Alation event that involved sharing best practices.
+[Alation](https://alation.com/product/) is a cataloging tool that can help City staff share knowledge about databases with each other. This tool helped automate data extraction for street repair projects that are featured on the City’s [StreetsSD](http://streets.sandiego.gov/) map. Chief Data Officer Maksim Pecherskiy participated as an advisor at an Alation event that involved sharing best practices.
 
 #### Zoo hackathon
 The San Diego Zoo participated in a hackathon event along with zoos in Seattle, Sydney, London and Washington, D.C. The hackathon aimed to develop technology to help solve problems in animal conservation, including wildlife trafficking. A team of people from the City came up with an idea for detecting poachers, and the San Diego Zoo is further developing this idea along with colleagues in London. 
 
 #### UCSD data science contest
-Data Scientist Arnaud Vedy judged projects submitted to a UCSD Data Analytics Student Challenge alongside alum DJ Patil, who served as Chief Data Scientist in the White House. Students in the challenge were tasked with analyzing data available on the Open Data Portal and use findings to create a project that improved life in San Diego. The winners used data on requests for pothole repairs made through Get It Done.
+Data Scientist Arnaud Vedy judged projects submitted to a UCSD Data Analytics Student Challenge alongside alum DJ Patil, who served as Chief Data Scientist in the White House. Students in the challenge were tasked with analyzing data available on the Open Data Portal and using findings to create a project that improved life in San Diego. The winners used data on requests for pothole repairs made through Get It Done.
 
 #### Open San Diego data day
-Members of Open San Diego, a local Code for America brigade, held a data day where CDO Maksim Pecherskiy spoke about data available on the Open Data Portal.
+Members of Open San Diego, a local Code for America brigade, held a data day where Pecherskiy spoke about data available on the Open Data Portal.
 
 #### Civic Analytics Network
 The Civic Analytics Network is a project of Harvard’s Ash Center for Democratic Governance & Innovation. The group consists of chief data officers from various cities who meet biannually to discuss issues facing the government open data community. Twice annually, Pecherskiy participates in the group’s roundtable meetings. 
@@ -84,4 +84,4 @@ The Performance Management section of Performance & Analytics would spend a sign
 Bryan Olson with Environmental Services Department met with the Data & Analytics team for help on a Python script to calculate electricity demand charges for buildings with and without solar installations.
 
 #### Waze data collection
-The City of San Diego announced a data sharing partnership with Waze, a navigation app. The City sends Waze information about road closures and special events, and Waze shares traffic data with the City. Data & Analytics collected this data for a period of time to be able to analyze traffic patterns, especially as the City makes progress on its Climate Action Plan.
+The City of San Diego announced a data sharing partnership with Waze, a navigation app. The City sends Waze information about road closures and special events, and Waze shares traffic data with the City. This data helps the City with analyzing traffic patterns in support of the City's [Climate Action Plan](https://www.sandiego.gov/sustainability).

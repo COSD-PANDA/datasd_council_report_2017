@@ -40,7 +40,7 @@ Besides releasing additional data, the Data & Analytics team has the following o
 
 The Data & Analytics team tracks how people use the portal and collects feedback on the design and functionality. Because the portal was built in-house, the team can maintain a list of improvements and bugs in a Github repository and make fixes without the additional costs that would come with asking a vendor to make changes.
 
-Some of the improvements on the list include:
+Some of the improvements on the list for FY18 include:
 
 * Expanding data preview options beyond the simple rows-and-columns view that is currently available on each dataset page to include maps and charts where applicable
 * Giving users the ability to create a chart on a dataset page without having to download the data, and offering summary metrics about the data at the top of the dataset page
@@ -49,7 +49,7 @@ Some of the improvements on the list include:
 
 ### Increase data portal users
 
-The data portal has three target user groups: technologists, city employees, and residents. The City knows from usage numbers that people are visiting the portal and downloading data, but the Data & Analytics team is always looking for ways to increase usage. Strategies for getting more users include making the portal easier to navigate, adding features that increase relevance for each user group, and continuing to promote the portal and all the great data it contains in as many different forums as possible.
+The data portal has three target user groups: technologists, City employees, and residents. The City knows from usage numbers that people are visiting the portal and downloading data, but the Data & Analytics team is always looking for ways to increase usage. Strategies for getting more users include making the portal easier to navigate, adding features that increase relevance for each user group, and continuing to promote the portal and all the great data it contains in as many different forums as possible.
 
 Since the portal launched in June 2016, datasets have been downloaded 140,000 times for a total of 1.2 terabytes of data downloaded.
 
@@ -57,11 +57,11 @@ Since the portal launched in June 2016, datasets have been downloaded 140,000 ti
 
 ### Develop data microservices and APIs
 
-Offering portal users granular data \(i.e. all requests for service made through the pilot Get it Done program\) helps citizens and City staff take a deep dive into the data to find solutions and improve life in San Diego.
+Offering portal users granular data \(i.e. all requests for service made through the pilot Get it Done program\) helps residents and City staff take a deep dive into the data to find solutions and improve life in San Diego.
 
 Now that the data portal features many granular, automatically updated datasets, Data & Analytics can add value by delivering data in custom formats to different users. For example, staff in a City Council office might like to know how many potholes were reported to Get it Done in the district and get those numbers delivered via email.
 
 ### Continue developing the data science program
 
-Data & Analytics will work with City departments to uncover and solve challenges. The team would also like to strengthen connections with the higher education community and create a partnership that puts our data in front of data science students.
+Data & Analytics will work with City departments to uncover and solve challenges. The team is also committed to strengthening connections with the higher education community and create a partnership that puts our data in front of data science students.
 

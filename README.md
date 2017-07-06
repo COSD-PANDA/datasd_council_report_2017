@@ -7,7 +7,7 @@ Last year we wrote that the City of San Diego is in position to become a leader 
 
 The portal and automation are just two examples of how the Open Data Policy has facilitated change across the City. The Police Department committed to releasing data as part of the White House Police Data Initiative, and has released multiple datasets through the portal. Staff from each department have approached us with ideas about how they can use data to improve how the City does business and delivers services to our residents. As a positive conclusion to the Fiscal Year, City employee Brian Olson placed first in a San Diego Startup Week Hackathon, with a project that used data from the portal.
 
-We’re just getting started. In FY 18 we will be expanding our analytics services, building more products, releasing more data, and making it available in more formats to increase the number of people of all skillsets who can use our data. If you want to follow what we’re up to, check out [https://data.sandiego.gov/stories/](https://data.sandiego.gov/stories/) for the latest!
+We’re just getting started. In FY 18 we will be expanding our analytics services, building more products, releasing more data, and making it available in more formats to increase the number of people of any skill level who can use our data. If you want to follow what we’re up to, check out [https://data.sandiego.gov/stories/](https://data.sandiego.gov/stories/) for the latest!
 
 <div class="section group sig">
     <div class="col span_1_of_2">
