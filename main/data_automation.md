@@ -25,7 +25,7 @@ To deploy automation, Data & Analytics turned to an open source project called [
 
 The City’s implementation of Airflow is nicknamed Poseidon. The basic idea of Poseidon is this:
 
-![Automation Chart](https://data.sandiego.gov/assets/img/stories/simple_etl.jpg)
+![Automation Chart](http://take.ms/KAeUw)
 
 * Get data from a source \(database, spreadsheet, map, website\)
 * Do some cool nerdy stuff to it \(geocode it, aggregate it, clean it\)
@@ -65,7 +65,7 @@ Data & Analytics is now doing this for all dataset updates, which was a massive 
 
 The diagram above illustrates dependent pieces that run in a defined cycle. By flipping out and redefining some of those pieces, you get this:
 
-![Alerting Chart](https://data.sandiego.gov/assets/img/stories/adv_flow_diagram.jpg)
+![Alerting Chart](http://take.ms/Icuwsc)
 
 Automated data is starting to get more interesting. Because of Poseidon’s flexibility, and the fact that it boils down to just a bunch of coordinated tasks, Performance & Analytics envisions a future where City staff can request and receive notifications, alerts based on thresholds, and all kinds of other real-time operational information that is only possible because of automation.
 
