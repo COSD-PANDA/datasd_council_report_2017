@@ -30,6 +30,9 @@ The Data & Analytics team took a different approach with its custom data portal.
 
 The codebase itself is a static HTML site. All content exists within HTML markup and loads quickly. Static sites can become time-consuming to update and normally require a person to be able to write HTML code. To avoid unnecessary time waste, Data & Analytics uses a tool called Jekyll. Jekyll has a specific file structure for different types of content and compiles content to build a static copy of a website. The data team can use [Markdown](https://en.wikipedia.org/wiki/Markdown) for blocks of text, [includes](https://jekyllrb.com/docs/includes/) for things like headers and footers, and [data files](https://jekyllrb.com/docs/datafiles/) for things like the list of City departments that populates a menu in a sidebar. When the portal needs an update, the team runs Jekyll, and a new static copy of the website is created. With automatically updated data, the data team could not have a portal that required regular manual updates, so it scripted a solution that runs Jekyll on a schedule without human intervention. This is necessary for updating the last-modified dates for datasets.
 
+
+<div style="page-break-after: always;"></div>
+
 ### More control over design
 
 With control over the content and design of the portal, P&A can collect usage data, conduct user testing, and otherwise get feedback to improve its design and functionality. The Data & Analytics team keeps a list of improvements in the Github repo, prioritizes these improvements, and completes the work in short bursts, or sprints.
