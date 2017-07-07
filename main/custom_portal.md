@@ -40,6 +40,3 @@ Some of the improvements on the list for FY18 include:
 * Giving users the ability to create a chart on a dataset page without having to download the data, and offering summary metrics about the data at the top of the dataset page
 * Reorganizing geospatial data from a generic category of “GIS” \(Geographic Information Systems\) to other topical categories that will be more relevant
 * Adding a page with portal and dataset usage numbers
-
-
-
