@@ -17,8 +17,9 @@ Data science projects so far have included everything from advanced web data ext
 Some examples of the work we’ve done:
 
 * Used OpenDSD data to evaluate historical changes in permit issue time
+* Analyzed Risk Management data to understand patterns in city litigation cases
 * Displayed open and closed parking meters in the city on a map. This project is still under development and relies on data from a vendor that provides the City’s smart parking meters.
-* Automated reporting and data delivery for Transportation & Storm Water Department’s Streets Division. City staff used to spend a large amount of time manually creating reports. Report creation is now automated, and staff get an email with updated files every day.  
+* Automated reporting and data delivery for Transportation & Storm Water Department’s Streets Division. City staff used to spend a large amount of time manually creating reports every month to load into IMCAT.  Report creation is now automated, and staff get an email with updated files every day.  
 
 The goal for the next year is to continue improving the process for data science projects. Data & Analytics also plans to build additional infrastructure to enable deployable machine learning models and automated decision systems - we’re currently looking into pothole repair prioritization.
 
